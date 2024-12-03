@@ -1,0 +1,76 @@
+Code,Language,Family,Speaker,Vitality,Country,Digital Language Support
+aar,Afar,Afro-Asiatic,1M to 1B,Institutional,Ethiopia,Emerging
+awn,Agaw,Afro-Asiatic,10K to 1M,Stable,Ethiopia,Emerging
+sqi,Albanian,Indo-European,1M to 1B,Stable,Albania,Emerging
+amh,Amharic,Afro-Asiatic,1M to 1B,Institutional,Ethiopia,Vital
+ara,Arabic,Afro-Asiatic,More than 1B,Institutional,Egypt,Thriving
+ast,Asturian,Indo-European,10K to 1M,Endangered,Spain,Ascending
+bej,Beja,Afro-Asiatic,1M to 1B,Institutional,Sudan,Emerging
+bel,Belarusian,Indo-European,1M to 1B,Stable,Belarus,Vital
+bre,Breton,Indo-European,10K to 1M,Endangered,France,Ascending
+bul,Bulgarian,Indo-European,1M to 1B,Institutional,Bulgaria,Thriving
+cat,Catalan,Indo-European,1M to 1B,Institutional,Spain,Thriving
+che,Chechen,Nakh-Daghestanian,1M to 1B,Stable,Russian Federation,Emerging
+cor,Cornish,Indo-European,Less than 10K,Endangered,United Kingdom,Ascending
+cos,Corsican,Indo-European,10K to 1M,Endangered,France,Ascending
+hrv,Croatian,Indo-European,1M to 1B,Institutional,Croatia,Thriving
+ces,Czech,Indo-European,1M to 1B,Institutional,Czechia,Thriving
+ces,Czech,Indo-European,1M to 1B,Institutional,Czechia,Thriving
+nld,Dutch,Indo-European,1M to 1B,Institutional,Netherlands,Thriving
+fao,Faroese,Indo-European,10K to 1M,Institutional,Faroe Islands,Ascending
+fra,French,Indo-European,1M to 1B,Institutional,France,Thriving
+fur,Friulan,Indo-European,10K to 1M,Endangered,Italy,Ascending
+gla,Gaelic,Indo-European,10K to 1M,Institutional,United Kingdom,Vital
+glg,Galician,Indo-European,1M to 1B,Institutional,Spain,Vital
+deu,German,Indo-European,1M to 1B,Institutional,Germany,Thriving
+ell,Greek,Indo-European,1M to 1B,Institutional,Greece,Thriving
+guj,Gujarati,Indo-European,1M to 1B,Institutional,India,Vital
+heb,Hebrew,Afro-Asiatic,1M to 1B,Institutional,Israel,Thriving
+hin,Hindi,Indo-European,1M to 1B,Institutional,India,Thriving
+isl,Icelandic,Indo-European,10K to 1M,Institutional,Iceland,Vital
+gle,Irish,Indo-European,1M to 1B,Endangered,Ireland,Vital
+ita,Italian,Indo-European,1M to 1B,Institutional,Italy,Thriving
+kan,Kannada,Dravidian,1M to 1B,Institutional,India,Vital
+kas,Kashmiri,Indo-European,1M to 1B,Institutional,India,Ascending
+csb,Kashubian,Indo-European,10K to 1M,Endangered,Poland,Ascending
+kin,Kinyarwanda,Niger-Congo,1M to 1B,Institutional,Rwanda,Ascending
+kok,Konkani,Indo-European,1M to 1B,Endangered,India,Emerging
+lav,Latvian,Indo-European,1M to 1B,Stable,Latvia,Ascending
+lim,Limburgish,Indo-European,1M to 1B,Stable,Netherlands,Ascending
+lit,Lithuanian,Indo-European,1M to 1B,Institutional,Lithuania,Thriving
+ltz,Luxembourgish,Indo-European,10K to 1M,Institutional,Luxembourg,Ascending
+mkd,Macedonian,Indo-European,1M to 1B,Institutional,North Macedonia,Vital
+mlt,Maltese,Afro-Asiatic,10K to 1M,Institutional,Malta,Vital
+glv,Manx,Indo-European,Less than 10K,Endangered,Isle of Man,Ascending
+mar,Marathi,Indo-European,1M to 1B,Institutional,India,Vital
+mwl,Mirandese,Indo-European,10K to 1M,Institutional,Portugal,Ascending
+nor,Norwegian,Indo-European,1M to 1B,Institutional,Norway,Thriving
+oci,Occitan,Indo-European,1M to 1B,Endangered,France,Ascending
+orm,Oromo,Afro-Asiatic,1M to 1B,Stable,Ethiopia,Emerging
+pus,Pashto,Indo-European,1M to 1B,Stable,Afghanistan,Emerging
+pol,Polish,Indo-European,1M to 1B,Institutional,Poland,Thriving
+pol,Polish,Indo-European,1M to 1B,Institutional,Poland,Thriving
+por,Portuguese,Indo-European,1M to 1B,Institutional,Portugal,Thriving
+pan,Punjabi,Indo-European,1M to 1B,Institutional,India,Vital
+ron,Romanian,Indo-European,1M to 1B,Institutional,Romania,Thriving
+run,Rundi,Niger-Congo,1M to 1B,Institutional,Burundi,Emerging
+rus,Russian,Indo-European,1M to 1B,Institutional,Russian Federation,Thriving
+rue,Rusyn,Indo-European,10K to 1M,Stable,Ukraine,Emerging
+ssy,Saho,Afro-Asiatic,10K to 1M,Institutional,Eritrea,Emerging
+san,Sanskrit,Indo-European,1M to 1B,Institutional,India,Ascending
+srp,Serbian,Indo-European,1M to 1B,Institutional,Serbia,Thriving
+sna,Shona,Niger-Congo,1M to 1B,Institutional,Zimbabwe,Ascending
+scn,Sicilian,Indo-European,1M to 1B,Stable,Italy,Ascending
+snd,Sindhi,Indo-European,1M to 1B,Institutional,Pakistan,Ascending
+slk,Slovak,Indo-European,1M to 1B,Institutional,Slovakia,Thriving
+slk,Slovak,Indo-European,1M to 1B,Institutional,Slovakia,Thriving
+slv,Slovenian,Indo-European,1M to 1B,Institutional,Slovenia,Thriving
+som,Somali,Afro-Asiatic,1M to 1B,Institutional,Somalia,Ascending
+spa,Spanish,Indo-European,1M to 1B,Institutional,Spain,Thriving
+swa,Swahili,Niger-Congo,1M to 1B,Institutional,Tanzania,Vital
+swe,Swedish,Indo-European,1M to 1B,Institutional,Sweden,Thriving
+ukr,Ukrainian,Indo-European,1M to 1B,Institutional,Ukraine,Thriving
+urd,Urdu,Indo-European,1M to 1B,Institutional,Pakistan,Vital
+vec,Venetian,Indo-European,1M to 1B,Stable,Italy,Ascending
+cym,Welsh,Indo-European,10K to 1M,Institutional,United Kingdom,Vital
+yid,Yiddish,Indo-European,10K to 1M,Endangered,USA,Emerging
