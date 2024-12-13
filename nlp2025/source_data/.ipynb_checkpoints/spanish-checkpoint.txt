@@ -1,0 +1,839 @@
+<table class="pdf_no_page_break_before" style="width: 818px;">
+<thead>
+<tr>
+<th style="width: 296px;" class="sortAZ">Country in English</th>
+<th style="width: 268px;" class="sortNO">Country in Spanish</th>
+<th style="width: 254px;" class="sortNO">Demonym*/Adjective</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 296px;">Afghanistan</td>
+<td style="width: 268px;" valign="top"><b>Afganistán</b></td>
+<td style="width: 254px;" valign="top">afgano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Albania</td>
+<td style="width: 268px;" valign="top"><b>Albania</b></td>
+<td style="width: 254px;" valign="top">albanés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Algeria</td>
+<td style="width: 268px;" valign="top"><b>Argelia</b></td>
+<td style="width: 254px;" valign="top">argelino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Andorra</td>
+<td style="width: 268px;" valign="top"><b>Andorra</b></td>
+<td style="width: 254px;" valign="top">andorrano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Angola</td>
+<td style="width: 268px;" valign="top"><b>Angola</b></td>
+<td style="width: 254px;" valign="top">angoleño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Antigua and Barbuda</td>
+<td style="width: 268px;" valign="top"><b>Antigua y Barbuda</b></td>
+<td style="width: 254px;" valign="top">antiguano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Argentina</td>
+<td style="width: 268px;" valign="top"><b>Argentina</b></td>
+<td style="width: 254px;" valign="top">argentino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Armenia</td>
+<td style="width: 268px;" valign="top"><b>Armenia</b></td>
+<td style="width: 254px;" valign="top">armenio/-nia</td>
+</tr><tr>
+<td style="width: 296px;">Australia</td>
+<td style="width: 268px;" valign="top"><b>Australia</b></td>
+<td style="width: 254px;" valign="top">australiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Austria</td>
+<td style="width: 268px;" valign="top"><b>Austria</b></td>
+<td style="width: 254px;" valign="top">austriaco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Azerbaijan</td>
+<td style="width: 268px;" valign="top"><b>Azerbaiyán</b></td>
+<td style="width: 254px;" valign="top">azerbaiyano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Bahamas</td>
+<td style="width: 268px;" valign="top"><b>Bahamas</b></td>
+<td style="width: 254px;" valign="top">bahameño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Bahrain</td>
+<td style="width: 268px;" valign="top"><b>Baréin</b></td>
+<td style="width: 254px;" valign="top">bareiní</td>
+</tr><tr>
+<td style="width: 296px;">Bangladesh</td>
+<td style="width: 268px;" valign="top"><b>Bangladés</b></td>
+<td style="width: 254px;" valign="top">bangladesí</td>
+</tr><tr>
+<td style="width: 296px;">Barbados</td>
+<td style="width: 268px;" valign="top"><b>Barbados</b></td>
+<td style="width: 254px;" valign="top">barbadense</td>
+</tr><tr>
+<td style="width: 296px;">Belarus</td>
+<td style="width: 268px;"><b>Bielorrusia</b></td>
+<td style="width: 254px;">bielorruso/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Belgium</td>
+<td style="width: 268px;" valign="top"><b>Bélgica</b></td>
+<td style="width: 254px;" valign="top">belga</td>
+</tr><tr>
+<td style="width: 296px;">Belize</td>
+<td style="width: 268px;" valign="top"><b>Belice</b></td>
+<td style="width: 254px;" valign="top">beliceño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Benin</td>
+<td style="width: 268px;" valign="top"><b>Benín</b></td>
+<td style="width: 254px;" valign="top">beninés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Bhutan</td>
+<td style="width: 268px;" valign="top"><b>Bután</b></td>
+<td style="width: 254px;" valign="top">butanés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Bolivia, Plurinational State of</td>
+<td style="width: 268px;" valign="top"><b>Bolivia, (Estado Plurinacional de)</b></td>
+<td style="width: 254px;" valign="top">boliviano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Bosnia and Herzegovina</td>
+<td style="width: 268px;" valign="top"><b>Bosnia y Herzegovina</b></td>
+<td style="width: 254px;" valign="top">bosnioherzegovino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Botswana</td>
+<td style="width: 268px;" valign="top"><b>Botsuana</b></td>
+<td style="width: 254px;" valign="top">botsuano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Brazil</td>
+<td style="width: 268px;" valign="top"><b>Brasil</b></td>
+<td style="width: 254px;" valign="top">brasileño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Brunei</td>
+<td style="width: 268px;" valign="top"><b>Brunéi</b></td>
+<td style="width: 254px;" valign="top">bruneano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Bulgaria</td>
+<td style="width: 268px;" valign="top"><b>Bulgaria</b></td>
+<td style="width: 254px;" valign="top">búlgaro/-ra</td>
+</tr><tr>
+<td style="width: 296px;">Burkina Faso</td>
+<td style="width: 268px;" valign="top"><b>Burkina Faso</b></td>
+<td style="width: 254px;" valign="top">burkinés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Burma/Myanmar</td>
+<td style="width: 268px;"><b>Myanmar/Birmania</b></td>
+<td style="width: 254px;">de Myanmar/Birmania</td>
+</tr><tr>
+<td style="width: 296px;">Burundi</td>
+<td style="width: 268px;" valign="top"><b>Burundi</b></td>
+<td style="width: 254px;" valign="top">burundés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Cabo Verde</td>
+<td style="width: 268px;" valign="top"><b>Cabo Verde</b></td>
+<td style="width: 254px;" valign="top">caboverdiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Cambodia</td>
+<td style="width: 268px;" valign="top"><b>Camboya</b></td>
+<td style="width: 254px;" valign="top">camboyano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Cameroon</td>
+<td style="width: 268px;" valign="top"><b>Camerún</b></td>
+<td style="width: 254px;" valign="top">camerunés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Canada</td>
+<td style="width: 268px;" valign="top"><b>Canadá</b></td>
+<td style="width: 254px;" valign="top">canadiense</td>
+</tr><tr>
+<td style="width: 296px;">Central African Republic</td>
+<td style="width: 268px;" valign="top"><b>República Centroafricana</b></td>
+<td style="width: 254px;" valign="top">centroafricano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Chad</td>
+<td style="width: 268px;"><b>Chad</b></td>
+<td style="width: 254px;">chadiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Chile</td>
+<td style="width: 268px;" valign="top"><b>Chile</b></td>
+<td style="width: 254px;" valign="top">chileno/-na</td>
+</tr><tr>
+<td style="width: 296px;">China</td>
+<td style="width: 268px;" valign="top"><b>China</b></td>
+<td style="width: 254px;" valign="top">chino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Colombia</td>
+<td style="width: 268px;" valign="top"><b>Colombia</b></td>
+<td style="width: 254px;" valign="top">colombiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Comoros</td>
+<td style="width: 268px;" valign="top"><b>Comoras</b></td>
+<td style="width: 254px;" valign="top">comorense</td>
+</tr><tr>
+<td style="width: 296px;">Congo</td>
+<td style="width: 268px;" valign="top"><b>Congo</b></td>
+<td style="width: 254px;" valign="top">congoleño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Costa Rica</td>
+<td style="width: 268px;" valign="top"><b>Costa Rica</b></td>
+<td style="width: 254px;" valign="top">costarricense</td>
+</tr><tr>
+<td style="width: 296px;">Côte d'Ivoire</td>
+<td style="width: 268px;" valign="top"><b>Costa de Marfil</b></td>
+<td style="width: 254px;" valign="top">costamarfileño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Croatia</td>
+<td style="width: 268px;" valign="top"><b>Croacia</b></td>
+<td style="width: 254px;" valign="top">croata</td>
+</tr><tr>
+<td style="width: 296px;">Cuba</td>
+<td style="width: 268px;" valign="top"><b>Cuba</b></td>
+<td style="width: 254px;" valign="top">cubano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Cyprus</td>
+<td style="width: 268px;" valign="top"><b>Chipre</b></td>
+<td style="width: 254px;" valign="top">chipriota</td>
+</tr><tr>
+<td style="width: 296px;">Czech Republic</td>
+<td style="width: 268px;"><b>República Checa, Chequia</b></td>
+<td style="width: 254px;">checo/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Denmark</td>
+<td style="width: 268px;" valign="top"><b>Dinamarca</b></td>
+<td style="width: 254px;" valign="top">danés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Djibouti</td>
+<td style="width: 268px;" valign="top"><b>Djibouti</b></td>
+<td style="width: 254px;" valign="top">Yibutiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Dominican Republic</td>
+<td style="width: 268px;" valign="top"><b>República Dominicana</b></td>
+<td style="width: 254px;" valign="top">dominicano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Dominican Republic</td>
+<td style="width: 268px;" valign="top"><b>Dominica</b></td>
+<td style="width: 254px;" valign="top">dominiqués/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Ecuador</td>
+<td style="width: 268px;"><b>Ecuador</b></td>
+<td style="width: 254px;">ecuatoriano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Egypt</td>
+<td style="width: 268px;" valign="top"><b>Egipto, (República Árabe de)</b></td>
+<td style="width: 254px;" valign="top">egipcio/-cia</td>
+</tr><tr>
+<td style="width: 296px;">El Salvador</td>
+<td style="width: 268px;"><b>El Salvador</b></td>
+<td style="width: 254px;">salvadoreño/-na</td>
+</tr><tr>
+<td style="width: 296px;">England</td>
+<td style="width: 268px;"><b>Inglaterra</b></td>
+<td style="width: 254px;">inglés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Equatorial Guinea</td>
+<td style="width: 268px;" valign="top"><b>Guinea Ecuatorial</b></td>
+<td style="width: 254px;" valign="top">ecuatoguineano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Eritrea</td>
+<td style="width: 268px;" valign="top"><b>Eritrea</b></td>
+<td style="width: 254px;" valign="top">eritreo/-a</td>
+</tr><tr>
+<td style="width: 296px;">Estonia</td>
+<td style="width: 268px;"><b>Estonia</b></td>
+<td style="width: 254px;">estonio/-na</td>
+</tr><tr>
+<td style="width: 296px;">Eswatini</td>
+<td style="width: 268px;"><b>Esuatini</b></td>
+<td style="width: 254px;">esuatiní</td>
+</tr><tr>
+<td style="width: 296px;">Ethiopia</td>
+<td style="width: 268px;" valign="top"><b>Etiopía</b></td>
+<td style="width: 254px;" valign="top">etíope</td>
+</tr><tr>
+<td style="width: 296px;">Falkland Islands</td>
+<td style="width: 268px;"><b>Islas Malvinas</b></td>
+<td style="width: 254px;">malvinense</td>
+</tr><tr>
+<td style="width: 296px;">Faroe Islands</td>
+<td style="width: 268px;"><b>Islas Feroe</b></td>
+<td style="width: 254px;">feroés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Federated States of Micronesia</td>
+<td style="width: 268px;" valign="top"><b>Micronesia (Estados Federados de)</b></td>
+<td style="width: 254px;" valign="top">micronesio/-sia</td>
+</tr><tr>
+<td style="width: 296px;">Fiji</td>
+<td style="width: 268px;"><b>Fiyi</b></td>
+<td style="width: 254px;">fiyiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Finland</td>
+<td style="width: 268px;" valign="top"><b>Finlandia</b></td>
+<td style="width: 254px;" valign="top">finlandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">France</td>
+<td style="width: 268px;" valign="top"><b>Francia</b></td>
+<td style="width: 254px;" valign="top">francés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Gabon</td>
+<td style="width: 268px;" valign="top"><b>Gabón</b></td>
+<td style="width: 254px;" valign="top">gabonés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Georgia</td>
+<td style="width: 268px;" valign="top"><b>Georgia</b></td>
+<td style="width: 254px;" valign="top">georgiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Germany</td>
+<td style="width: 268px;"><b>Alemania</b></td>
+<td style="width: 254px;">alemán/-na</td>
+</tr><tr>
+<td style="width: 296px;">Ghana</td>
+<td style="width: 268px;" valign="top"><b>Ghana</b></td>
+<td style="width: 254px;" valign="top">ghanés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Granada</td>
+<td style="width: 268px;" valign="top"><b>Granada</b></td>
+<td style="width: 254px;" valign="top">granadino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Great Britain</td>
+<td style="width: 268px;"><b>Gran Bretaña</b></td>
+<td style="width: 254px;">británico/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Greece</td>
+<td style="width: 268px;"><b>Grecia</b></td>
+<td style="width: 254px;">griego/-ga</td>
+</tr><tr>
+<td style="width: 296px;">Greenland</td>
+<td style="width: 268px;" valign="top"><b>Groenlandia</b></td>
+<td style="width: 254px;" valign="top">groenlandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Guatemala</td>
+<td style="width: 268px;" valign="top"><b>Guatemala</b></td>
+<td style="width: 254px;" valign="top">guatemalteco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Guinea</td>
+<td style="width: 268px;" valign="top"><b>Guinea</b></td>
+<td style="width: 254px;" valign="top">guineano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Guinea-Bissau</td>
+<td style="width: 268px;" valign="top"><b>Guinea-Bisáu</b></td>
+<td style="width: 254px;" valign="top">de Guinea-Bisáu</td>
+</tr><tr>
+<td style="width: 296px;">Guyana</td>
+<td style="width: 268px;" valign="top"><b>Guyana</b></td>
+<td style="width: 254px;" valign="top">guyanés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Haiti</td>
+<td style="width: 268px;" valign="top"><b>Haití</b></td>
+<td style="width: 254px;" valign="top">haitiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Honduras</td>
+<td style="width: 268px;" valign="top"><b>Honduras</b></td>
+<td style="width: 254px;" valign="top">hondureño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Hong Kong</td>
+<td style="width: 268px;" valign="top"><b>Hong Kong</b></td>
+<td style="width: 254px;" valign="top">hongkonés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Hungary</td>
+<td style="width: 268px;" valign="top"><b>Hungría</b></td>
+<td style="width: 254px;" valign="top">húngaro/-ra</td>
+</tr><tr>
+<td style="width: 296px;">Iceland</td>
+<td style="width: 268px;" valign="top"><b>Islandia</b></td>
+<td style="width: 254px;" valign="top">islandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">India</td>
+<td style="width: 268px;" valign="top"><b>India</b></td>
+<td style="width: 254px;" valign="top">indio/-dia</td>
+</tr><tr>
+<td style="width: 296px;">Indonesia</td>
+<td style="width: 268px;" valign="top"><b>Indonesia</b></td>
+<td style="width: 254px;" valign="top">indonesio/-sia</td>
+</tr><tr>
+<td style="width: 296px;">Iran (Islamic Republic of)</td>
+<td style="width: 268px;" valign="top"><b>Irán, (República Islámica del)</b></td>
+<td style="width: 254px;" valign="top">iraní</td>
+</tr><tr>
+<td style="width: 296px;">Iraq</td>
+<td style="width: 268px;"><b>Irak</b></td>
+<td style="width: 254px;">iraquí</td>
+</tr><tr>
+<td style="width: 296px;">Ireland</td>
+<td style="width: 268px;" valign="top"><b>Irlanda</b></td>
+<td style="width: 254px;" valign="top">irlandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Israel</td>
+<td style="width: 268px;" valign="top"><b>Israel</b></td>
+<td style="width: 254px;" valign="top">israelí</td>
+</tr><tr>
+<td style="width: 296px;">Italy</td>
+<td style="width: 268px;" valign="top"><b>Italia</b></td>
+<td style="width: 254px;" valign="top">italiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Jamaica</td>
+<td style="width: 268px;" valign="top"><b>Jamaica</b></td>
+<td style="width: 254px;" valign="top">jamaicano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Japan</td>
+<td style="width: 268px;" valign="top"><b>Japón</b></td>
+<td style="width: 254px;" valign="top">japonés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Jordan</td>
+<td style="width: 268px;" valign="top"><b>Jordania</b></td>
+<td style="width: 254px;" valign="top">jordano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Kazakhstan</td>
+<td style="width: 268px;" valign="top"><b>Kazajistán</b></td>
+<td style="width: 254px;" valign="top">kazajo/-ja</td>
+</tr><tr>
+<td style="width: 296px;">Kenya</td>
+<td style="width: 268px;" valign="top"><b>Kenia</b></td>
+<td style="width: 254px;" valign="top">keniata</td>
+</tr><tr>
+<td style="width: 296px;">Kiribati</td>
+<td style="width: 268px;" valign="top"><b>Kiribati</b></td>
+<td style="width: 254px;" valign="top">kiribatiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Kosovo (Republic of)</td>
+<td style="width: 268px;" valign="top"><b>Kosovo, (República de)</b></td>
+<td style="width: 254px;" valign="top">kosovar</td>
+</tr><tr>
+<td style="width: 296px;">Kuwait</td>
+<td style="width: 268px;" valign="top"><b>Kuwait</b></td>
+<td style="width: 254px;" valign="top">kuwaití</td>
+</tr><tr>
+<td style="width: 296px;">Kyrgyzstan</td>
+<td style="width: 268px;" valign="top"><b>Kirguistán</b></td>
+<td style="width: 254px;" valign="top">kirguís</td>
+</tr><tr>
+<td style="width: 296px;">Lao People’s Democratic Republic</td>
+<td style="width: 268px;" valign="top"><b>Laos</b></td>
+<td style="width: 254px;" valign="top">laosiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Latvia</td>
+<td style="width: 268px;" valign="top"><b>Letonia</b></td>
+<td style="width: 254px;" valign="top">letón/-na</td>
+</tr><tr>
+<td style="width: 296px;">Lebanon</td>
+<td style="width: 268px;" valign="top"><b>Líbano</b></td>
+<td style="width: 254px;" valign="top">libanés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Lesotho</td>
+<td style="width: 268px;" valign="top"><b>Lesoto</b></td>
+<td style="width: 254px;" valign="top">lesotense</td>
+</tr><tr>
+<td style="width: 296px;">Liberia</td>
+<td style="width: 268px;" valign="top"><b>Liberia</b></td>
+<td style="width: 254px;" valign="top">liberiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Libya</td>
+<td style="width: 268px;" valign="top"><b>Libia</b></td>
+<td style="width: 254px;" valign="top">libio/-bia</td>
+</tr><tr>
+<td style="width: 296px;">Liechtenstein</td>
+<td style="width: 268px;" valign="top"><b>Liechtenstein</b></td>
+<td style="width: 254px;" valign="top">liechtensteiniano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Lithuania</td>
+<td style="width: 268px;" valign="top"><b>Lituania</b></td>
+<td style="width: 254px;" valign="top">lituano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Luxembourg</td>
+<td style="width: 268px;" valign="top"><b>Luxemburgo</b></td>
+<td style="width: 254px;" valign="top">luxemburgués/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Macau</td>
+<td style="width: 268px;" valign="top"><b>Macao</b></td>
+<td style="width: 254px;" valign="top">macaense</td>
+</tr><tr>
+<td style="width: 296px;">Madagascar</td>
+<td style="width: 268px;" valign="top"><b>Madagascar</b></td>
+<td style="width: 254px;" valign="top">malgache</td>
+</tr><tr>
+<td style="width: 296px;">Malawi</td>
+<td style="width: 268px;" valign="top"><b>Malaui</b></td>
+<td style="width: 254px;" valign="top">malauí</td>
+</tr><tr>
+<td style="width: 296px;">Malaysia</td>
+<td style="width: 268px;" valign="top"><b>Malasia</b></td>
+<td style="width: 254px;" valign="top">malasio/-sia</td>
+</tr><tr>
+<td style="width: 296px;">Maldives</td>
+<td style="width: 268px;" valign="top"><b>Maldivas</b></td>
+<td style="width: 254px;" valign="top">maldivo/-va</td>
+</tr><tr>
+<td style="width: 296px;">Mali</td>
+<td style="width: 268px;" valign="top"><b>Mali</b></td>
+<td style="width: 254px;" valign="top">malí</td>
+</tr><tr>
+<td style="width: 296px;">Malta</td>
+<td style="width: 268px;" valign="top"><b>Malta</b></td>
+<td style="width: 254px;" valign="top">maltés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Marshall Islands</td>
+<td style="width: 268px;"><b>Islas Marshall</b></td>
+<td style="width: 254px;">marshalés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Mauritania</td>
+<td style="width: 268px;" valign="top"><b>Mauritania</b></td>
+<td style="width: 254px;" valign="top">mauritano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Mauritius</td>
+<td style="width: 268px;"><b>Mauricio, (República de)</b></td>
+<td style="width: 254px;">mauriciano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Mexico</td>
+<td style="width: 268px;" valign="top"><b>México</b></td>
+<td style="width: 254px;" valign="top">mexicano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Moldova/Republic of Moldova</td>
+<td style="width: 268px;" valign="top"><b>Moldavia/República de Moldova</b></td>
+<td style="width: 254px;" valign="top">moldavo/-va</td>
+</tr><tr>
+<td style="width: 296px;">Monaco</td>
+<td style="width: 268px;" valign="top"><b>Mónaco</b></td>
+<td style="width: 254px;" valign="top">monegasco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Mongoloia</td>
+<td style="width: 268px;" valign="top"><b>Mongolia</b></td>
+<td style="width: 254px;" valign="top">mongol/-la</td>
+</tr><tr>
+<td style="width: 296px;">Montenegro</td>
+<td style="width: 268px;" valign="top"><b>Montenegro</b></td>
+<td style="width: 254px;" valign="top">montenegrino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Morocco</td>
+<td style="width: 268px;" valign="top"><b>Marruecos</b></td>
+<td style="width: 254px;" valign="top">marroquí</td>
+</tr><tr>
+<td style="width: 296px;">Mozambique</td>
+<td style="width: 268px;" valign="top"><b>Mozambique</b></td>
+<td style="width: 254px;" valign="top">mozambiqueño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Naminia</td>
+<td style="width: 268px;" valign="top"><b>Namibia</b></td>
+<td style="width: 254px;" valign="top">namibio/-bia</td>
+</tr><tr>
+<td style="width: 296px;">Nauru</td>
+<td style="width: 268px;" valign="top"><b>Nauru</b></td>
+<td style="width: 254px;" valign="top">nauruano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Nepal</td>
+<td style="width: 268px;" valign="top"><b>Nepal</b></td>
+<td style="width: 254px;" valign="top">nepalés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Netherlands</td>
+<td style="width: 268px;"><b>Países Bajos</b></td>
+<td style="width: 254px;">neerlandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">New Zealand</td>
+<td style="width: 268px;" valign="top"><b>Nueva Zelanda</b></td>
+<td style="width: 254px;" valign="top">neozelandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Nicaragua</td>
+<td style="width: 268px;" valign="top"><b>Nicaragua</b></td>
+<td style="width: 254px;" valign="top">nicaragüense</td>
+</tr><tr>
+<td style="width: 296px;">Niger</td>
+<td style="width: 268px;" valign="top"><b>Níger</b></td>
+<td style="width: 254px;" valign="top">nigerino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Nigeria</td>
+<td style="width: 268px;" valign="top"><b>Nigeria</b></td>
+<td style="width: 254px;" valign="top">nigeriano/-na</td>
+</tr><tr>
+<td style="width: 296px;">North Korea</td>
+<td style="width: 268px;" valign="top"><b>Corea del Norte</b></td>
+<td style="width: 254px;" valign="top">de la República Popular Democrática de Corea</td>
+</tr><tr>
+<td style="width: 296px;">North Macedonia</td>
+<td style="width: 268px;"><b>Macedonia del Norte</b></td>
+<td style="width: 254px;">macedonio/-nia ciudadano/-a de la República de Macedonia del Norte</td>
+</tr><tr>
+<td style="width: 296px;">Northern Ireland</td>
+<td style="width: 268px;"><b>Irlanda del Norte</b></td>
+<td style="width: 254px;">norirlandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Norway</td>
+<td style="width: 268px;" valign="top"><b>Noruega</b></td>
+<td style="width: 254px;" valign="top">noruego/-ga</td>
+</tr><tr>
+<td style="width: 296px;">Oman</td>
+<td style="width: 268px;" valign="top"><b>Omán</b></td>
+<td style="width: 254px;" valign="top">omaní</td>
+</tr><tr>
+<td style="width: 296px;">Pakistand</td>
+<td style="width: 268px;" valign="top"><b>Pakistán</b></td>
+<td style="width: 254px;" valign="top">pakistaní</td>
+</tr><tr>
+<td style="width: 296px;">Palau</td>
+<td style="width: 268px;" valign="top"><b>Palaos</b></td>
+<td style="width: 254px;" valign="top">palauano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Palestine (State of)</td>
+<td style="width: 268px;" valign="top"><b>Palestina (Estado de)</b></td>
+<td style="width: 254px;" valign="top">palestino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Panama</td>
+<td style="width: 268px;" valign="top"><b>Panamá</b></td>
+<td style="width: 254px;" valign="top">panameño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Papua New Guinea</td>
+<td style="width: 268px;" valign="top"><b>Papúa Nueva Guinea</b></td>
+<td style="width: 254px;" valign="top">papú</td>
+</tr><tr>
+<td style="width: 296px;">Paraguay</td>
+<td style="width: 268px;" valign="top"><b>Paraguay</b></td>
+<td style="width: 254px;" valign="top">paraguayo/-ya</td>
+</tr><tr>
+<td style="width: 296px;">Peru</td>
+<td style="width: 268px;" valign="top"><b>Perú</b></td>
+<td style="width: 254px;" valign="top">peruano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Philippines</td>
+<td style="width: 268px;"><b>Filipinas</b></td>
+<td style="width: 254px;">filipino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Poland</td>
+<td style="width: 268px;" valign="top"><b>Polonia</b></td>
+<td style="width: 254px;" valign="top">polaco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Portugal</td>
+<td style="width: 268px;"><b>Portugal</b></td>
+<td style="width: 254px;">portugués/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Puerto Rico</td>
+<td style="width: 268px;" valign="top"><b>Puerto Rico</b></td>
+<td style="width: 254px;" valign="top">puertorriqueño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Romania</td>
+<td style="width: 268px;" valign="top"><b>Rumanía</b></td>
+<td style="width: 254px;" valign="top">rumano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Russian Federation</td>
+<td style="width: 268px;"><b>Rusia</b></td>
+<td style="width: 254px;">ruso/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Rwanda</td>
+<td style="width: 268px;"><b>Ruanda</b></td>
+<td style="width: 254px;">ruandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Saint Kitts and Nevis</td>
+<td style="width: 268px;" valign="top"><b>San Cristóbal y Nieves</b></td>
+<td style="width: 254px;" valign="top">sancristobaleño/-ña</td>
+</tr><tr>
+<td style="width: 296px;">Saint Lucia</td>
+<td style="width: 268px;"><b>Santa Lucía</b></td>
+<td style="width: 254px;">santalucense</td>
+</tr><tr>
+<td style="width: 296px;">Saint Vincent and the Grenadines</td>
+<td style="width: 268px;" valign="top"><b>San Vicente y las Granadinas</b></td>
+<td style="width: 254px;" valign="top">sanvicentino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Samoa</td>
+<td style="width: 268px;"><b>Samoa</b></td>
+<td style="width: 254px;">samoano/-na</td>
+</tr><tr>
+<td style="width: 296px;">San Marino</td>
+<td style="width: 268px;" valign="top"><b>San Marino</b></td>
+<td style="width: 254px;" valign="top">sanmarinense</td>
+</tr><tr>
+<td style="width: 296px;">Saudi Arabia</td>
+<td style="width: 268px;"><b>Arabia Saudí</b></td>
+<td style="width: 254px;">saudí</td>
+</tr><tr>
+<td style="width: 296px;">Scotland</td>
+<td style="width: 268px;"><b>Escocia</b></td>
+<td style="width: 254px;">escocés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Senegal</td>
+<td style="width: 268px;" valign="top"><b>Senegal</b></td>
+<td style="width: 254px;" valign="top">senegalés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Serbia</td>
+<td style="width: 268px;" valign="top"><b>Serbia</b></td>
+<td style="width: 254px;" valign="top">serbio/-bia</td>
+</tr><tr>
+<td style="width: 296px;">Seychelles</td>
+<td style="width: 268px;" valign="top"><b>Seychelles</b></td>
+<td style="width: 254px;" valign="top">seychellense</td>
+</tr><tr>
+<td style="width: 296px;">Sierra Leone</td>
+<td style="width: 268px;" valign="top"><b>Sierra Leona</b></td>
+<td style="width: 254px;" valign="top">sierraleonés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Singapore</td>
+<td style="width: 268px;" valign="top"><b>Singapur</b></td>
+<td style="width: 254px;" valign="top">singapurense</td>
+</tr><tr>
+<td style="width: 296px;">Slovakia</td>
+<td style="width: 268px;"><b>Eslovaquia</b></td>
+<td style="width: 254px;">eslovaco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Slovenia</td>
+<td style="width: 268px;"><b>Eslovenia</b></td>
+<td style="width: 254px;">esloveno/-na</td>
+</tr><tr>
+<td style="width: 296px;">Solomon Islands</td>
+<td style="width: 268px;"><b>Islas Salomón</b></td>
+<td style="width: 254px;">salomonense</td>
+</tr><tr>
+<td style="width: 296px;">Somalia</td>
+<td style="width: 268px;" valign="top"><b>Somalia</b></td>
+<td style="width: 254px;" valign="top">somalí</td>
+</tr><tr>
+<td style="width: 296px;">South Africa</td>
+<td style="width: 268px;"><b>Sudáfrica</b></td>
+<td style="width: 254px;">sudafricano/-na</td>
+</tr><tr>
+<td style="width: 296px;">South Korea</td>
+<td style="width: 268px;" valign="top"><b>Corea del Sur</b></td>
+<td style="width: 254px;" valign="top">de la República de Corea</td>
+</tr><tr>
+<td style="width: 296px;">South Sudan</td>
+<td style="width: 268px;"><b>Sudán del Sur</b></td>
+<td style="width: 254px;">sursudanés</td>
+</tr><tr>
+<td style="width: 296px;">Spain</td>
+<td style="width: 268px;" valign="top"><b>España</b></td>
+<td style="width: 254px;" valign="top">español/-la</td>
+</tr><tr>
+<td style="width: 296px;">Sri Lanka</td>
+<td style="width: 268px;" valign="top"><b>Sri Lanka</b></td>
+<td style="width: 254px;" valign="top">esrilanqués/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Sudan</td>
+<td style="width: 268px;"><b>Sudán</b></td>
+<td style="width: 254px;">sudanés</td>
+</tr><tr>
+<td style="width: 296px;">Suriname</td>
+<td style="width: 268px;" valign="top"><b>Surinam</b></td>
+<td style="width: 254px;" valign="top">surinamés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Swaziland</td>
+<td style="width: 268px;"><b>Suazilandia</b></td>
+<td style="width: 254px;">suazi</td>
+</tr><tr>
+<td style="width: 296px;">Sweden</td>
+<td style="width: 268px;" valign="top"><b>Suecia</b></td>
+<td style="width: 254px;" valign="top">sueco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Switzerland</td>
+<td style="width: 268px;" valign="top"><b>Suiza</b></td>
+<td style="width: 254px;" valign="top">suizo/-za</td>
+</tr><tr>
+<td style="width: 296px;">Syria</td>
+<td style="width: 268px;"><b>República Árabe Siria/Siria</b></td>
+<td style="width: 254px;">sirio/-ria</td>
+</tr><tr>
+<td style="width: 296px;">São Tomé and Príncipe</td>
+<td style="width: 268px;" valign="top"><b>Santo Tomé y Príncipe</b></td>
+<td style="width: 254px;" valign="top">santotomense</td>
+</tr><tr>
+<td style="width: 296px;">Taiwan</td>
+<td style="width: 268px;"><b>Taiwán</b></td>
+<td style="width: 254px;">taiwanés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Tajikistan</td>
+<td style="width: 268px;" valign="top"><b>Tayikistán</b></td>
+<td style="width: 254px;" valign="top">tayiko/-ka</td>
+</tr><tr>
+<td style="width: 296px;">Tanzania</td>
+<td style="width: 268px;"><b>Tanzania</b></td>
+<td style="width: 254px;">tanzano/-a</td>
+</tr><tr>
+<td style="width: 296px;">Thailand</td>
+<td style="width: 268px;"><b>Tailandia</b></td>
+<td style="width: 254px;">tailandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">The Gambia</td>
+<td style="width: 268px;" valign="top"><b>Gambia</b></td>
+<td style="width: 254px;" valign="top">gambiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">TImor-Leste</td>
+<td style="width: 268px;" valign="top"><b>Timor Oriental</b></td>
+<td style="width: 254px;" valign="top">timorense</td>
+</tr><tr>
+<td style="width: 296px;">Togo</td>
+<td style="width: 268px;" valign="top"><b>Togo</b></td>
+<td style="width: 254px;" valign="top">togolés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Tonga</td>
+<td style="width: 268px;" valign="top"><b>Tonga</b></td>
+<td style="width: 254px;" valign="top">tongano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Trinidad and Tobago</td>
+<td style="width: 268px;" valign="top"><b>Trinidad y Tobago</b></td>
+<td style="width: 254px;" valign="top">trinitense</td>
+</tr><tr>
+<td style="width: 296px;">Tunisia</td>
+<td style="width: 268px;" valign="top"><b>Túnez</b></td>
+<td style="width: 254px;" valign="top">tunecino/-na</td>
+</tr><tr>
+<td style="width: 296px;">Turkey, Türkiye</td>
+<td style="width: 268px;" valign="top"><b>Turquía</b></td>
+<td style="width: 254px;" valign="top">turco/-ca</td>
+</tr><tr>
+<td style="width: 296px;">Turkmenistan</td>
+<td style="width: 268px;" valign="top"><b>Turkmenistán</b></td>
+<td style="width: 254px;" valign="top">turcomano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Tuvalu</td>
+<td style="width: 268px;" valign="top"><b>Tuvalu</b></td>
+<td style="width: 254px;" valign="top">tuvaluano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Uganda</td>
+<td style="width: 268px;"><b>Uganda</b></td>
+<td style="width: 254px;">ugandés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Ukraine</td>
+<td style="width: 268px;" valign="top"><b>Ucrania</b></td>
+<td style="width: 254px;" valign="top">ucraniano/-na</td>
+</tr><tr>
+<td style="width: 296px;">United Arab Emirates (UAE)</td>
+<td style="width: 268px;" valign="top"><b>Emiratos Árabes Unidos (EAU)</b></td>
+<td style="width: 254px;" valign="top">emiratí</td>
+</tr><tr>
+<td style="width: 296px;">United Kingdom of Great Britain and Northern Ireland</td>
+<td style="width: 268px;"><b>Reino Unido de Gran Bretaña e Irlanda del Norte</b></td>
+<td style="width: 254px;">británico/-a</td>
+</tr><tr>
+<td style="width: 296px;">United Republic of Tanzania</td>
+<td style="width: 268px;"><b>República Unida de Tanzania</b></td>
+<td style="width: 254px;">tanzano/-na</td>
+</tr><tr>
+<td style="width: 296px;">United States of America (USA)</td>
+<td style="width: 268px;" valign="top"><b>Estados Unidos de América (EEUU)</b></td>
+<td style="width: 254px;" valign="top">estadounidense</td>
+</tr><tr>
+<td style="width: 296px;">Uruguay</td>
+<td style="width: 268px;" valign="top"><b>Uruguay</b></td>
+<td style="width: 254px;" valign="top">uruguayo/-ya oriental</td>
+</tr><tr>
+<td style="width: 296px;">Uzbekistan</td>
+<td style="width: 268px;"><b>Uzbekistán</b></td>
+<td style="width: 254px;">uzbeko/-ka</td>
+</tr><tr>
+<td style="width: 296px;">Vanuatu</td>
+<td style="width: 268px;" valign="top"><b>Vanuatu</b></td>
+<td style="width: 254px;" valign="top">vanuatuense</td>
+</tr><tr>
+<td style="width: 296px;">Venezuela</td>
+<td style="width: 268px;" valign="top"><b>Venezuela, (República Bolivariana de)</b></td>
+<td style="width: 254px;" valign="top">venezolano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Vietnam</td>
+<td style="width: 268px;" valign="top"><b>Vietnam</b></td>
+<td style="width: 254px;" valign="top">vietnamita</td>
+</tr><tr>
+<td style="width: 296px;">Wales</td>
+<td style="width: 268px;"><b>Gales</b></td>
+<td style="width: 254px;">galés/-sa</td>
+</tr><tr>
+<td style="width: 296px;">Yemen</td>
+<td style="width: 268px;" valign="top"><b>Yemen</b></td>
+<td style="width: 254px;" valign="top">yemení</td>
+</tr><tr>
+<td style="width: 296px;">Zambia</td>
+<td style="width: 268px;" valign="top"><b>Zambia</b></td>
+<td style="width: 254px;" valign="top">zambiano/-na</td>
+</tr><tr>
+<td style="width: 296px;">Zimbabwe</td>
+<td style="width: 268px;" valign="top"><b>Zimbabue</b></td>
+<td style="width: 254px;" valign="top">zimbabuense</td>
+</tr></tbody>
+</table>

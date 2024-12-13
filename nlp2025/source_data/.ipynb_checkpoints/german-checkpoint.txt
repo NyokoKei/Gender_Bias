@@ -1,0 +1,1041 @@
+<table class="pdf_no_page_break_before">
+<thead>
+<tr>
+<th class="sortAZ">Country in English</th>
+<th class="sortNO">Country in German</th>
+<th class="sortNO">Demonym* (masculine, feminine)</th>
+<th class="sortNO">Adjective</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Afghanistan</td>
+<td valign="top"><b>Afghanistan</b></td>
+<td valign="top">der Afghane, die Afghanin</td>
+<td valign="top">afghanisch</td>
+</tr><tr>
+<td>Albania</td>
+<td valign="top"><b>Albanien<i><br></i></b></td>
+<td valign="top">der Albaner/Albanier, die Albanerin/Albanierin</td>
+<td valign="top">albanisch</td>
+</tr><tr>
+<td>Algeria</td>
+<td valign="top"><b>Algerien</b></td>
+<td valign="top">der Algerier, die Algerierin</td>
+<td valign="top">algerisch</td>
+</tr><tr>
+<td>Andorra</td>
+<td valign="top"><b>Andorra</b></td>
+<td valign="top">der Andorraner, die Andorranerin</td>
+<td valign="top">andorranisch</td>
+</tr><tr>
+<td>Angola</td>
+<td valign="top"><b>Angola</b></td>
+<td valign="top">der Angolaner, die Angolanerin</td>
+<td valign="top">angolanisch</td>
+</tr><tr>
+<td>Antigua and Barbuda</td>
+<td valign="top"><b>Antigua und Barbuda</b></td>
+<td valign="top">der Antiguaner, die Antiguanerin</td>
+<td valign="top">antiguanisch</td>
+</tr><tr>
+<td>Argentina</td>
+<td valign="top"><b>Argentinien</b></td>
+<td valign="top">der Argentinier, die Argentinierin</td>
+<td valign="top">argentinisch</td>
+</tr><tr>
+<td>Armenia</td>
+<td valign="top"><b>Armenien</b></td>
+<td valign="top">der Armenier, die Armenierin</td>
+<td valign="top">armenisch</td>
+</tr><tr>
+<td>Australia</td>
+<td valign="top"><b>Australien</b></td>
+<td valign="top">der Australier, die Australierin</td>
+<td valign="top">australisch</td>
+</tr><tr>
+<td>Austria</td>
+<td valign="top"><b>Österreich</b></td>
+<td valign="top">der Österreicher, die Österreicherin</td>
+<td valign="top">österreichisch</td>
+</tr><tr>
+<td>Azerbaijan</td>
+<td valign="top"><b>Aserbaidschan</b></td>
+<td valign="top">der Aserbaidschaner, die Aserbaidschanerin</td>
+<td valign="top">aserbaidschanisch</td>
+</tr><tr>
+<td>Bahamas</td>
+<td valign="top"><b>Bahamas <i>(pl)</i></b></td>
+<td valign="top">der Bahamaer, die Bahamaerin</td>
+<td valign="top">bahamaisch</td>
+</tr><tr>
+<td>Bahrain</td>
+<td valign="top"><b>Bahrain</b></td>
+<td valign="top">der Bahrainer, die Bahrainerin</td>
+<td valign="top">bahrainisch</td>
+</tr><tr>
+<td>Bangladesh</td>
+<td valign="top"><b>Bangladesch</b></td>
+<td valign="top">der Bangladescher, die Bangladescherin</td>
+<td valign="top">bangladeschisch</td>
+</tr><tr>
+<td>Barbados</td>
+<td valign="top"><b>Barbados</b></td>
+<td valign="top">der Barbadier, die Barbadierin</td>
+<td valign="top">barbadisch</td>
+</tr><tr>
+<td>Belarus</td>
+<td valign="top"><b>Belarus</b></td>
+<td valign="top">der Belarusse, die Belarussin</td>
+<td valign="top">belarussisch</td>
+</tr><tr>
+<td>Belgian</td>
+<td valign="top"><b>Belgien</b></td>
+<td valign="top">der Belgier, die Belgierin</td>
+<td valign="top">belgisch</td>
+</tr><tr>
+<td>Belize</td>
+<td valign="top"><b>Belize</b></td>
+<td valign="top">der Belizer, die Belizerin</td>
+<td valign="top">belizisch</td>
+</tr><tr>
+<td>Benin</td>
+<td valign="top"><b>Benin</b></td>
+<td valign="top">der Beniner, die Beninerin</td>
+<td valign="top">beninisch</td>
+</tr><tr>
+<td>Bhutan</td>
+<td valign="top"><b>Bhutan</b></td>
+<td valign="top">der Bhutaner, die Bhutanerin</td>
+<td valign="top">bhutanisch</td>
+</tr><tr>
+<td>Bolivia</td>
+<td valign="top"><b>Bolivien</b></td>
+<td valign="top">der Bolivianer, die Bolivianerin</td>
+<td valign="top">bolivianisch</td>
+</tr><tr>
+<td>Bosnia and Herzegovina</td>
+<td valign="top"><b>Bosnien und Herzegowina</b></td>
+<td valign="top">der Bosnier, die Bosnierin<br>der Herzegowiner, die Herzegowinerin</td>
+<td valign="top">bosnisch<br>herzegowinisch</td>
+</tr><tr>
+<td>Botswana</td>
+<td valign="top"><b>Botsuana</b></td>
+<td valign="top">der Botsuaner, die Botsuanerin</td>
+<td valign="top">botsuanisch</td>
+</tr><tr>
+<td>Brazil</td>
+<td valign="top"><b>Brasilien</b></td>
+<td valign="top">der Brasilianer, die Brasilianerin</td>
+<td valign="top">brasilianisch</td>
+</tr><tr>
+<td>Brunei</td>
+<td valign="top"><b>Brunei</b></td>
+<td valign="top">der Bruneier, die Bruneierin</td>
+<td valign="top">bruneiisch</td>
+</tr><tr>
+<td>Bulgaria</td>
+<td valign="top"><b>Bulgarien</b></td>
+<td valign="top">der Bulgare, die Bulgarin</td>
+<td valign="top">bulgarisch</td>
+</tr><tr>
+<td>Burkina Faso</td>
+<td valign="top"><b>Burkina Faso</b></td>
+<td valign="top">der Burkiner, die Burkinerin <span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> der/die Burkinabe</span></span></td>
+<td valign="top">burkinisch</td>
+</tr><tr>
+<td>Burundi</td>
+<td valign="top"><b>Burundi</b></td>
+<td valign="top">der Burunder, die Burunderin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Burundier(in)</span></span></td>
+<td valign="top">burundisch</td>
+</tr><tr>
+<td>Cabo Verde</td>
+<td valign="top"><b>Cabo Verde</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Kap Verde</span></span></td>
+<td valign="top">–</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>Cambodia</td>
+<td valign="top"><b>Kambodscha</b></td>
+<td valign="top">der Kambodschaner, die Kambodschanerin</td>
+<td valign="top">kambodschanisch</td>
+</tr><tr>
+<td>Cameroon</td>
+<td valign="top"><b>Kamerun</b></td>
+<td valign="top">der Kameruner, die Kamerunerin</td>
+<td valign="top">kamerunisch</td>
+</tr><tr>
+<td>Canada</td>
+<td valign="top"><b>Kanada</b></td>
+<td valign="top">der Kanadier, die Kanadierin</td>
+<td valign="top">kanadisch</td>
+</tr><tr>
+<td>Central African Republic</td>
+<td valign="top"><b>Zentralafrikanische Republik <i>(f)</i></b></td>
+<td valign="top">der Zentralafrikaner, die Zentralafrikanerin</td>
+<td valign="top">zentralafrikanisch</td>
+</tr><tr>
+<td>Chad</td>
+<td valign="top"><b>Tschad <i>(-, m)</i></b></td>
+<td valign="top">der Tschader, die Tschaderin</td>
+<td valign="top">tschadisch</td>
+</tr><tr>
+<td>Chile</td>
+<td valign="top"><b>Chile</b></td>
+<td valign="top">der Chilene, die Chilenin</td>
+<td valign="top">chilenisch</td>
+</tr><tr>
+<td>China</td>
+<td valign="top"><b>China</b></td>
+<td valign="top">der Chinese, die Chinesin</td>
+<td valign="top">chinesisch</td>
+</tr><tr>
+<td>Colombia</td>
+<td valign="top"><b>Kolumbien</b></td>
+<td valign="top">der Kolumbianer, die Kolumbianerin</td>
+<td valign="top">kolumbianisch</td>
+</tr><tr>
+<td>Comoros</td>
+<td valign="top"><b>Komoren <i>(pl)</i></b></td>
+<td valign="top">der Komorer, die Komorerin</td>
+<td valign="top">komorisch</td>
+</tr><tr>
+<td>Costa Rica</td>
+<td valign="top"><b>Costa Rica</b></td>
+<td valign="top">der Costa Ricaner, die Costa Ricanerin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Costa-Ricaner(in)</span></span></td>
+<td valign="top">costa-ricanisch</td>
+</tr><tr>
+<td>Côte d’Ivoire</td>
+<td valign="top"><b>Côte d'Ivoire</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content">Elfenbeinküste</span></span></td>
+<td valign="top">der Ivorer, die Ivorerin</td>
+<td valign="top">ivorisch</td>
+</tr><tr>
+<td>Croatia</td>
+<td valign="top"><b>Kroatien</b></td>
+<td valign="top">der Kroate, die Kroatin</td>
+<td valign="top">kroatisch</td>
+</tr><tr>
+<td>Cuba</td>
+<td valign="top"><b>Kuba</b></td>
+<td valign="top">der Kubaner, die Kubanerin</td>
+<td valign="top">kubanisch</td>
+</tr><tr>
+<td>Cyprus</td>
+<td valign="top"><b>Zypern</b></td>
+<td valign="top">der Zyprer, die Zyprerin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content">auch: Zypriot(in), Zyprier(in)</span></span></td>
+<td valign="top">zyprisch</td>
+</tr><tr>
+<td>Czech Republic</td>
+<td valign="top"><b>Tschechien</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>offiziell:</i> Tschechische Republik</span></span></td>
+<td valign="top">der Tscheche, die Tschechin</td>
+<td valign="top">tschechisch</td>
+</tr><tr>
+<td>Democratic Republic of the Congo (DRC)</td>
+<td valign="top"><b>Demokratische Republik Kongo <i>(f)</i><br></b></td>
+<td valign="top">der Kongolese, die Kongolesin</td>
+<td valign="top">kongolesisch <span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i>&nbsp;… der Demokratischen Republik Kongo</span></span></td>
+</tr><tr>
+<td>Denmark</td>
+<td valign="top"><b>Dänemark</b></td>
+<td valign="top">der Däne, die Dänin</td>
+<td valign="top">dänisch</td>
+</tr><tr>
+<td>Djibouti</td>
+<td valign="top"><b>Dschibuti</b></td>
+<td valign="top">der Dschibutier, die Dschibutierin</td>
+<td valign="top">dschibutisch</td>
+</tr><tr>
+<td>Dominican Republic</td>
+<td valign="top"><b>Dominikanische Republik <i>(f)</i></b></td>
+<td valign="top">der Dominikaner, die Dominikanerin</td>
+<td valign="top">dominikanisch</td>
+</tr><tr>
+<td>Dominican Republic</td>
+<td valign="top"><b>Dominica</b></td>
+<td valign="top">der Dominicaner, die Dominicanerin</td>
+<td valign="top">dominicanisch</td>
+</tr><tr>
+<td>Ecuador</td>
+<td valign="top"><b>Ecuador</b></td>
+<td valign="top">der Ecuadorianer, die Ecuadorianerin</td>
+<td valign="top">ecuadorianisch</td>
+</tr><tr>
+<td>Egypt</td>
+<td valign="top"><b>Ägypten</b></td>
+<td valign="top">der Ägypter, die Ägypterin</td>
+<td valign="top">ägyptisch</td>
+</tr><tr>
+<td>El Salvador</td>
+<td valign="top"><b>El Salvador</b></td>
+<td valign="top">der Salvadorianer, die Salvadorianerin</td>
+<td valign="top">salvadorianisch</td>
+</tr><tr>
+<td>England</td>
+<td valign="top"><b>England</b></td>
+<td valign="top">der Engländer, die Engländerin</td>
+<td valign="top">englisch</td>
+</tr><tr>
+<td>Equatorial Guinea</td>
+<td valign="top"><b>Äquatorialguinea</b></td>
+<td valign="top">der Äquatorialguineer, die Äquatorialguineerin</td>
+<td valign="top">äquatorialguineisch</td>
+</tr><tr>
+<td>Eritrea</td>
+<td valign="top"><b>Eritrea</b></td>
+<td valign="top">der Eritreer, die Eritreerin</td>
+<td valign="top">eritreisch</td>
+</tr><tr>
+<td>Estonia</td>
+<td valign="top"><b>Estland</b></td>
+<td valign="top">der Este, die Estin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Estländer(in)</span></span></td>
+<td valign="top">estnisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch: </i>estländisch</span></span></td>
+</tr><tr>
+<td>Eswatini</td>
+<td valign="top"><b>Eswatini</b></td>
+<td valign="top">der/die Swasi<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Swasiländer(in)</span></span></td>
+<td valign="top">swasiländisch</td>
+</tr><tr>
+<td>Ethiopia</td>
+<td valign="top"><b>Äthiopien</b></td>
+<td valign="top">der Äthiopier, die Äthiopierin</td>
+<td valign="top">äthiopisch</td>
+</tr><tr>
+<td>Faroe Islands</td>
+<td valign="top"><b>Färöer-Inseln <i>(pl)</i></b></td>
+<td valign="top">–</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>Fiji</td>
+<td valign="top"><b>Fidschi</b></td>
+<td valign="top">der Fidschianer, die Fidschianerin</td>
+<td valign="top">fidschianisch</td>
+</tr><tr>
+<td>Finland</td>
+<td valign="top"><b>Finnland</b></td>
+<td valign="top">der Finne, die Finnin</td>
+<td valign="top">finnisch</td>
+</tr><tr>
+<td>France</td>
+<td valign="top"><b>Frankreich</b></td>
+<td valign="top">der Franzose, die Französin</td>
+<td valign="top">französisch</td>
+</tr><tr>
+<td>Gabon</td>
+<td valign="top"><b>Gabun</b></td>
+<td valign="top">der Gabuner, die Gabunerin</td>
+<td valign="top">gabunisch</td>
+</tr><tr>
+<td>Georgia</td>
+<td valign="top"><b>Georgien</b></td>
+<td valign="top">der Georgier, die Georgierin</td>
+<td valign="top">georgisch</td>
+</tr><tr>
+<td>Germany</td>
+<td valign="top"><b>Deutschland</b></td>
+<td valign="top">der Deutsche, die Deutsche</td>
+<td valign="top">deutsch</td>
+</tr><tr>
+<td>Ghana</td>
+<td valign="top"><b>Ghana</b></td>
+<td valign="top">der Ghanaer, die Ghanaerin</td>
+<td valign="top">ghanaisch</td>
+</tr><tr>
+<td>Greece</td>
+<td valign="top"><b>Griechenland</b></td>
+<td valign="top">der Grieche, die Griechin</td>
+<td valign="top">griechisch</td>
+</tr><tr>
+<td>Greenland</td>
+<td valign="top"><b>Grönland</b></td>
+<td valign="top">der Grönländer, die Grönländerin</td>
+<td valign="top">grönländisch</td>
+</tr><tr>
+<td>Grenada</td>
+<td valign="top"><b>Grenada</b></td>
+<td valign="top">der Grenader, die Grenaderin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Grenadier(in)</span></span></td>
+<td valign="top">grenadisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Grenader&nbsp;…</span></span></td>
+</tr><tr>
+<td>Guatemala</td>
+<td valign="top"><b>Guatemala</b></td>
+<td valign="top">der Guatemalteke, die Guatemaltekin</td>
+<td valign="top">guatemaltekisch</td>
+</tr><tr>
+<td>Guinea</td>
+<td valign="top"><b>Guinea</b></td>
+<td valign="top">der Guineer, die Guineerin</td>
+<td valign="top">guineisch</td>
+</tr><tr>
+<td>Guinea-Bissau</td>
+<td valign="top"><b>Guinea-Bissau</b></td>
+<td valign="top">der Guinea-Bissauer, die Guinea-Bissauerin</td>
+<td valign="top">guinea-bissauisch</td>
+</tr><tr>
+<td>Guyana</td>
+<td valign="top"><b>Guyana</b></td>
+<td valign="top">der Guyaner, die Guyanerin</td>
+<td valign="top">guyanisch</td>
+</tr><tr>
+<td>Haiti</td>
+<td valign="top"><b>Haiti</b></td>
+<td valign="top">der Haitianer, die Haitinaerin</td>
+<td valign="top">haitianisch</td>
+</tr><tr>
+<td>Honduras</td>
+<td valign="top"><b>Honduras</b></td>
+<td valign="top">der Honduraner, die Honduranerin</td>
+<td valign="top">honduranisch</td>
+</tr><tr>
+<td>Hong Kong</td>
+<td valign="top"><b>Hongkong<i><br></i></b></td>
+<td valign="top">der Honkonger, die Honkongerin</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>Hungary</td>
+<td valign="top"><b>Ungarn</b></td>
+<td valign="top">der Ungar, die Ungarin</td>
+<td valign="top">ungarisch</td>
+</tr><tr>
+<td>Iceland</td>
+<td valign="top"><b>Island</b></td>
+<td valign="top">der Isländer, die Isländerin</td>
+<td valign="top">isländisch</td>
+</tr><tr>
+<td>India</td>
+<td valign="top"><b>Indien</b></td>
+<td valign="top">der Inder, die Inderin</td>
+<td valign="top">indisch</td>
+</tr><tr>
+<td>Indonesia</td>
+<td valign="top"><b>Indonesien</b></td>
+<td valign="top">der Indonesier, die Indonesierin</td>
+<td valign="top">indonesisch</td>
+</tr><tr>
+<td>Iran</td>
+<td valign="top"><b>Iran <i>(-, m)</i><i><br></i></b></td>
+<td valign="top">der Iraner, die Iranerin</td>
+<td valign="top">iranisch</td>
+</tr><tr>
+<td>Iraq</td>
+<td valign="top"><b>Irak <i>(m)</i><i><br></i></b></td>
+<td valign="top">der Iraker, die Irakerin</td>
+<td valign="top">irakisch</td>
+</tr><tr>
+<td>Ireland</td>
+<td valign="top"><b>Irland</b></td>
+<td valign="top">der Ire, die Irin</td>
+<td valign="top">irisch</td>
+</tr><tr>
+<td>Israel</td>
+<td valign="top"><b>Israel<i><br></i></b></td>
+<td valign="top">der/die Israeli<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>weiblich</i> <i>auch:</i> die Israelin</span></span></td>
+<td valign="top">israelisch</td>
+</tr><tr>
+<td>Italy</td>
+<td valign="top"><b>Italien</b></td>
+<td valign="top">der Italiener, die Italienerin</td>
+<td valign="top">italienisch</td>
+</tr><tr>
+<td>Jamaica</td>
+<td valign="top"><b>Jamaika</b></td>
+<td valign="top">der Jamaikaner, die Jamaikanerin</td>
+<td valign="top">jamaikanisch</td>
+</tr><tr>
+<td>Japan</td>
+<td valign="top"><b>Japan</b></td>
+<td valign="top">der Japaner, die Japanerin</td>
+<td valign="top">japanisch</td>
+</tr><tr>
+<td>Jordan</td>
+<td valign="top"><b>Jordanien</b></td>
+<td valign="top">der Jordanier, die Jordanierin</td>
+<td valign="top">jordanisch</td>
+</tr><tr>
+<td>Kazakhstan</td>
+<td valign="top"><b>Kasachstan</b></td>
+<td valign="top">der Kasache, die Kasachin</td>
+<td valign="top">kasachisch</td>
+</tr><tr>
+<td>Kenya</td>
+<td valign="top"><b>Kenia</b></td>
+<td valign="top">der Kenianer, die Kenianerin</td>
+<td valign="top">kenianisch</td>
+</tr><tr>
+<td>Kiribati</td>
+<td valign="top"><b>Kiribati<i><br></i></b></td>
+<td valign="top">der Kiribatier, die Kiribatierin</td>
+<td valign="top">kiribatisch</td>
+</tr><tr>
+<td>Kosovo</td>
+<td valign="top"><b>Kosovo <i>(-, m, n)</i></b></td>
+<td valign="top">der Kosovare, die Kosovarin</td>
+<td valign="top">kosovarisch</td>
+</tr><tr>
+<td>Kuwait</td>
+<td valign="top"><b>Kuwait</b></td>
+<td valign="top">der Kuwaiter, die Kuwaiterin</td>
+<td valign="top">kuwaitisch</td>
+</tr><tr>
+<td>Kyrgyzstan</td>
+<td valign="top"><b>Kirgisistan</b></td>
+<td valign="top">der Kirgise, die Kirgisin</td>
+<td valign="top">kirgisisch</td>
+</tr><tr>
+<td>Laos</td>
+<td valign="top"><b>Laos</b></td>
+<td valign="top">der Laote, die Laotin</td>
+<td valign="top">laotisch</td>
+</tr><tr>
+<td>Latvia</td>
+<td valign="top"><b>Lettland</b></td>
+<td valign="top">der Lette, die Lettin</td>
+<td valign="top">lettisch</td>
+</tr><tr>
+<td>Lebanon</td>
+<td valign="top"><b>Libanon <i>(m)</i></b></td>
+<td valign="top">der Libanese, die Libanesin</td>
+<td valign="top">libanesisch</td>
+</tr><tr>
+<td>Lesotho</td>
+<td valign="top"><b>Lesotho</b></td>
+<td valign="top">der Lesother, die Lesotherin</td>
+<td valign="top">lesothisch</td>
+</tr><tr>
+<td>Liberia</td>
+<td valign="top"><b>Liberia</b></td>
+<td valign="top">der Liberianer, die Liberianerin</td>
+<td valign="top">liberianisch</td>
+</tr><tr>
+<td>Libya</td>
+<td valign="top"><b>Libyen</b></td>
+<td valign="top">der Libyer, die Libyerin</td>
+<td valign="top">libysch</td>
+</tr><tr>
+<td>Liechtenstein</td>
+<td valign="top"><b>Liechtenstein</b></td>
+<td valign="top">der Liechtensteiner, die Liechtensteinerin</td>
+<td valign="top">liechtensteinisch</td>
+</tr><tr>
+<td>Lithuania</td>
+<td valign="top"><b>Litauen</b></td>
+<td valign="top">der Litauer, die Litauerin</td>
+<td valign="top">litauisch</td>
+</tr><tr>
+<td>Luxembourg</td>
+<td valign="top"><b>Luxemburg</b></td>
+<td valign="top">der Luxemburger, die Luxemburgerin</td>
+<td valign="top">luxemburgisch</td>
+</tr><tr>
+<td>Macau</td>
+<td valign="top"><b>Macau</b></td>
+<td valign="top">–</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>Madagascar</td>
+<td valign="top"><b>Madagaskar</b></td>
+<td valign="top">der Madagasse, die Madagassin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>seltener auch:</i> Madegasse</span></span></td>
+<td valign="top">madagassisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content">seltener <i>auch:</i> madegassisch</span></span></td>
+</tr><tr>
+<td>Malawi</td>
+<td valign="top"><b>Malawi</b></td>
+<td valign="top">der Malawier, die Malawierin</td>
+<td valign="top">malawisch</td>
+</tr><tr>
+<td>Malaysia</td>
+<td valign="top"><b>Malaysia</b></td>
+<td valign="top">der Malaysier, die Malaysierin</td>
+<td valign="top">malaysisch</td>
+</tr><tr>
+<td>Maldives</td>
+<td valign="top"><b>Malediven <i>(pl)</i></b></td>
+<td valign="top">der Malediver, die Malediverin</td>
+<td valign="top">maledivisch</td>
+</tr><tr>
+<td>Mali</td>
+<td valign="top"><b>Mali</b></td>
+<td valign="top">der Malier, die Malierin</td>
+<td valign="top">malisch</td>
+</tr><tr>
+<td>Malta</td>
+<td valign="top"><b>Malta</b></td>
+<td valign="top">der Malteser, die Malteserin</td>
+<td valign="top">maltesisch</td>
+</tr><tr>
+<td>Marshall Islands</td>
+<td valign="top"><b>Marshallinseln <i>(pl)</i></b></td>
+<td valign="top">der Marshaller, die Marshallerin</td>
+<td valign="top">marshallisch</td>
+</tr><tr>
+<td>Mauritania</td>
+<td valign="top"><b>Mauretanien</b></td>
+<td valign="top">der Mauretanier, die Mauretanierin</td>
+<td valign="top">mauretanisch</td>
+</tr><tr>
+<td>Mauritius</td>
+<td valign="top"><b>Mauritius</b></td>
+<td valign="top">der Mauritier, die Mauritierin</td>
+<td valign="top">mauritisch</td>
+</tr><tr>
+<td>Mexico</td>
+<td valign="top"><b>Mexiko</b></td>
+<td valign="top">der Mexikaner, die Mexikanerin</td>
+<td valign="top">mexikanisch</td>
+</tr><tr>
+<td>Micronesia</td>
+<td valign="top"><b>Mikronesien</b></td>
+<td valign="top">der Mikronesier, die Mikronesierin</td>
+<td valign="top">mikronesisch</td>
+</tr><tr>
+<td>Moldova</td>
+<td valign="top"><b>Moldau</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Moldawien, Schweiz: Moldova</span></span></td>
+<td valign="top">der Moldauer, die Moldauerin</td>
+<td valign="top">moldauisch</td>
+</tr><tr>
+<td>Monaco</td>
+<td valign="top"><b>Monaco</b></td>
+<td valign="top">der Monegasse, die Monegassin</td>
+<td valign="top">monegassisch</td>
+</tr><tr>
+<td>Mongolia</td>
+<td valign="top"><b>Mongolei <i>(f)</i></b></td>
+<td valign="top">der Mongole, die Mongolin</td>
+<td valign="top">mongolisch</td>
+</tr><tr>
+<td>Montenegro</td>
+<td valign="top"><b>Montenegro</b></td>
+<td valign="top">der Montenegriner, die Montenegrinerin</td>
+<td valign="top">montenegrinisch</td>
+</tr><tr>
+<td>Morocco</td>
+<td valign="top"><b>Marokko</b></td>
+<td valign="top">der Marokkaner, die Marokkanerin</td>
+<td valign="top">marokkanisch</td>
+</tr><tr>
+<td>Mozambique</td>
+<td valign="top"><b>Mosambik</b></td>
+<td valign="top">der Mosambikaner, die Mosambikanerin</td>
+<td valign="top">mosambikanisch</td>
+</tr><tr>
+<td>Myanmar</td>
+<td valign="top"><b>Myanmar</b></td>
+<td valign="top">der Myanmare, die Myanmarin</td>
+<td valign="top">myanmarisch</td>
+</tr><tr>
+<td>Namibia</td>
+<td valign="top"><b>Namibia</b></td>
+<td valign="top">der Namibier, die Namibierin</td>
+<td valign="top">namibisch</td>
+</tr><tr>
+<td>Nauru</td>
+<td valign="top"><b>Nauru</b></td>
+<td valign="top">der Nauruer, Nauruerin</td>
+<td valign="top">nauruisch</td>
+</tr><tr>
+<td>Nepal</td>
+<td valign="top"><b>Nepal</b></td>
+<td valign="top">der Nepalese, die Nepalesin</td>
+<td valign="top">nepalesisch</td>
+</tr><tr>
+<td>Netherlands</td>
+<td valign="top"><b>Niederlande <i>(pl)</i></b></td>
+<td valign="top">der Niederländer, die Niederländerin</td>
+<td valign="top">niederländisch</td>
+</tr><tr>
+<td>New Zealand</td>
+<td valign="top"><b>Neuseeland</b></td>
+<td valign="top">der Neuseeländer, die Neuseeländerin</td>
+<td valign="top">neuseeländisch</td>
+</tr><tr>
+<td>Nicaragua</td>
+<td valign="top"><b>Nicaragua</b></td>
+<td valign="top">der Nicaraguaner, Nicaraguanerin</td>
+<td valign="top">nicaraguanisch</td>
+</tr><tr>
+<td>Niger</td>
+<td valign="top"><b>Niger <i>(-, m)</i></b></td>
+<td valign="top">der Nigrer, die Nigrerin</td>
+<td valign="top">nigrisch</td>
+</tr><tr>
+<td>Nigeria</td>
+<td valign="top"><b>Nigeria</b></td>
+<td valign="top">der Nigerianer, die Nigerianerin</td>
+<td valign="top">nigerianisch</td>
+</tr><tr>
+<td>North Korea</td>
+<td valign="top"><b>Nordkorea</b></td>
+<td valign="top">der Nordkoreaner, die Nordkoreanerin</td>
+<td valign="top">nordkoreanisch</td>
+</tr><tr>
+<td>North Macedonia</td>
+<td valign="top"><b>Nordmazedonien</b></td>
+<td valign="top">der Mazedonier, die Mazedonierin</td>
+<td valign="top">mazedonisch</td>
+</tr><tr>
+<td>Norway</td>
+<td valign="top"><b>Norwegen</b></td>
+<td valign="top">der Norweger, die Norwegerin</td>
+<td valign="top">norwegisch</td>
+</tr><tr>
+<td>Oman</td>
+<td valign="top"><b>Oman</b></td>
+<td valign="top">der Omaner, die Omanerin</td>
+<td valign="top">omanisch</td>
+</tr><tr>
+<td>Pakistan</td>
+<td valign="top"><b>Pakistan</b></td>
+<td valign="top">der Pakistaner, die Pakistanerin</td>
+<td valign="top">pakistanisch</td>
+</tr><tr>
+<td>Palau</td>
+<td valign="top"><b>Palau<i><br></i></b></td>
+<td valign="top">der Palauer, die Palauerin</td>
+<td valign="top">palauisch</td>
+</tr><tr>
+<td>Palestine</td>
+<td valign="top"><b>Palästina</b></td>
+<td valign="top">der Palästinenser, die Palästinenserin</td>
+<td valign="top">palästinensisch</td>
+</tr><tr>
+<td>Panama</td>
+<td valign="top"><b>Panama</b></td>
+<td valign="top">der Panamaer, die Panamaerin</td>
+<td valign="top">panamaisch</td>
+</tr><tr>
+<td>Papua New Guinea</td>
+<td valign="top"><b>Papua-Neuguinea</b></td>
+<td valign="top">der Papua-Neuguineer, die Papua-Neuguineerin</td>
+<td valign="top">papua-neuguineisch</td>
+</tr><tr>
+<td>Paraguay</td>
+<td valign="top"><b>Paraguay</b></td>
+<td valign="top">der Paraguayer, die Paraguayerin</td>
+<td valign="top">paraguayisch</td>
+</tr><tr>
+<td>Peru</td>
+<td valign="top"><b>Peru</b></td>
+<td valign="top">der Peruaner, Peruanerin</td>
+<td valign="top">peruanisch</td>
+</tr><tr>
+<td>Philippines</td>
+<td valign="top"><b>Philippinen <i>(pl)</i></b></td>
+<td valign="top">der Philippiner, die Philippinerin</td>
+<td valign="top">philippinisch</td>
+</tr><tr>
+<td>Poland</td>
+<td valign="top"><b>Polen</b></td>
+<td valign="top">der Pole, die Polin</td>
+<td valign="top">polnisch</td>
+</tr><tr>
+<td>Portugal</td>
+<td valign="top"><b>Portugal</b></td>
+<td valign="top">der Portugiese, die Portugiesin</td>
+<td valign="top">portugiesisch</td>
+</tr><tr>
+<td>Puerto Rico</td>
+<td valign="top"><b>Puerto Rico</b></td>
+<td valign="top">der Puerto-Ricaner, die Puerto-Ricanerin</td>
+<td valign="top">puerto-ricanisch</td>
+</tr><tr>
+<td>Qatar</td>
+<td valign="top"><b>Katar</b></td>
+<td valign="top">der Katarer, die Katarerin</td>
+<td valign="top">katarisch</td>
+</tr><tr>
+<td>Reupblic of the Congo</td>
+<td valign="top"><b>der Kongo</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>offiziell: </i>Republik Kongo</span></span><b><br></b></td>
+<td valign="top">der Kongolese, die Kongolesin</td>
+<td valign="top">kongolesisch <span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i>&nbsp;… der Republik Kongo</span></span></td>
+</tr><tr>
+<td>Romania</td>
+<td valign="top"><b>Rumänien</b></td>
+<td valign="top">der Rumäne, die Rumänin</td>
+<td valign="top">rumänisch</td>
+</tr><tr>
+<td>Russia</td>
+<td valign="top"><b>Russland</b></td>
+<td valign="top">der Russe, die Russin</td>
+<td valign="top">russisch</td>
+</tr><tr>
+<td>Rwanda</td>
+<td valign="top"><b>Ruanda</b></td>
+<td valign="top">der Ruander, die Ruanderin</td>
+<td valign="top">ruandisch</td>
+</tr><tr>
+<td>Samoa</td>
+<td valign="top"><b>Samoa<i><br></i></b></td>
+<td valign="top">der Samoaner, die Samoanerin</td>
+<td valign="top">samoanisch</td>
+</tr><tr>
+<td>San Marino</td>
+<td valign="top"><b>San Marino</b></td>
+<td valign="top">der San-Marinese, die San-Marinesin</td>
+<td valign="top">san-marinesisch</td>
+</tr><tr>
+<td>Saudi Arabia</td>
+<td valign="top"><b>Saudi-Arabien</b></td>
+<td valign="top">der Saudi-Araber, die Saudi-Araberin</td>
+<td valign="top">saudi-arabisch</td>
+</tr><tr>
+<td>Scotland</td>
+<td valign="top"><b>Schottland</b></td>
+<td valign="top">der Schotte, die Schottin</td>
+<td valign="top">schottisch</td>
+</tr><tr>
+<td>Senegal</td>
+<td valign="top"><b>Senegal <i>(m)</i></b></td>
+<td valign="top">der Senegalese, die Senegalesin</td>
+<td valign="top">senegalesisch</td>
+</tr><tr>
+<td>Serbia</td>
+<td valign="top"><b>Serbien</b></td>
+<td valign="top">der Serbe, die Serbin</td>
+<td valign="top">serbisch</td>
+</tr><tr>
+<td>Seychelles</td>
+<td valign="top"><b>Seychellen</b></td>
+<td valign="top">der Seycheller, die Seychellerin</td>
+<td valign="top">seychellisch</td>
+</tr><tr>
+<td>Sierra Leone</td>
+<td valign="top"><b>Sierra Leone</b></td>
+<td valign="top">der Sierra-Leoner, die Sierra-Leonerin</td>
+<td valign="top">sierra-leonisch</td>
+</tr><tr>
+<td>Singapore</td>
+<td valign="top"><b>Singapur</b></td>
+<td valign="top">der Singapurer, die Singapurerin</td>
+<td valign="top">singapurisch</td>
+</tr><tr>
+<td>Slovakia</td>
+<td valign="top"><b>Slowakei <i>(f)</i></b></td>
+<td valign="top">der Slowake, die Slowakin</td>
+<td valign="top">slowakisch</td>
+</tr><tr>
+<td>Slovenia</td>
+<td valign="top"><b>Slowenien</b></td>
+<td valign="top">der Slowene, die Slowenin</td>
+<td valign="top">slowenisch</td>
+</tr><tr>
+<td>Solomon Islands</td>
+<td valign="top"><b>Salomonen <i>(pl)</i></b></td>
+<td valign="top">der Salomoner, die Salomonerin</td>
+<td valign="top">salomonisch</td>
+</tr><tr>
+<td>Somalia</td>
+<td valign="top"><b>Somalia</b></td>
+<td valign="top">der Somalier, die Somalierin</td>
+<td valign="top">somalisch</td>
+</tr><tr>
+<td>South Africa</td>
+<td valign="top"><b>Südafrika</b></td>
+<td valign="top">der Südafrikaner, die Südafrikanerin</td>
+<td valign="top">südafrikanisch</td>
+</tr><tr>
+<td>South Korea</td>
+<td valign="top"><b>Südkorea</b></td>
+<td valign="top">der Südkoreaner, die Südkoreanerin</td>
+<td valign="top">südkoreanisch</td>
+</tr><tr>
+<td>South Sudan</td>
+<td><b>Südsudan (m)</b></td>
+<td>der Südsudaner, die Südsudanerin</td>
+<td>südsudanesisch</td>
+</tr><tr>
+<td>Spain</td>
+<td valign="top"><b>Spanien</b></td>
+<td valign="top">der Spanier, die Spanierin</td>
+<td valign="top">spanisch</td>
+</tr><tr>
+<td>Sri Lanka</td>
+<td valign="top"><b>Sri Lanka</b></td>
+<td valign="top">der Sri Lanker, die Sri Lankerin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Sri-Lanker(in)</span></span></td>
+<td valign="top">sri-lankisch</td>
+</tr><tr>
+<td>St Kitts and Nevis</td>
+<td valign="top"><b>St. Kitts und Nevis</b></td>
+<td valign="top">–</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>St Lucia</td>
+<td valign="top"><b>St. Lucia</b></td>
+<td valign="top">der Lucianer, die Lucianerin</td>
+<td valign="top">lucianisch</td>
+</tr><tr>
+<td>St Vincent and the Grenadines</td>
+<td valign="top"><b>St. Vincent und die Grenadinen</b></td>
+<td valign="top">der Vincenter, die Vincenterin</td>
+<td valign="top">vincentisch</td>
+</tr><tr>
+<td>Sudan</td>
+<td valign="top"><b>Sudan <i>(m)</i></b></td>
+<td valign="top">der Sudaner, die Sudanerin</td>
+<td valign="top">sudanesisch</td>
+</tr><tr>
+<td>Surinam</td>
+<td valign="top"><b>Suriname</b></td>
+<td valign="top">der Surinamer, die Surinamerin</td>
+<td valign="top">surinamisch</td>
+</tr><tr>
+<td>Sweden</td>
+<td valign="top"><b>Schweden</b></td>
+<td valign="top">der Schwede, die Schwedin</td>
+<td valign="top">schwedisch</td>
+</tr><tr>
+<td>Switzerland</td>
+<td valign="top"><b>Schweiz <i>(f)</i></b></td>
+<td valign="top">der Schweizer, Schweizerin</td>
+<td valign="top">schweizerisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Schweizer&nbsp;…</span></span></td>
+</tr><tr>
+<td>Syria</td>
+<td valign="top"><b>Syrien</b></td>
+<td valign="top">der Syrer, die Syrerin</td>
+<td valign="top">syrisch</td>
+</tr><tr>
+<td>São Tomé and Principe</td>
+<td valign="top"><b>São Tomé und Príncipe</b></td>
+<td valign="top">der São Toméer, die São Toméerin</td>
+<td valign="top">são-toméisch</td>
+</tr><tr>
+<td>Taiwan</td>
+<td valign="top"><b>Taiwan<i><br></i></b></td>
+<td valign="top">der Taiwaner, die Taiwanerin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Taiwanese, Taiwanesin</span></span></td>
+<td valign="top">taiwanisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> taiwanesisch</span></span></td>
+</tr><tr>
+<td>Tajikistan</td>
+<td valign="top"><b>Tadschikistan</b></td>
+<td valign="top">der Tadschike, die Tadschikin</td>
+<td valign="top">tadschikisch</td>
+</tr><tr>
+<td>Tanzania</td>
+<td valign="top"><b>Tansania</b></td>
+<td valign="top">der Tansanier, die Tansanierin</td>
+<td valign="top">tansanisch</td>
+</tr><tr>
+<td>Thailand</td>
+<td valign="top"><b>Thailand</b></td>
+<td valign="top">der Thailänder, die Thailänderin</td>
+<td valign="top">thailändisch</td>
+</tr><tr>
+<td>The Gambia</td>
+<td valign="top"><b>Gambia</b></td>
+<td valign="top">der Gambier, die Gambierin</td>
+<td valign="top">gambisch</td>
+</tr><tr>
+<td>Tibet</td>
+<td valign="top"><b>Tibet</b></td>
+<td valign="top">der Tibeter, die Tibeterin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Tibetaner(in)</span></span></td>
+<td valign="top">tibetisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> tibetanisch</span></span></td>
+</tr><tr>
+<td>Timor-Leste</td>
+<td valign="top"><b>Timor-Leste</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> Osttimor</span></span></td>
+<td valign="top">der Timorer, die Timorerin</td>
+<td valign="top">timorisch</td>
+</tr><tr>
+<td>Togo</td>
+<td valign="top"><b>Togo</b></td>
+<td valign="top">der Togoer, die Togoerin</td>
+<td valign="top">togoisch</td>
+</tr><tr>
+<td>Tonga</td>
+<td valign="top"><b>Tonga<i><br></i></b></td>
+<td valign="top">der Tongaer, die Tongaerin</td>
+<td valign="top">tongaisch</td>
+</tr><tr>
+<td>Trinidad and Tobago</td>
+<td valign="top"><b>Trinidad und Tobago</b></td>
+<td valign="top">–</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>Tunisia</td>
+<td valign="top"><b>Tunesien</b></td>
+<td valign="top">der Tunesier, die Tunesierin</td>
+<td valign="top">tunesisch</td>
+</tr><tr>
+<td>Türkiye</td>
+<td valign="top"><b>Türkei <i>(f)</i></b></td>
+<td valign="top">der Türke, die Türkin</td>
+<td valign="top">türkisch</td>
+</tr><tr>
+<td>Turkmenistan</td>
+<td valign="top"><b>Turkmenistan</b></td>
+<td valign="top">der Turkmene, die Turkmenin</td>
+<td valign="top">turkmenisch</td>
+</tr><tr>
+<td>Tuvalu</td>
+<td valign="top"><b>Tuvalu<i><br></i></b></td>
+<td valign="top">der Tuvaluer, die Tuvaluerin</td>
+<td valign="top">tuvaluisch</td>
+</tr><tr>
+<td>Uganda</td>
+<td valign="top"><b>Uganda</b></td>
+<td valign="top">der Ugander, die Uganderin</td>
+<td valign="top">ugandisch</td>
+</tr><tr>
+<td>Ukraine</td>
+<td valign="top"><b>Ukraine <i>(f)</i><i><br></i></b></td>
+<td valign="top">der Ukrainer, die Ukrainerin</td>
+<td valign="top">ukrainisch</td>
+</tr><tr>
+<td>United Arab Emirates (UAE)</td>
+<td valign="top"><b>Vereinigte Arabische Emirate <i>(pl)</i></b></td>
+<td valign="top">–</td>
+<td valign="top">–</td>
+</tr><tr>
+<td>United Kingdom</td>
+<td valign="top"><b>Großbritannien</b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>offiziell:</i> Vereinigtes Königreich (Großbritannien und Nordirland)</span></span></td>
+<td valign="top">der Brite, die Britin</td>
+<td valign="top">britisch</td>
+</tr><tr>
+<td>United States of America (USA)</td>
+<td valign="top"><b>USA <i>(pl)</i></b><span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content">Vereinigte Staaten von Amerika <i>(pl)</i></span></span></td>
+<td valign="top">der Amerikaner, die Amerikanerin<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> US-Amerikaner(in)</span></span></td>
+<td valign="top">amerikanisch<span class="tooltip tooltip-fa color_text"><i class="fal fa-globe"></i><span lang="en" class="tooltip-content"><i>auch:</i> US-amerikanisch</span></span></td>
+</tr><tr>
+<td>Uruguay</td>
+<td valign="top"><b>Uruguay<i><br></i></b></td>
+<td valign="top">der Uruguayer, die Uruguayerin</td>
+<td valign="top">uruguayisch</td>
+</tr><tr>
+<td>Uzbekistan</td>
+<td valign="top"><b>Usbekistan</b></td>
+<td valign="top">der Usbeke, die Usbekin</td>
+<td valign="top">usbekisch</td>
+</tr><tr>
+<td>Vanuatu</td>
+<td valign="top"><b>Vanuatu</b></td>
+<td valign="top">der Vanuatuer, die Vanuatuerin</td>
+<td valign="top">vanuatuisch</td>
+</tr><tr>
+<td>Vatican City</td>
+<td valign="top"><b>Vatikanstadt</b></td>
+<td valign="top">–</td>
+<td valign="top">vatikanisch</td>
+</tr><tr>
+<td>Venezuela</td>
+<td valign="top"><b>Venezuela</b></td>
+<td valign="top">der Venezolaner, die Venezolanerin</td>
+<td valign="top">venezolanisch</td>
+</tr><tr>
+<td>Vietnam</td>
+<td valign="top"><b>Vietnam</b></td>
+<td valign="top">der Vietnamese, die Vietnamesin</td>
+<td valign="top">vietnamesisch</td>
+</tr><tr>
+<td>Wales</td>
+<td valign="top"><b>Wales</b></td>
+<td valign="top">der Waliser, die Waliserin</td>
+<td valign="top">walisisch</td>
+</tr><tr>
+<td>Yemen</td>
+<td valign="top"><b>Jemen</b></td>
+<td valign="top">der Jemenit, die Jemenitin</td>
+<td valign="top">jemenitisch</td>
+</tr><tr>
+<td>Zambia</td>
+<td valign="top"><b>Sambia</b></td>
+<td valign="top">der Sambier, die Sambierin</td>
+<td valign="top">sambisch</td>
+</tr><tr>
+<td>Zimbabwe</td>
+<td valign="top"><b>Simbabwe</b></td>
+<td valign="top">der Simbabwer, die Simbabwerin</td>
+<td valign="top">simbabwisch</td>
+</tr></tbody>
