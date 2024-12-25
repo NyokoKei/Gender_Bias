@@ -1,208 +1,194 @@
-name,spa_m,spa_f,spa_n,spa_sent
-Afghanistan,afgano,afgana,,"{'m': 'Soy afgano.', 'f': 'Soy afgana.', 'n': None}"
-Albania,albanés,albanésa,,"{'m': 'Soy albanés.', 'f': 'Soy albanésa.', 'n': None}"
-Algeria,argelino,argelina,,"{'m': 'Soy argelino.', 'f': 'Soy argelina.', 'n': None}"
-Andorra,andorrano,andorrana,,"{'m': 'Soy andorrano.', 'f': 'Soy andorrana.', 'n': None}"
-Angola,angoleño,angoleña,,"{'m': 'Soy angoleño.', 'f': 'Soy angoleña.', 'n': None}"
-Antigua and Barbuda,antiguano,antiguana,,"{'m': 'Soy antiguano.', 'f': 'Soy antiguana.', 'n': None}"
-Argentina,argentino,argentina,,"{'m': 'Soy argentino.', 'f': 'Soy argentina.', 'n': None}"
-Armenia,armenio,armenia,,"{'m': 'Soy armenio.', 'f': 'Soy armenia.', 'n': None}"
-Australia,australiano,australiana,,"{'m': 'Soy australiano.', 'f': 'Soy australiana.', 'n': None}"
-Austria,austriaco,austriaca,,"{'m': 'Soy austriaco.', 'f': 'Soy austriaca.', 'n': None}"
-Azerbaijan,azerbaiyano,azerbaiyana,,"{'m': 'Soy azerbaiyano.', 'f': 'Soy azerbaiyana.', 'n': None}"
-Bahamas,bahameño,bahameña,,"{'m': 'Soy bahameño.', 'f': 'Soy bahameña.', 'n': None}"
-Bahrain,,,bareiní,"{'m': None, 'f': None, 'n': 'Soy bareiní.'}"
-Bangladesh,,,bangladesí,"{'m': None, 'f': None, 'n': 'Soy bangladesí.'}"
-Barbados,,,barbadense,"{'m': None, 'f': None, 'n': 'Soy barbadense.'}"
-Belarus,bielorruso,bielorrusa,,"{'m': 'Soy bielorruso.', 'f': 'Soy bielorrusa.', 'n': None}"
-Belgium,,,belga,"{'m': None, 'f': None, 'n': 'Soy belga.'}"
-Belize,beliceño,beliceña,,"{'m': 'Soy beliceño.', 'f': 'Soy beliceña.', 'n': None}"
-Benin,beninés,beninésa,,"{'m': 'Soy beninés.', 'f': 'Soy beninésa.', 'n': None}"
-Bhutan,butanés,butanésa,,"{'m': 'Soy butanés.', 'f': 'Soy butanésa.', 'n': None}"
-"Bolivia, Plurinational State of",boliviano,boliviana,,"{'m': 'Soy boliviano.', 'f': 'Soy boliviana.', 'n': None}"
-Bosnia and Herzegovina,bosnioherzegovino,bosnioherzegovina,,"{'m': 'Soy bosnioherzegovino.', 'f': 'Soy bosnioherzegovina.', 'n': None}"
-Botswana,botsuano,botsuana,,"{'m': 'Soy botsuano.', 'f': 'Soy botsuana.', 'n': None}"
-Brazil,brasileño,brasileña,,"{'m': 'Soy brasileño.', 'f': 'Soy brasileña.', 'n': None}"
-Brunei,bruneano,bruneana,,"{'m': 'Soy bruneano.', 'f': 'Soy bruneana.', 'n': None}"
-Bulgaria,búlgaro,búlgara,,"{'m': 'Soy búlgaro.', 'f': 'Soy búlgara.', 'n': None}"
-Burkina Faso,burkinés,burkinésa,,"{'m': 'Soy burkinés.', 'f': 'Soy burkinésa.', 'n': None}"
-Burma/Myanmar,,,de Myanmar/Birmania,"{'m': None, 'f': None, 'n': 'Soy de Myanmar/Birmania.'}"
-Burundi,burundés,burundésa,,"{'m': 'Soy burundés.', 'f': 'Soy burundésa.', 'n': None}"
-Cabo Verde,caboverdiano,caboverdiana,,"{'m': 'Soy caboverdiano.', 'f': 'Soy caboverdiana.', 'n': None}"
-Cambodia,camboyano,camboyana,,"{'m': 'Soy camboyano.', 'f': 'Soy camboyana.', 'n': None}"
-Cameroon,camerunés,camerunésa,,"{'m': 'Soy camerunés.', 'f': 'Soy camerunésa.', 'n': None}"
-Canada,,,canadiense,"{'m': None, 'f': None, 'n': 'Soy canadiense.'}"
-Central African Republic,centroafricano,centroafricana,,"{'m': 'Soy centroafricano.', 'f': 'Soy centroafricana.', 'n': None}"
-Chad,chadiano,chadiana,,"{'m': 'Soy chadiano.', 'f': 'Soy chadiana.', 'n': None}"
-Chile,chileno,chilena,,"{'m': 'Soy chileno.', 'f': 'Soy chilena.', 'n': None}"
-China,chino,china,,"{'m': 'Soy chino.', 'f': 'Soy china.', 'n': None}"
-Colombia,colombiano,colombiana,,"{'m': 'Soy colombiano.', 'f': 'Soy colombiana.', 'n': None}"
-Comoros,,,comorense,"{'m': None, 'f': None, 'n': 'Soy comorense.'}"
-Congo,congoleño,congoleña,,"{'m': 'Soy congoleño.', 'f': 'Soy congoleña.', 'n': None}"
-Costa Rica,,,costarricense,"{'m': None, 'f': None, 'n': 'Soy costarricense.'}"
-Côte d'Ivoire,costamarfileño,costamarfileña,,"{'m': 'Soy costamarfileño.', 'f': 'Soy costamarfileña.', 'n': None}"
-Croatia,,,croata,"{'m': None, 'f': None, 'n': 'Soy croata.'}"
-Cuba,cubano,cubana,,"{'m': 'Soy cubano.', 'f': 'Soy cubana.', 'n': None}"
-Cyprus,,,chipriota,"{'m': None, 'f': None, 'n': 'Soy chipriota.'}"
-Czech Republic,checo,checa,,"{'m': 'Soy checo.', 'f': 'Soy checa.', 'n': None}"
-Denmark,danés,danésa,,"{'m': 'Soy danés.', 'f': 'Soy danésa.', 'n': None}"
-Djibouti,Yibutiano,Yibutiana,,"{'m': 'Soy Yibutiano.', 'f': 'Soy Yibutiana.', 'n': None}"
-Dominican Republic,dominicano,dominicana,,"{'m': 'Soy dominicano.', 'f': 'Soy dominicana.', 'n': None}"
-Dominican Republic,dominiqués,dominiquésa,,"{'m': 'Soy dominiqués.', 'f': 'Soy dominiquésa.', 'n': None}"
-Ecuador,ecuatoriano,ecuatoriana,,"{'m': 'Soy ecuatoriano.', 'f': 'Soy ecuatoriana.', 'n': None}"
-Egypt,egipcio,egipcia,,"{'m': 'Soy egipcio.', 'f': 'Soy egipcia.', 'n': None}"
-El Salvador,salvadoreño,salvadorena,,"{'m': 'Soy salvadoreño.', 'f': 'Soy salvadorena.', 'n': None}"
-England,inglés,inglésa,,"{'m': 'Soy inglés.', 'f': 'Soy inglésa.', 'n': None}"
-Equatorial Guinea,ecuatoguineano,ecuatoguineana,,"{'m': 'Soy ecuatoguineano.', 'f': 'Soy ecuatoguineana.', 'n': None}"
-Eritrea,eritreo,eritra,,"{'m': 'Soy eritreo.', 'f': 'Soy eritra.', 'n': None}"
-Estonia,estonio,estona,,"{'m': 'Soy estonio.', 'f': 'Soy estona.', 'n': None}"
-Eswatini,,,esuatiní,"{'m': None, 'f': None, 'n': 'Soy esuatiní.'}"
-Ethiopia,,,etíope,"{'m': None, 'f': None, 'n': 'Soy etíope.'}"
-Falkland Islands,,,malvinense,"{'m': None, 'f': None, 'n': 'Soy malvinense.'}"
-Faroe Islands,feroés,feroésa,,"{'m': 'Soy feroés.', 'f': 'Soy feroésa.', 'n': None}"
-Federated States of Micronesia,micronesio,micronesia,,"{'m': 'Soy micronesio.', 'f': 'Soy micronesia.', 'n': None}"
-Fiji,fiyiano,fiyiana,,"{'m': 'Soy fiyiano.', 'f': 'Soy fiyiana.', 'n': None}"
-Finland,finlandés,finlandésa,,"{'m': 'Soy finlandés.', 'f': 'Soy finlandésa.', 'n': None}"
-France,francés,francésa,,"{'m': 'Soy francés.', 'f': 'Soy francésa.', 'n': None}"
-Gabon,gabonés,gabonésa,,"{'m': 'Soy gabonés.', 'f': 'Soy gabonésa.', 'n': None}"
-Georgia,georgiano,georgiana,,"{'m': 'Soy georgiano.', 'f': 'Soy georgiana.', 'n': None}"
-Germany,alemán,,,"{'m': 'Soy alemán.', 'f': None, 'n': None}"
-Ghana,ghanés,ghanésa,,"{'m': 'Soy ghanés.', 'f': 'Soy ghanésa.', 'n': None}"
-Granada,granadino,granadina,,"{'m': 'Soy granadino.', 'f': 'Soy granadina.', 'n': None}"
-Great Britain,británico,británica,,"{'m': 'Soy británico.', 'f': 'Soy británica.', 'n': None}"
-Greece,griego,griega,,"{'m': 'Soy griego.', 'f': 'Soy griega.', 'n': None}"
-Greenland,groenlandés,groenlandésa,,"{'m': 'Soy groenlandés.', 'f': 'Soy groenlandésa.', 'n': None}"
-Guatemala,guatemalteco,guatemalteca,,"{'m': 'Soy guatemalteco.', 'f': 'Soy guatemalteca.', 'n': None}"
-Guinea,guineano,guineana,,"{'m': 'Soy guineano.', 'f': 'Soy guineana.', 'n': None}"
-Guinea-Bissau,,,de Guinea-Bisáu,"{'m': None, 'f': None, 'n': 'Soy de Guinea-Bisáu.'}"
-Guyana,guyanés,guyanésa,,"{'m': 'Soy guyanés.', 'f': 'Soy guyanésa.', 'n': None}"
-Haiti,haitiano,haitiana,,"{'m': 'Soy haitiano.', 'f': 'Soy haitiana.', 'n': None}"
-Honduras,hondureño,hondureña,,"{'m': 'Soy hondureño.', 'f': 'Soy hondureña.', 'n': None}"
-Hong Kong,hongkonés,hongkonésa,,"{'m': 'Soy hongkonés.', 'f': 'Soy hongkonésa.', 'n': None}"
-Hungary,húngaro,húngara,,"{'m': 'Soy húngaro.', 'f': 'Soy húngara.', 'n': None}"
-Iceland,islandés,islandésa,,"{'m': 'Soy islandés.', 'f': 'Soy islandésa.', 'n': None}"
-India,indio,india,,"{'m': 'Soy indio.', 'f': 'Soy india.', 'n': None}"
-Indonesia,indonesio,indonesia,,"{'m': 'Soy indonesio.', 'f': 'Soy indonesia.', 'n': None}"
-Iran ,,,iraní,"{'m': None, 'f': None, 'n': 'Soy iraní.'}"
-Iraq,,,iraquí,"{'m': None, 'f': None, 'n': 'Soy iraquí.'}"
-Ireland,irlandés,irlandésa,,"{'m': 'Soy irlandés.', 'f': 'Soy irlandésa.', 'n': None}"
-Israel,,,israelí,"{'m': None, 'f': None, 'n': 'Soy israelí.'}"
-Italy,italiano,italiana,,"{'m': 'Soy italiano.', 'f': 'Soy italiana.', 'n': None}"
-Jamaica,jamaicano,jamaicana,,"{'m': 'Soy jamaicano.', 'f': 'Soy jamaicana.', 'n': None}"
-Japan,japonés,japonésa,,"{'m': 'Soy japonés.', 'f': 'Soy japonésa.', 'n': None}"
-Jordan,jordano,jordana,,"{'m': 'Soy jordano.', 'f': 'Soy jordana.', 'n': None}"
-Kazakhstan,kazajo,kazaja,,"{'m': 'Soy kazajo.', 'f': 'Soy kazaja.', 'n': None}"
-Kenya,,,keniata,"{'m': None, 'f': None, 'n': 'Soy keniata.'}"
-Kiribati,kiribatiano,kiribatiana,,"{'m': 'Soy kiribatiano.', 'f': 'Soy kiribatiana.', 'n': None}"
-Kosovo ,,,kosovar,"{'m': None, 'f': None, 'n': 'Soy kosovar.'}"
-Kuwait,,,kuwaití,"{'m': None, 'f': None, 'n': 'Soy kuwaití.'}"
-Kyrgyzstan,,,kirguís,"{'m': None, 'f': None, 'n': 'Soy kirguís.'}"
-Lao People’s Democratic Republic,laosiano,laosiana,,"{'m': 'Soy laosiano.', 'f': 'Soy laosiana.', 'n': None}"
-Latvia,letón,,,"{'m': 'Soy letón.', 'f': None, 'n': None}"
-Lebanon,libanés,libanésa,,"{'m': 'Soy libanés.', 'f': 'Soy libanésa.', 'n': None}"
-Lesotho,,,lesotense,"{'m': None, 'f': None, 'n': 'Soy lesotense.'}"
-Liberia,liberiano,liberiana,,"{'m': 'Soy liberiano.', 'f': 'Soy liberiana.', 'n': None}"
-Libya,libio,libia,,"{'m': 'Soy libio.', 'f': 'Soy libia.', 'n': None}"
-Liechtenstein,liechtensteiniano,liechtensteiniana,,"{'m': 'Soy liechtensteiniano.', 'f': 'Soy liechtensteiniana.', 'n': None}"
-Lithuania,lituano,lituana,,"{'m': 'Soy lituano.', 'f': 'Soy lituana.', 'n': None}"
-Luxembourg,luxemburgués,luxemburguésa,,"{'m': 'Soy luxemburgués.', 'f': 'Soy luxemburguésa.', 'n': None}"
-Macau,,,macaense,"{'m': None, 'f': None, 'n': 'Soy macaense.'}"
-Madagascar,,,malgache,"{'m': None, 'f': None, 'n': 'Soy malgache.'}"
-Malawi,,,malauí,"{'m': None, 'f': None, 'n': 'Soy malauí.'}"
-Malaysia,malasio,malasia,,"{'m': 'Soy malasio.', 'f': 'Soy malasia.', 'n': None}"
-Maldives,maldivo,maldiva,,"{'m': 'Soy maldivo.', 'f': 'Soy maldiva.', 'n': None}"
-Mali,,,malí,"{'m': None, 'f': None, 'n': 'Soy malí.'}"
-Malta,maltés,maltésa,,"{'m': 'Soy maltés.', 'f': 'Soy maltésa.', 'n': None}"
-Marshall Islands,marshalés,marshalésa,,"{'m': 'Soy marshalés.', 'f': 'Soy marshalésa.', 'n': None}"
-Mauritania,mauritano,mauritana,,"{'m': 'Soy mauritano.', 'f': 'Soy mauritana.', 'n': None}"
-Mauritius,mauriciano,mauriciana,,"{'m': 'Soy mauriciano.', 'f': 'Soy mauriciana.', 'n': None}"
-Mexico,mexicano,mexicana,,"{'m': 'Soy mexicano.', 'f': 'Soy mexicana.', 'n': None}"
-Moldova/Republic of Moldova,moldavo,moldava,,"{'m': 'Soy moldavo.', 'f': 'Soy moldava.', 'n': None}"
-Monaco,monegasco,monegasca,,"{'m': 'Soy monegasco.', 'f': 'Soy monegasca.', 'n': None}"
-Mongoloia,mongol,,,"{'m': 'Soy mongol.', 'f': None, 'n': None}"
-Montenegro,montenegrino,montenegrina,,"{'m': 'Soy montenegrino.', 'f': 'Soy montenegrina.', 'n': None}"
-Morocco,,,marroquí,"{'m': None, 'f': None, 'n': 'Soy marroquí.'}"
-Mozambique,mozambiqueño,mozambiqueña,,"{'m': 'Soy mozambiqueño.', 'f': 'Soy mozambiqueña.', 'n': None}"
-Naminia,namibio,namibia,,"{'m': 'Soy namibio.', 'f': 'Soy namibia.', 'n': None}"
-Nauru,nauruano,nauruana,,"{'m': 'Soy nauruano.', 'f': 'Soy nauruana.', 'n': None}"
-Nepal,nepalés,nepalésa,,"{'m': 'Soy nepalés.', 'f': 'Soy nepalésa.', 'n': None}"
-Netherlands,neerlandés,neerlandésa,,"{'m': 'Soy neerlandés.', 'f': 'Soy neerlandésa.', 'n': None}"
-New Zealand,neozelandés,neozelandésa,,"{'m': 'Soy neozelandés.', 'f': 'Soy neozelandésa.', 'n': None}"
-Nicaragua,,,nicaragüense,"{'m': None, 'f': None, 'n': 'Soy nicaragüense.'}"
-Niger,nigerino,nigerina,,"{'m': 'Soy nigerino.', 'f': 'Soy nigerina.', 'n': None}"
-Nigeria,nigeriano,nigeriana,,"{'m': 'Soy nigeriano.', 'f': 'Soy nigeriana.', 'n': None}"
-North Korea,,,de la República Popular Democrática de Corea,"{'m': None, 'f': None, 'n': 'Soy de la República Popular Democrática de Corea.'}"
-North Macedonia,macedonio,macedonia,,"{'m': 'Soy macedonio.', 'f': 'Soy macedonia.', 'n': None}"
-Northern Ireland,norirlandés,norirlandésa,,"{'m': 'Soy norirlandés.', 'f': 'Soy norirlandésa.', 'n': None}"
-Norway,noruego,noruega,,"{'m': 'Soy noruego.', 'f': 'Soy noruega.', 'n': None}"
-Oman,,,omaní,"{'m': None, 'f': None, 'n': 'Soy omaní.'}"
-Pakistand,,,pakistaní,"{'m': None, 'f': None, 'n': 'Soy pakistaní.'}"
-Palau,palauano,palauana,,"{'m': 'Soy palauano.', 'f': 'Soy palauana.', 'n': None}"
-Palestine ,palestino,palestina,,"{'m': 'Soy palestino.', 'f': 'Soy palestina.', 'n': None}"
-Panama,panameño,panameña,,"{'m': 'Soy panameño.', 'f': 'Soy panameña.', 'n': None}"
-Papua New Guinea,,,papú,"{'m': None, 'f': None, 'n': 'Soy papú.'}"
-Paraguay,paraguayo,paraguaya,,"{'m': 'Soy paraguayo.', 'f': 'Soy paraguaya.', 'n': None}"
-Peru,peruano,peruana,,"{'m': 'Soy peruano.', 'f': 'Soy peruana.', 'n': None}"
-Philippines,filipino,filipina,,"{'m': 'Soy filipino.', 'f': 'Soy filipina.', 'n': None}"
-Poland,polaco,polaca,,"{'m': 'Soy polaco.', 'f': 'Soy polaca.', 'n': None}"
-Portugal,portugués,portuguésa,,"{'m': 'Soy portugués.', 'f': 'Soy portuguésa.', 'n': None}"
-Puerto Rico,puertorriqueño,puertorriqueña,,"{'m': 'Soy puertorriqueño.', 'f': 'Soy puertorriqueña.', 'n': None}"
-Romania,rumano,rumana,,"{'m': 'Soy rumano.', 'f': 'Soy rumana.', 'n': None}"
-Russian Federation,ruso,rusa,,"{'m': 'Soy ruso.', 'f': 'Soy rusa.', 'n': None}"
-Rwanda,ruandés,ruandésa,,"{'m': 'Soy ruandés.', 'f': 'Soy ruandésa.', 'n': None}"
-Saint Kitts and Nevis,sancristobaleño,sancristobaleña,,"{'m': 'Soy sancristobaleño.', 'f': 'Soy sancristobaleña.', 'n': None}"
-Saint Lucia,,,santalucense,"{'m': None, 'f': None, 'n': 'Soy santalucense.'}"
-Saint Vincent and the Grenadines,sanvicentino,sanvicentina,,"{'m': 'Soy sanvicentino.', 'f': 'Soy sanvicentina.', 'n': None}"
-Samoa,samoano,samoana,,"{'m': 'Soy samoano.', 'f': 'Soy samoana.', 'n': None}"
-San Marino,,,sanmarinense,"{'m': None, 'f': None, 'n': 'Soy sanmarinense.'}"
-Saudi Arabia,,,saudí,"{'m': None, 'f': None, 'n': 'Soy saudí.'}"
-Scotland,escocés,escocésa,,"{'m': 'Soy escocés.', 'f': 'Soy escocésa.', 'n': None}"
-Senegal,senegalés,senegalésa,,"{'m': 'Soy senegalés.', 'f': 'Soy senegalésa.', 'n': None}"
-Serbia,serbio,serbia,,"{'m': 'Soy serbio.', 'f': 'Soy serbia.', 'n': None}"
-Seychelles,,,seychellense,"{'m': None, 'f': None, 'n': 'Soy seychellense.'}"
-Sierra Leone,sierraleonés,sierraleonésa,,"{'m': 'Soy sierraleonés.', 'f': 'Soy sierraleonésa.', 'n': None}"
-Singapore,,,singapurense,"{'m': None, 'f': None, 'n': 'Soy singapurense.'}"
-Slovakia,eslovaco,eslovaca,,"{'m': 'Soy eslovaco.', 'f': 'Soy eslovaca.', 'n': None}"
-Slovenia,esloveno,eslovena,,"{'m': 'Soy esloveno.', 'f': 'Soy eslovena.', 'n': None}"
-Solomon Islands,,,salomonense,"{'m': None, 'f': None, 'n': 'Soy salomonense.'}"
-Somalia,,,somalí,"{'m': None, 'f': None, 'n': 'Soy somalí.'}"
-South Africa,sudafricano,sudafricana,,"{'m': 'Soy sudafricano.', 'f': 'Soy sudafricana.', 'n': None}"
-South Korea,,,de la República de Corea,"{'m': None, 'f': None, 'n': 'Soy de la República de Corea.'}"
-South Sudan,,,sursudanés,"{'m': None, 'f': None, 'n': 'Soy sursudanés.'}"
-Spain,español,,,"{'m': 'Soy español.', 'f': None, 'n': None}"
-Sri Lanka,esrilanqués,esrilanquésa,,"{'m': 'Soy esrilanqués.', 'f': 'Soy esrilanquésa.', 'n': None}"
-Sudan,,,sudanés,"{'m': None, 'f': None, 'n': 'Soy sudanés.'}"
-Suriname,surinamés,surinamésa,,"{'m': 'Soy surinamés.', 'f': 'Soy surinamésa.', 'n': None}"
-Swaziland,,,suazi,"{'m': None, 'f': None, 'n': 'Soy suazi.'}"
-Sweden,sueco,sueca,,"{'m': 'Soy sueco.', 'f': 'Soy sueca.', 'n': None}"
-Switzerland,suizo,suiza,,"{'m': 'Soy suizo.', 'f': 'Soy suiza.', 'n': None}"
-Syria,sirio,siria,,"{'m': 'Soy sirio.', 'f': 'Soy siria.', 'n': None}"
-São Tomé and Príncipe,,,santotomense,"{'m': None, 'f': None, 'n': 'Soy santotomense.'}"
-Taiwan,taiwanés,taiwanésa,,"{'m': 'Soy taiwanés.', 'f': 'Soy taiwanésa.', 'n': None}"
-Tajikistan,tayiko,tayika,,"{'m': 'Soy tayiko.', 'f': 'Soy tayika.', 'n': None}"
-Tanzania,tanzano,tanzaa,,"{'m': 'Soy tanzano.', 'f': 'Soy tanzaa.', 'n': None}"
-Thailand,tailandés,tailandésa,,"{'m': 'Soy tailandés.', 'f': 'Soy tailandésa.', 'n': None}"
-The Gambia,gambiano,gambiana,,"{'m': 'Soy gambiano.', 'f': 'Soy gambiana.', 'n': None}"
-TImor-Leste,,,timorense,"{'m': None, 'f': None, 'n': 'Soy timorense.'}"
-Togo,togolés,togolésa,,"{'m': 'Soy togolés.', 'f': 'Soy togolésa.', 'n': None}"
-Tonga,tongano,tongana,,"{'m': 'Soy tongano.', 'f': 'Soy tongana.', 'n': None}"
-Trinidad and Tobago,,,trinitense,"{'m': None, 'f': None, 'n': 'Soy trinitense.'}"
-Tunisia,tunecino,tunecina,,"{'m': 'Soy tunecino.', 'f': 'Soy tunecina.', 'n': None}"
-"Turkey, Türkiye",turco,turca,,"{'m': 'Soy turco.', 'f': 'Soy turca.', 'n': None}"
-Turkmenistan,turcomano,turcomana,,"{'m': 'Soy turcomano.', 'f': 'Soy turcomana.', 'n': None}"
-Tuvalu,tuvaluano,tuvaluana,,"{'m': 'Soy tuvaluano.', 'f': 'Soy tuvaluana.', 'n': None}"
-Uganda,ugandés,ugandésa,,"{'m': 'Soy ugandés.', 'f': 'Soy ugandésa.', 'n': None}"
-Ukraine,ucraniano,ucraniana,,"{'m': 'Soy ucraniano.', 'f': 'Soy ucraniana.', 'n': None}"
-United Arab Emirates ,,,emiratí,"{'m': None, 'f': None, 'n': 'Soy emiratí.'}"
-United Kingdom of Great Britain and Northern Ireland,británico,británia,,"{'m': 'Soy británico.', 'f': 'Soy británia.', 'n': None}"
-United Republic of Tanzania,tanzano,tanzana,,"{'m': 'Soy tanzano.', 'f': 'Soy tanzana.', 'n': None}"
-United States of America ,,,estadounidense,"{'m': None, 'f': None, 'n': 'Soy estadounidense.'}"
-Uruguay,uruguayo,uruguaya,,"{'m': 'Soy uruguayo.', 'f': 'Soy uruguaya.', 'n': None}"
-Uzbekistan,uzbeko,uzbeka,,"{'m': 'Soy uzbeko.', 'f': 'Soy uzbeka.', 'n': None}"
-Vanuatu,,,vanuatuense,"{'m': None, 'f': None, 'n': 'Soy vanuatuense.'}"
-Venezuela,venezolano,venezolana,,"{'m': 'Soy venezolano.', 'f': 'Soy venezolana.', 'n': None}"
-Vietnam,,,vietnamita,"{'m': None, 'f': None, 'n': 'Soy vietnamita.'}"
-Wales,galés,galésa,,"{'m': 'Soy galés.', 'f': 'Soy galésa.', 'n': None}"
-Yemen,,,yemení,"{'m': None, 'f': None, 'n': 'Soy yemení.'}"
-Zambia,zambiano,zambiana,,"{'m': 'Soy zambiano.', 'f': 'Soy zambiana.', 'n': None}"
-Zimbabwe,,,zimbabuense,"{'m': None, 'f': None, 'n': 'Soy zimbabuense.'}"
+eng,deu_m,deu_f,deu_n,output,extracted
+I am Afghan.,Ich bin Afghane.,Ich bin  Afghanin.,,"Sure! The translation of ""I am Afghan"" into German is ""Ich bin Afghane.""",['Ich bin Afghane.']
+I am Angolan.,Ich bin Angolaner.,Ich bin  Angolanerin.,,"Sure! The translation of ""I am Angolan"" into German is ""Ich bin Angolaner.""",['Ich bin Angolaner.']
+I am Albanian.,Ich bin Albaner.,Ich bin  Albanerin.,,"Sure! The translation of ""I am Albanian"" into German is ""Ich bin Albaner.""",['Ich bin Albaner.']
+I am Andorran.,Ich bin Andorraner.,Ich bin  Andorranerin.,,"Sure! The translation of ""I am Andorran"" into German is ""Ich bin Andorraner.""",['Ich bin Andorraner.']
+I am Emirati.,,,,"Sure! The translation of ""I am Emirati"" into German is ""Ich bin Emirati.""",['Ich bin Emirati.']
+I am Argentine.,Ich bin Argentinier.,Ich bin  Argentinierin.,,"Sure! The translation of ""I am Argentine"" into German is ""Ich bin Argentinier.""",['Ich bin Argentinier.']
+I am Armenian.,Ich bin Armenier.,Ich bin  Armenierin.,,"Sure! The translation of ""I am Armenian"" into German is ""Ich bin Armenier.""",['Ich bin Armenier.']
+I am Antiguan.,Ich bin Antiguaner.,Ich bin  Antiguanerin.,,"Sure! The translation of ""I am Antiguan"" into German is ""Ich bin Antiguaner.""",['Ich bin Antiguaner.']
+I am Australian.,Ich bin Australier.,Ich bin  Australierin.,,"Sure! The translation of ""I am Australian"" into German is ""Ich bin Australier.""",['Ich bin Australier.']
+I am Austrian.,Ich bin Österreicher.,Ich bin  Österreicherin.,,"Sure! The translation of ""I am Austrian"" into German is ""Ich bin Österreicher.""",['Ich bin Österreicher.']
+I am Azerbaijani.,Ich bin Aserbaidschaner.,Ich bin  Aserbaidschanerin.,,"Sure! The translation of ""I am Azerbaijani"" into German is ""Ich bin Aserbaidschaner.""",['Ich bin Aserbaidschaner.']
+I am Burundian.,Ich bin Burundier.,Ich bin Burundierin.,,"Sure! The sentence ""I am Burundian"" translates to ""Ich bin Burundier"" in German.",['Ich bin Burundier']
+I am Belgian.,Ich bin Belgier.,Ich bin Belgierin.,,"Sure! The translation of ""I am Belgian"" into German is ""Ich bin Belgier.""",['Ich bin Belgier.']
+I am Beninese.,Ich bin Beniner.,Ich bin  Beninerin.,,"Sure! The translation of ""I am Beninese"" into German is ""Ich bin Beniner.""",['Ich bin Beniner.']
+I am Burkinabe.,Ich bin Burkiner.,Ich bin  Burkinerin.,,"Sure! The translation of ""I am Burkinabe"" into German is ""Ich bin Burkiner.""",['Ich bin Burkiner.']
+I am Bangladeshi.,Ich bin Bangladescher.,Ich bin  Bangladescherin.,,"Sure! The translation of ""I am Bangladeshi"" into German is ""Ich bin Bangladescher"" for a male speaker or ""Ich bin Bangladescherin"" for a female speaker.","['Ich bin Bangladescher', 'Ich bin Bangladescherin']"
+I am Bulgarian.,Ich bin Bulgare.,Ich bin  Bulgarin.,,"Sure! The translation of ""I am Bulgarian"" into German is ""Ich bin Bulgare/Bulgarin.""",['Ich bin Bulgare/Bulgarin.']
+I am Bahraini.,Ich bin Bahrainer.,Ich bin  Bahrainerin.,,"Sure! The translation of ""I am Bahraini"" into German is ""Ich bin Bahrainer.""",['Ich bin Bahrainer.']
+I am Bahamian.,Ich bin Bahamaer.,Ich bin  Bahamaerin.,,"Sure! The translation of ""I am Bahamian"" into German is ""Ich bin Bahamaer/in.""","['Ich bin Bahamaer.', 'Ich bin Bahamaerin.']"
+I am Bosnian.,Ich bin Bosnier.,Ich bin  Bosnierin.,,"Sure! The translation of ""I am Bosnian"" into German is ""Ich bin Bosnier/in.""","['Ich bin Bosnier.', 'Ich bin Bosnierin.']"
+I am Belarusian.,Ich bin Belarusse.,Ich bin  Belarussin.,,"Sure! The translation of ""I am Belarusian"" into German is ""Ich bin Weißrussisch.""",['Ich bin Weißrussisch.']
+I am Belizean.,Ich bin Belizer.,Ich bin  Belizerin.,,"Sure! The translation of ""I am Belizean"" into German is ""Ich bin Belizeaner/in.""","['Ich bin Belizeaner.', 'Ich bin Belizeanerin.']"
+I am Bolivian.,Ich bin Bolivianer.,Ich bin  Bolivianerin.,,"Sure! The translation of ""I am Bolivian"" into German is ""Ich bin Bolivianer.""",['Ich bin Bolivianer.']
+I am Brazilian.,Ich bin Brasilianer.,Ich bin  Brasilianerin.,,"Sure! The translation of ""I am Brazilian"" into German is ""Ich bin Brasilianer.""",['Ich bin Brasilianer.']
+I am Barbadian.,Ich bin Barbadier.,Ich bin  Barbadierin.,,"Sure! The translation of ""I am Barbadian"" into German is ""Ich bin Barbadier.""",['Ich bin Barbadier.']
+I am Bruneian.,Ich bin Bruneier.,Ich bin  Bruneierin.,,"Sure! The translation of ""I am Bruneian"" into German is ""Ich bin Bruneier.""",['Ich bin Bruneier.']
+I am Bhutanese.,Ich bin Bhutaner.,Ich bin  Bhutanerin.,,"Sure! The translation of ""I am Bhutanese"" into German is ""Ich bin Bhutaner.""",['Ich bin Bhutaner.']
+I am Motswana.,Ich bin Botsuaner.,Ich bin  Botsuanerin.,,"Sure! The translation of ""I am Motswana"" into German is ""Ich bin Motswana.""",['Ich bin Motswana.']
+I am Central African.,Ich bin Zentralafrikaner.,Ich bin  Zentralafrikanerin.,,"Sure! The translation of ""I am Central African"" into German is ""Ich bin Zentralafrikaner.""",['Ich bin Zentralafrikaner.']
+I am Canadian.,Ich bin Kanadier.,Ich bin  Kanadierin.,,"Sure! The translation of ""I am Canadian"" into German is ""Ich bin Kanadier.""",['Ich bin Kanadier.']
+I am Swiss.,Ich bin Schweizer.,Ich bin  Schweizerin.,,"Sure! The translation of ""I am Swiss"" into German is ""Ich bin Schweizer.""",['Ich bin Schweizer.']
+I am Chilean.,Ich bin Chilene.,Ich bin  Chilenin.,,"Sure! The translation of ""I am Chilean"" into German is ""Ich bin Chilene.""",['Ich bin Chilene.']
+I am Chinese.,Ich bin Chinese.,Ich bin  Chinesin.,,"Sure! The translation of ""I am Chinese"" into German is ""Ich bin Chinese.""",['Ich bin Chinese.']
+I am Ivorian.,Ich bin Ivorer.,Ich bin Ivorerin.,,"Sure! The translation of ""I am Ivorian"" into German is ""Ich bin Ivorer.""",['Ich bin Ivorer.']
+I am Cameroonian.,Ich bin Kameruner.,Ich bin  Kamerunerin.,,"Sure! The translation of ""I am Cameroonian"" into German is ""Ich bin Kameruner.""",['Ich bin Kameruner.']
+I am Congolese.,Ich bin Kongolese.,Ich bin Kongolesin.,,"Sure! The translation of ""I am Congolese"" into German is ""Ich bin Kongolese.""",['Ich bin Kongolese.']
+I am Congolese.,Ich bin Kongolese.,Ich bin Kongolesin.,,"Sure! The translation of ""I am Congolese"" into German is ""Ich bin Kongolese.""",['Ich bin Kongolese.']
+I am Colombian.,Ich bin Kolumbianer.,Ich bin  Kolumbianerin.,,"Sure! The translation of ""I am Colombian"" into German is ""Ich bin Kolumbianer.""",['Ich bin Kolumbianer.']
+I am Comoran.,Ich bin Komorer.,Ich bin  Komorerin.,,"Sure! The translation of ""I am Comoran"" into German is ""Ich bin Komorer.""",['Ich bin Komorer.']
+I am Cape Verdian.,,,,"Sure! The translation of ""I am Cape Verdian"" into German is ""Ich bin Kapverdier.""",['Ich bin Kapverdier.']
+I am Costa Rican.,Ich bin Costa Ricaner.,Ich bin  Costa Ricanerin.,,"Sure! The translation of ""I am Costa Rican"" into German is ""Ich bin Costa Ricaner.""",['Ich bin Costa Ricaner.']
+I am Cuban.,Ich bin Kubaner.,Ich bin  Kubanerin.,,"Sure! The translation of ""I am Cuban"" into German is ""Ich bin Kubaner.""",['Ich bin Kubaner.']
+I am Cypriot.,Ich bin Zyprer.,Ich bin  Zyprerin.,,"Sure! The translation of ""I am Cypriot"" into German is ""Ich bin Zyprer.""",['Ich bin Zyprer.']
+I am Czech.,Ich bin Tscheche.,Ich bin Tschechin.,,"Sure! The translation of ""I am Czech"" into German is ""Ich bin Tscheche.""",['Ich bin Tscheche.']
+I am German.,Ich bin Deutsche.,Ich bin  Deutsche.,,"Sure! The translation of ""I am German"" into German is ""Ich bin Deutsch.""",['Ich bin Deutsch.']
+I am Djibouti.,Ich bin Dschibutier.,Ich bin  Dschibutierin.,,"Sure! The translation of ""I am Djibouti"" into German is ""Ich bin Djibouti.""",['Ich bin Djibouti.']
+I am Dominican.,Ich bin Dominicaner.,Ich bin Dominicanerin.,,"Sure! The translation of ""I am Dominican"" into German is ""Ich bin Dominikaner.""",['Ich bin Dominikaner.']
+I am Danish.,Ich bin Däne.,Ich bin  Dänin.,,"Sure! The translation of ""I am Danish"" into German is ""Ich bin Dänisch.""",['Ich bin Dänisch.']
+I am Dominican.,Ich bin Dominikaner.,Ich bin  Dominikanerin.,,"Sure! The translation of ""I am Dominican"" into German is ""Ich bin Dominikaner.""",['Ich bin Dominikaner.']
+I am Algerian.,Ich bin Algerier.,Ich bin  Algerierin.,,"Sure! The translation of ""I am Algerian"" into German is ""Ich bin Algerier.""",['Ich bin Algerier.']
+I am Ecuadorean.,Ich bin Ecuadorianer.,Ich bin  Ecuadorianerin.,,"Sure! The translation of ""I am Ecuadorean"" into German is ""Ich bin Ecuadorianer.""",['Ich bin Ecuadorianer.']
+I am Egyptian.,Ich bin Ägypter.,Ich bin  Ägypterin.,,"Sure! The translation of ""I am Egyptian"" into German is ""Ich bin Ägypter.""",['Ich bin Ägypter.']
+I am Eritrean.,Ich bin Eritreer.,Ich bin  Eritreerin.,,"Sure! The translation of ""I am Eritrean"" into German is ""Ich bin Eritreer.""",['Ich bin Eritreer.']
+I am Spanish.,Ich bin Spanier.,Ich bin  Spanierin.,,"Sure! The translation of ""I am Spanish"" into German is ""Ich bin Spanier.""",['Ich bin Spanier.']
+I am Estonian.,Ich bin Este.,Ich bin  Estin.,,"Sure! The translation of ""I am Estonian"" into German is ""Ich bin Este(in).""",['Ich bin Este(in).']
+I am Ethiopian.,Ich bin Äthiopier.,Ich bin  Äthiopierin.,,"Sure! The translation of ""I am Ethiopian"" into German is ""Ich bin Äthiopier.""",['Ich bin Äthiopier.']
+I am Finnish.,Ich bin Finne.,Ich bin  Finnin.,,"Sure! The translation of ""I am Finnish"" into German is ""Ich bin Finne.""",['Ich bin Finne.']
+I am Fijian.,Ich bin Fidschianer.,Ich bin  Fidschianerin.,,"Sure! The translation of ""I am Fijian"" into German is ""Ich bin Fidschianer.""",['Ich bin Fidschianer.']
+I am French.,Ich bin Franzose.,Ich bin  Französin.,,"Sure! The translation of ""I am French"" into German is ""Ich bin Franzose / Ich bin Französin"" depending on the gender of the speaker.",['Ich bin Franzose / Ich bin Französin']
+I am Micronesian.,Ich bin Mikronesier.,Ich bin  Mikronesierin.,,"Sure! The translation of ""I am Micronesian"" into German is ""Ich bin Mikronesier.""",['Ich bin Mikronesier.']
+I am Gabonese.,Ich bin Gabuner.,Ich bin  Gabunerin.,,"Sure! The translation of ""I am Gabonese"" into German is ""Ich bin Gabuner.""",['Ich bin Gabuner.']
+I am British.,Ich bin Brite.,Ich bin  Britin.,,"Sure! The translation of ""I am British"" into German is ""Ich bin Brite.""",['Ich bin Brite.']
+I am Georgian.,Ich bin Georgier.,Ich bin  Georgierin.,,"Sure! The translation of ""I am Georgian"" into German is ""Ich bin Georgier.""",['Ich bin Georgier.']
+I am Ghanaian.,Ich bin Ghanaer.,Ich bin  Ghanaerin.,,"Sure! The translation of ""I am Ghanaian"" into German is ""Ich bin Ghanaer.""",['Ich bin Ghanaer.']
+I am Guinean.,Ich bin Guineer.,Ich bin  Guineerin.,,"Sure! The translation of ""I am Guinean"" into German is ""Ich bin Guineer.""",['Ich bin Guineer.']
+I am Gambian.,Ich bin Gambier.,Ich bin Gambierin.,,"Sure! The translation of ""I am Gambian"" into German is ""Ich bin Gambier.""",['Ich bin Gambier.']
+I am Guinea-Bissauan.,Ich bin Guinea-Bissauer.,Ich bin Guinea-Bissauerin.,,"Sure! The translation of ""I am Guinea-Bissauan"" into German is ""Ich bin aus Guinea-Bissau.""",['Ich bin aus Guinea-Bissau.']
+I am Equatorial Guinean.,Ich bin Äquatorialguineer.,Ich bin  Äquatorialguineerin.,,"Sure! The translation of ""I am Equatorial Guinean"" into German is ""Ich bin Äquatorialguineer.""",['Ich bin Äquatorialguineer.']
+I am Greek.,Ich bin Grieche.,Ich bin  Griechin.,,"Sure! The translation of ""I am Greek"" into German is ""Ich bin Grieche.""",['Ich bin Grieche.']
+I am Grenadian.,Ich bin Grenader.,Ich bin  Grenaderin.,,"Sure! The translation of ""I am Grenadian"" into German is ""Ich bin Grenadier/in.""","['Ich bin Grenadier.', 'Ich bin Grenadierin.']"
+I am Guatemalan.,Ich bin Guatemalteke.,Ich bin  Guatemaltekin.,,"Sure! The translation of ""I am Guatemalan"" into German is ""Ich bin Guatemalteke/in.""","['Ich bin Guatemalteke.', 'Ich bin Guatemaltekein.']"
+I am Guyanese.,Ich bin Guyaner.,Ich bin  Guyanerin.,,"Sure! The translation of ""I am Guyanese"" into German is ""Ich bin Guyaner.""",['Ich bin Guyaner.']
+I am Honduran.,Ich bin Honduraner.,Ich bin  Honduranerin.,,"Sure! The translation of ""I am Honduran"" into German is ""Ich bin Honduraner.""",['Ich bin Honduraner.']
+I am Croatian.,Ich bin Kroate.,Ich bin  Kroatin.,,"Sure! The translation of ""I am Croatian"" into German is ""Ich bin Kroate"" for a male speaker or ""Ich bin Kroatin"" for a female speaker.","['Ich bin Kroate', 'Ich bin Kroatin']"
+I am Haitian.,Ich bin Haitianer.,Ich bin  Haitinaerin.,,"Sure! The translation of ""I am Haitian"" into German is ""Ich bin Haitianer.""",['Ich bin Haitianer.']
+I am Hungarian.,Ich bin Ungar.,Ich bin  Ungarin.,,"Sure! The translation of ""I am Hungarian"" into German is ""Ich bin Ungar.""",['Ich bin Ungar.']
+I am Indonesian.,Ich bin Indonesier.,Ich bin  Indonesierin.,,"Sure! The translation of ""I am Indonesian"" into German is ""Ich bin Indonesier.""",['Ich bin Indonesier.']
+I am Indian.,Ich bin Inder.,Ich bin  Inderin.,,"Sure! The translation of ""I am Indian"" into German is ""Ich bin Inder.""",['Ich bin Inder.']
+I am Irish.,Ich bin Ire.,Ich bin  Irin.,,"Sure! The translation of ""I am Irish"" into German is ""Ich bin Irisch.""",['Ich bin Irisch.']
+I am Iranian.,Ich bin Iraner.,Ich bin  Iranerin.,,"Sure! The translation of ""I am Iranian"" into German is ""Ich bin Iraner.""",['Ich bin Iraner.']
+I am Iraqi.,Ich bin Iraker.,Ich bin  Irakerin.,,"Sure! The translation of ""I am Iraqi"" into German is ""Ich bin Iraker.""",['Ich bin Iraker.']
+I am Icelander.,Ich bin Isländer.,Ich bin  Isländerin.,,"Sure! The translation of ""I am Icelander"" into German is ""Ich bin Isländer.""",['Ich bin Isländer.']
+I am Israeli.,Ich bin Israeli.,Ich bin Israelin.,,"Sure! The translation of ""I am Israeli"" into German is ""Ich bin Israeli.""",['Ich bin Israeli.']
+I am Italian.,Ich bin Italiener.,Ich bin  Italienerin.,,"Sure! The translation of ""I am Italian"" into German is ""Ich bin Italiener.""",['Ich bin Italiener.']
+I am Jamaican.,Ich bin Jamaikaner.,Ich bin  Jamaikanerin.,,"Sure! The translation of ""I am Jamaican"" into German is ""Ich bin Jamaikaner.""",['Ich bin Jamaikaner.']
+I am Jordanian.,Ich bin Jordanier.,Ich bin  Jordanierin.,,"Sure! The translation of ""I am Jordanian"" into German is ""Ich bin Jordanier.""",['Ich bin Jordanier.']
+I am Japanese.,Ich bin Japaner.,Ich bin  Japanerin.,,"Sure! The translation of ""I am Japanese"" into German is ""Ich bin Japaner.""",['Ich bin Japaner.']
+I am Kazakhstani.,Ich bin Kasache.,Ich bin  Kasachin.,,"Sure! The translation of ""I am Kazakhstani"" into German is ""Ich bin Kasache/Kasachin.""",['Ich bin Kasache/Kasachin.']
+I am Kenyan.,Ich bin Kenianer.,Ich bin  Kenianerin.,,"Sure! The translation of ""I am Kenyan"" into German is ""Ich bin Kenianer.""",['Ich bin Kenianer.']
+I am Kirghiz.,Ich bin Kirgise.,Ich bin  Kirgisin.,,"Sure! The translation of ""I am Kirghiz"" into German is ""Ich bin Kirgise/Kirgisein.""",['Ich bin Kirgise/Kirgisein.']
+I am Cambodian.,Ich bin Kambodschaner.,Ich bin  Kambodschanerin.,,"Sure! The translation of ""I am Cambodian"" into German is ""Ich bin Kambodschaner.""",['Ich bin Kambodschaner.']
+I am I-Kiribati.,Ich bin Kiribatier.,Ich bin  Kiribatierin.,,"Sure! The translation of ""I am I-Kiribati"" into German is ""Ich bin I-Kiribati"".",['Ich bin I-Kiribati']
+I am Kittitian or Nevisian.,,,,"Sure! The translation of ""I am Kittitian or Nevisian"" into German is: Ich bin Kittitianer oder Nevisianer.",[]
+I am South Korean.,Ich bin Südkoreaner.,Ich bin  Südkoreanerin.,,"Sure! The translation of ""I am South Korean"" into German is ""Ich bin Südkoreaner.""",['Ich bin Südkoreaner.']
+I am Kuwaiti.,Ich bin Kuwaiter.,Ich bin  Kuwaiterin.,,"Sure! The translation of ""I am Kuwaiti"" into German is ""Ich bin Kuwaiter.""",['Ich bin Kuwaiter.']
+I am Laotian.,Ich bin Laote.,Ich bin  Laotin.,,"Sure! The translation of ""I am Laotian"" into German is ""Ich bin Laote/in.""","['Ich bin Laote.', 'Ich bin Laotein.']"
+I am Lebanese.,Ich bin Libanese.,Ich bin  Libanesin.,,"Sure! The translation of ""I am Lebanese"" into German is ""Ich bin Libanese.""",['Ich bin Libanese.']
+I am Liberian.,Ich bin Liberianer.,Ich bin  Liberianerin.,,"Sure! The translation of ""I am Liberian"" into German is ""Ich bin Liberianer.""",['Ich bin Liberianer.']
+I am Libyan.,Ich bin Libyer.,Ich bin  Libyerin.,,"Sure! The translation of ""I am Libyan"" into German is ""Ich bin Libyer.""",['Ich bin Libyer.']
+I am Saint Lucian.,Ich bin Lucianer.,Ich bin Lucianerin.,,"Sure! The translation of ""I am Saint Lucian"" into German is ""Ich bin aus St. Lucia.""",['Ich bin aus St. Lucia.']
+I am Liechtensteiner.,Ich bin Liechtensteiner.,Ich bin  Liechtensteinerin.,,"Sure! The translation of ""I am Liechtensteiner"" into German is ""Ich bin Liechtensteiner.""",['Ich bin Liechtensteiner.']
+I am Sri Lankan.,Ich bin Sri Lanker.,Ich bin  Sri Lankerin.,,"Sure! The translation of ""I am Sri Lankan"" into German is ""Ich bin Sri Lanker/in.""","['Ich bin Sri Lanker.', 'Ich bin Sri Lankerin.']"
+I am Mosotho.,Ich bin Lesother.,Ich bin  Lesotherin.,,"Sure! The translation of ""I am Mosotho"" into German is ""Ich bin Mosotho.""",['Ich bin Mosotho.']
+I am Lithuanian.,Ich bin Litauer.,Ich bin  Litauerin.,,"Sure! The translation of ""I am Lithuanian"" into German is ""Ich bin Litauer.""",['Ich bin Litauer.']
+I am Luxembourger.,Ich bin Luxemburger.,Ich bin  Luxemburgerin.,,"Sure! The translation of ""I am Luxembourger"" into German is ""Ich bin Luxemburger.""",['Ich bin Luxemburger.']
+I am Latvian.,Ich bin Lette.,Ich bin  Lettin.,,"Sure! The translation of ""I am Latvian"" into German is ""Ich bin Lette.""",['Ich bin Lette.']
+I am Moroccan.,Ich bin Marokkaner.,Ich bin  Marokkanerin.,,"Sure! The translation of ""I am Moroccan"" into German is ""Ich bin Marokkaner.""",['Ich bin Marokkaner.']
+I am Monegasque.,Ich bin Monegasse.,Ich bin  Monegassin.,,"Sure! The translation of ""I am Monegasque"" into German is ""Ich bin Monegasse.""",['Ich bin Monegasse.']
+I am Moldovan.,Ich bin Moldauer.,Ich bin  Moldauerin.,,"Sure! The translation of ""I am Moldovan"" into German is ""Ich bin Moldauer.""",['Ich bin Moldauer.']
+I am Malagasy.,Ich bin Madagasse.,Ich bin  Madagassin.,,"Sure! The translation of ""I am Malagasy"" into German is ""Ich bin Malagasy.""",['Ich bin Malagasy.']
+I am Maldivan.,Ich bin Malediver.,Ich bin  Malediverin.,,"Sure! The translation of ""I am Maldivan"" into German is ""Ich bin Malediver.""",['Ich bin Malediver.']
+I am Mexican.,Ich bin Mexikaner.,Ich bin  Mexikanerin.,,"Sure! The translation of ""I am Mexican"" into German is ""Ich bin Mexikaner.""",['Ich bin Mexikaner.']
+I am Marshallese.,Ich bin Marshaller.,Ich bin  Marshallerin.,,"Sure! The translation of ""I am Marshallese"" into German is ""Ich bin Marshaller/in.""","['Ich bin Marshaller.', 'Ich bin Marshallerin.']"
+I am Macedonian.,Ich bin Mazedonier.,Ich bin  Mazedonierin.,,"Sure! The translation of ""I am Macedonian"" into German is ""Ich bin Mazedonier.""",['Ich bin Mazedonier.']
+I am Malian.,Ich bin Malier.,Ich bin  Malierin.,,"Sure! The translation of ""I am Malian"" into German is ""Ich bin Malier.""",['Ich bin Malier.']
+I am Maltese.,Ich bin Malteser.,Ich bin  Malteserin.,,"Sure! The translation of ""I am Maltese"" into German is ""Ich bin Malteser.""",['Ich bin Malteser.']
+I am Burmese.,Ich bin Myanmare.,Ich bin  Myanmarin.,,"Sure! The translation of ""I am Burmese"" into German is ""Ich bin Burmese.""",['Ich bin Burmese.']
+I am Montenegrin.,Ich bin Montenegriner.,Ich bin  Montenegrinerin.,,"Sure! The translation of ""I am Montenegrin"" into German is ""Ich bin Montenegriner.""",['Ich bin Montenegriner.']
+I am Mongolian.,Ich bin Mongole.,Ich bin  Mongolin.,,"Sure! The translation of ""I am Mongolian"" into German is ""Ich bin Mongole/Mongolin.""",['Ich bin Mongole/Mongolin.']
+I am Mozambican.,Ich bin Mosambikaner.,Ich bin  Mosambikanerin.,,"Sure! The translation of ""I am Mozambican"" into German is ""Ich bin Mosambikaner.""",['Ich bin Mosambikaner.']
+I am Mauritanian.,Ich bin Mauretanier.,Ich bin  Mauretanierin.,,"Sure! The translation of ""I am Mauritanian"" into German is ""Ich bin Mauretanier.""",['Ich bin Mauretanier.']
+I am Mauritian.,Ich bin Mauritier.,Ich bin  Mauritierin.,,"Sure! The translation of ""I am Mauritian"" into German is ""Ich bin Mauritier.""",['Ich bin Mauritier.']
+I am Malawian.,Ich bin Malawier.,Ich bin  Malawierin.,,"Sure! The translation of ""I am Malawian"" into German is ""Ich bin Malawier.""",['Ich bin Malawier.']
+I am Malaysian.,Ich bin Malaysier.,Ich bin  Malaysierin.,,"Sure! The translation of ""I am Malaysian"" into German is ""Ich bin Malaysier.""",['Ich bin Malaysier.']
+I am Namibian.,Ich bin Namibier.,Ich bin  Namibierin.,,"Sure! The translation of ""I am Namibian"" into German is ""Ich bin Namibier.""",['Ich bin Namibier.']
+I am Nigerien.,Ich bin Nigrer.,Ich bin  Nigrerin.,,"Sure! The translation of ""I am Nigerien"" into German is ""Ich bin Nigerier.""",['Ich bin Nigerier.']
+I am Nigerian.,Ich bin Nigerianer.,Ich bin  Nigerianerin.,,"Sure! The translation of ""I am Nigerian"" into German is ""Ich bin Nigerianer.""",['Ich bin Nigerianer.']
+I am Nicaraguan.,Ich bin Nicaraguaner.,Ich bin  Nicaraguanerin.,,"Sure! The translation of ""I am Nicaraguan"" into German is ""Ich bin Nicaraguaner.""",['Ich bin Nicaraguaner.']
+I am Dutch.,Ich bin Niederländer.,Ich bin  Niederländerin.,,"Sure! The translation of ""I am Dutch"" into German is ""Ich bin Niederländer.""",['Ich bin Niederländer.']
+I am Norwegian.,Ich bin Norweger.,Ich bin  Norwegerin.,,"Sure! The translation of ""I am Norwegian"" into German is ""Ich bin Norweger.""",['Ich bin Norweger.']
+I am Nepalese.,Ich bin Nepalese.,Ich bin  Nepalesin.,,"Sure! The translation of ""I am Nepalese"" into German is ""Ich bin Nepalese.""",['Ich bin Nepalese.']
+I am Nauruan.,Ich bin Nauruer.,Ich bin  Nauruerin.,,"Sure! The translation of ""I am Nauruan"" into German is ""Ich bin Nauruer.""",['Ich bin Nauruer.']
+I am New Zealander.,Ich bin Neuseeländer.,Ich bin  Neuseeländerin.,,"Sure! The translation of ""I am New Zealander"" into German is ""Ich bin Neuseeländer.""",['Ich bin Neuseeländer.']
+I am Omani.,Ich bin Omaner.,Ich bin  Omanerin.,,"Sure! The translation of ""I am Omani"" into German is ""Ich bin Omaner.""",['Ich bin Omaner.']
+I am Pakistani.,Ich bin Pakistaner.,Ich bin  Pakistanerin.,,"Sure! The translation of ""I am Pakistani"" into German is ""Ich bin Pakistani.""",['Ich bin Pakistani.']
+I am Panamanian.,Ich bin Panamaer.,Ich bin  Panamaerin.,,"Sure! The translation of ""I am Panamanian"" into German is ""Ich bin Panamaisch.""",['Ich bin Panamaisch.']
+I am Peruvian.,Ich bin Peruaner.,Ich bin  Peruanerin.,,"Sure! The translation of ""I am Peruvian"" into German is ""Ich bin Peruaner.""",['Ich bin Peruaner.']
+I am Filipino.,Ich bin Philippiner.,Ich bin  Philippinerin.,,"Sure! The translation of ""I am Filipino"" into German is ""Ich bin Filipino.""",['Ich bin Filipino.']
+I am Palauan.,Ich bin Palauer.,Ich bin  Palauerin.,,"Sure! The sentence ""I am Palauan"" translates to ""Ich bin Palauer"" in German.",['Ich bin Palauer']
+I am Papua New Guinean.,Ich bin PapuaNeuguineer.,Ich bin  PapuaNeuguineerin.,,"Sure! The translation of ""I am Papua New Guinean"" into German is: Ich bin Papua-Neuguineer.",[]
+I am Polish.,Ich bin Pole.,Ich bin  Polin.,,"Sure! The translation of ""I am Polish"" into German is ""Ich bin Pole.""",['Ich bin Pole.']
+I am North Korean.,Ich bin Nordkoreaner.,Ich bin  Nordkoreanerin.,,"Sure! The translation of ""I am North Korean"" into German is ""Ich bin Nordkoreaner.""",['Ich bin Nordkoreaner.']
+I am Portuguese.,Ich bin Portugiese.,Ich bin  Portugiesin.,,"Sure! The translation of ""I am Portuguese"" into German is ""Ich bin Portugiese.""",['Ich bin Portugiese.']
+I am Paraguayan.,Ich bin Paraguayer.,Ich bin  Paraguayerin.,,"Sure! The translation of ""I am Paraguayan"" into German is ""Ich bin Paraguayer.""",['Ich bin Paraguayer.']
+I am Qatari.,Ich bin Katarer.,Ich bin  Katarerin.,,"Sure! The translation of ""I am Qatari"" into German is ""Ich bin Katarer.""",['Ich bin Katarer.']
+I am Romanian.,Ich bin Rumäne.,Ich bin  Rumänin.,,"Sure! The translation of ""I am Romanian"" into German is ""Ich bin Rumäne / Ich bin Rumänin"" depending on the gender of the speaker.",['Ich bin Rumäne / Ich bin Rumänin']
+I am Russian.,Ich bin Russe.,Ich bin  Russin.,,"Sure! The translation of ""I am Russian"" into German is ""Ich bin Russe"" for a male speaker or ""Ich bin Russin"" for a female speaker.","['Ich bin Russe', 'Ich bin Russin']"
+I am Rwandan.,Ich bin Ruander.,Ich bin  Ruanderin.,,"Sure! The translation of ""I am Rwandan"" into German is ""Ich bin Ruander/in.""","['Ich bin Ruander.', 'Ich bin Ruanderin.']"
+I am Saudi Arabian.,Ich bin SaudiAraber.,Ich bin  SaudiAraberin.,,"Sure! The translation of ""I am Saudi Arabian"" into German is ""Ich bin Saudi-Arabisch.""",['Ich bin Saudi-Arabisch.']
+I am Sudanese.,Ich bin Sudaner.,Ich bin  Sudanerin.,,"Sure! The translation of ""I am Sudanese"" into German is ""Ich bin Sudanese/Sudanesin.""",['Ich bin Sudanese/Sudanesin.']
+I am Senegalese.,Ich bin Senegalese.,Ich bin  Senegalesin.,,"Sure! The translation of ""I am Senegalese"" into German is ""Ich bin Senegalese/Senegalesin.""",['Ich bin Senegalese/Senegalesin.']
+I am Singaporean.,Ich bin Singapurer.,Ich bin  Singapurerin.,,"Sure! The translation of ""I am Singaporean"" into German is ""Ich bin Singapurer.""",['Ich bin Singapurer.']
+I am Solomon Islander.,Ich bin Salomoner.,Ich bin  Salomonerin.,,"Sure! The translation of ""I am Solomon Islander"" into German is ""Ich bin aus den Salomonen"".",['Ich bin aus den Salomonen']
+I am Sierra Leonean.,Ich bin SierraLeoner.,Ich bin  SierraLeonerin.,,"Sure! The translation of ""I am Sierra Leonean"" into German is ""Ich bin Sierra-Leoner/in.""","['Ich bin Sierra-Leoner.', 'Ich bin Sierra-Leonerin.']"
+I am Salvadoran.,Ich bin Salvadorianer.,Ich bin  Salvadorianerin.,,"Sure! The translation of ""I am Salvadoran"" into German is ""Ich bin Salvadorianer.""",['Ich bin Salvadorianer.']
+I am Sammarinese.,Ich bin SanMarinese.,Ich bin  SanMarinesin.,,"Sure! The translation of ""I am Sammarinese"" into German is ""Ich bin Sammarinese.""",['Ich bin Sammarinese.']
+I am Somali.,Ich bin Somalier.,Ich bin  Somalierin.,,"Sure! The translation of ""I am Somali"" into German is ""Ich bin Somali.""",['Ich bin Somali.']
+I am Serbian.,Ich bin Serbe.,Ich bin  Serbin.,,"Sure! The translation of ""I am Serbian"" into German is ""Ich bin Serbe"" for a male speaker or ""Ich bin Serbin"" for a female speaker.","['Ich bin Serbe', 'Ich bin Serbin']"
+I am South Sudanese.,Ich bin Südsudaner.,Ich bin  Südsudanerin.,,"Sure! The translation of ""I am South Sudanese"" into German is ""Ich bin Südsudanese/Südsudanesin.""",['Ich bin Südsudanese/Südsudanesin.']
+I am Sao Tomean.,Ich bin São Toméer.,Ich bin São Toméerin.,,"Sure! The translation of ""I am Sao Tomean"" into German is ""Ich bin aus São Tomé und Príncipe.""",['Ich bin aus São Tomé und Príncipe.']
+I am Surinamer.,Ich bin Surinamer.,Ich bin Surinamerin.,,"Sure! The translation of ""I am Surinamer"" into German is ""Ich bin Surinamer.""",['Ich bin Surinamer.']
+I am Slovak.,Ich bin Slowake.,Ich bin  Slowakin.,,"Sure! The translation of ""I am Slovak"" into German is ""Ich bin Slowake / Slowakin.""",['Ich bin Slowake / Slowakin.']
+I am Slovene.,Ich bin Slowene.,Ich bin  Slowenin.,,"Sure! The translation of ""I am Slovene"" into German is ""Ich bin Slowene.""",['Ich bin Slowene.']
+I am Swedish.,Ich bin Schwede.,Ich bin  Schwedin.,,"Sure! The translation of ""I am Swedish"" into German is ""Ich bin Schwede.""",['Ich bin Schwede.']
+I am Swazi.,,,Ich bin Swasi.,"Sure! The translation of ""I am Swazi"" into German is ""Ich bin Swasi.""",['Ich bin Swasi.']
+I am Seychellois.,Ich bin Seycheller.,Ich bin  Seychellerin.,,"Sure! The translation of ""I am Seychellois"" into German is ""Ich bin Seychellois.""",['Ich bin Seychellois.']
+I am Syrian.,Ich bin Syrer.,Ich bin  Syrerin.,,"Sure! The translation of ""I am Syrian"" into German is ""Ich bin Syrer.""",['Ich bin Syrer.']
+I am Chadian.,Ich bin Tschader.,Ich bin  Tschaderin.,,"Sure! The translation of ""I am Chadian"" into German is ""Ich bin Tschader.""",['Ich bin Tschader.']
+I am Togolese.,Ich bin Togoer.,Ich bin  Togoerin.,,"Sure! The translation of ""I am Togolese"" into German is ""Ich bin Togolese/Togolesin.""",['Ich bin Togolese/Togolesin.']
+I am Thai.,Ich bin Thailänder.,Ich bin  Thailänderin.,,"Sure! The translation of ""I am Thai"" into German is ""Ich bin Thai.""",['Ich bin Thai.']
+I am Tadzhik.,Ich bin Tadschike.,Ich bin  Tadschikin.,,"Sure! The translation of ""I am Tadzhik"" into German is ""Ich bin Tadschike.""",['Ich bin Tadschike.']
+I am Turkmen.,Ich bin Turkmene.,Ich bin  Turkmenin.,,"Sure! The translation of ""I am Turkmen"" into German is ""Ich bin Turkmenisch.""",['Ich bin Turkmenisch.']
+I am East Timorese.,Ich bin Timorer.,Ich bin Timorerin.,,"Sure! The translation of ""I am East Timorese"" into German is ""Ich bin Osttimorese/Osttimoresin.""",['Ich bin Osttimorese/Osttimoresin.']
+I am Tongan.,Ich bin Tongaer.,Ich bin  Tongaerin.,,"Sure! The translation of ""I am Tongan"" into German is ""Ich bin Tonganer.""",['Ich bin Tonganer.']
+I am Trinidadian.,,,,"Sure! The translation of ""I am Trinidadian"" into German is ""Ich bin aus Trinidad.""",['Ich bin aus Trinidad.']
+I am Tunisian.,Ich bin Tunesier.,Ich bin  Tunesierin.,,"Sure! The translation of ""I am Tunisian"" into German is ""Ich bin Tunesier.""",['Ich bin Tunesier.']
+I am Turkish.,Ich bin Türke.,Ich bin  Türkin.,,"Sure! The translation of ""I am Turkish"" into German is ""Ich bin Türke / Ich bin Türkin"" depending on the gender of the speaker.",['Ich bin Türke / Ich bin Türkin']
+I am Tuvaluan.,Ich bin Tuvaluer.,Ich bin  Tuvaluerin.,,"Sure! The translation of ""I am Tuvaluan"" into German is ""Ich bin Tuvaluaner.""",['Ich bin Tuvaluaner.']
+I am Tanzanian.,Ich bin Tansanier.,Ich bin  Tansanierin.,,"Sure! The translation of ""I am Tanzanian"" into German is ""Ich bin Tansanier.""",['Ich bin Tansanier.']
+I am Ugandan.,Ich bin Ugander.,Ich bin  Uganderin.,,"Sure! The translation of ""I am Ugandan"" into German is ""Ich bin Ugander.""",['Ich bin Ugander.']
+I am Ukrainian.,Ich bin Ukrainer.,Ich bin  Ukrainerin.,,"Sure! The translation of ""I am Ukrainian"" into German is ""Ich bin Ukrainer.""",['Ich bin Ukrainer.']
+I am Uruguayan.,Ich bin Uruguayer.,Ich bin  Uruguayerin.,,"Sure! The translation of ""I am Uruguayan"" into German is ""Ich bin Uruguayer.""",['Ich bin Uruguayer.']
+I am American.,Ich bin Amerikaner.,Ich bin Amerikanerin.,,"Sure! The translation of ""I am American"" into German is ""Ich bin Amerikaner.""",['Ich bin Amerikaner.']
+I am Uzbekistani.,Ich bin Usbeke.,Ich bin  Usbekin.,,"Sure! The translation of ""I am Uzbekistani"" into German is ""Ich bin Usbeke/Usbekin.""",['Ich bin Usbeke/Usbekin.']
+I am Saint Vincentian.,Ich bin Vincenter.,Ich bin Vincenterin.,,"Sure! The translation of ""I am Saint Vincentian"" into German is ""Ich bin Vincentiner.""",['Ich bin Vincentiner.']
+I am Venezuelan.,Ich bin Venezolaner.,Ich bin  Venezolanerin.,,"Sure! The translation of ""I am Venezuelan"" into German is ""Ich bin Venezolaner.""",['Ich bin Venezolaner.']
+I am Vietnamese.,Ich bin Vietnamese.,Ich bin  Vietnamesin.,,"Sure! The translation of ""I am Vietnamese"" into German is ""Ich bin Vietnamese.""",['Ich bin Vietnamese.']
+I am Ni-Vanuatu.,Ich bin Vanuatuer.,Ich bin  Vanuatuerin.,,"Sure! The translation of ""I am Ni-Vanuatu"" into German is ""Ich bin Ni-Vanuatu.""",['Ich bin Ni-Vanuatu.']
+I am Samoan.,Ich bin Samoaner.,Ich bin  Samoanerin.,,"Sure! The translation of ""I am Samoan"" into German is ""Ich bin Samoaner.""",['Ich bin Samoaner.']
+I am Yemeni.,Ich bin Jemenit.,Ich bin  Jemenitin.,,"Sure! The translation of ""I am Yemeni"" into German is ""Ich bin Jemenit.""",['Ich bin Jemenit.']
+I am South African.,Ich bin Südafrikaner.,Ich bin  Südafrikanerin.,,"Sure! The translation of ""I am South African"" into German is ""Ich bin Südafrikaner.""",['Ich bin Südafrikaner.']
+I am Zambian.,Ich bin Sambier.,Ich bin  Sambierin.,,"Sure! The translation of ""I am Zambian"" into German is ""Ich bin Sambier.""",['Ich bin Sambier.']
+I am Zimbabwean.,Ich bin Simbabwer.,Ich bin  Simbabwerin.,,"Sure! The translation of ""I am Zimbabwean"" into German is ""Ich bin Simbabwer/in.""","['Ich bin Simbabwer.', 'Ich bin Simbabwerin.']"
