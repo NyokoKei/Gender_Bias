@@ -24,8 +24,10 @@ The primary objective is to determine whether machine translation models accurat
 ## Status
 - **GPT**: Completed.
   - Experiment completed, but metrics and detailed analysis are still pending.
-- **Claude**: Testing not yet started.
-- **Gemini**: Testing not yet started.
+- **Claude**: Completed.
+  - Experiment completed, but metrics and detailed analysis are still pending.
+- **Gemini**: Completed.
+  - Experiment completed, but metrics and detailed analysis are still pending.
 - **Other Languages**: Updates will follow after additional testing.
 
 ## Results and Metrics
