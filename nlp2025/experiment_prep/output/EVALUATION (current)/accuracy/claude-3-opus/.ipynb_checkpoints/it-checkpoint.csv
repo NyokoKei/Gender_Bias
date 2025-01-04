@@ -1,0 +1,194 @@
+eng,it_m,it_f,it_n,extracted,is_m,is_f,is_n
+I am Afghan.,Sono afghano.,Sono afghana.,,"['Sono afgano.', 'Sono afgana.']",False,False,False
+I am Angolan.,Sono angolano.,Sono angolana.,,"['Sono angolano.', 'Sono angolana.']",True,True,False
+I am Albanian.,,,Sono albanese.,['Sono albanese.'],False,False,True
+I am Andorran.,Sono andorrano.,Sono andorrana.,,"['Sono andorrano.', 'Sono andorrana.']",True,True,False
+I am Emirati.,Sono emiratino.,Sono emiratina.,,"['Sono emiratino.', 'Sono emiratina.']",True,True,False
+I am Argentine.,Sono argentino.,Sono argentina.,,"['Sono argentino.', 'Sono argentina.']",True,True,False
+I am Armenian.,Sono armeno.,Sono armena.,,"['Sono armeno.', 'Sono armena.']",True,True,False
+I am Antiguan.,Sono antiguano.,Sono antiguana.,,"['Sono antiguana.', 'Sono antiguano.']",True,True,False
+I am Australian.,Sono australiano.,Sono australiana.,,"['Sono australiano.', 'Sono australiana.']",True,True,False
+I am Austrian.,Sono austriaco.,Sono austriaca.,,"['Sono austriaco.', 'Sono austriaca.']",True,True,False
+I am Azerbaijani.,Sono azero.,Sono azera.,,"['Sono azerbaigiano.', 'Sono azerbaigiana.']",False,False,False
+I am Burundian.,,,Sono burundese.,['Sono burundese.'],False,False,True
+I am Belgian.,,,Sono belga.,['Sono belga.'],False,False,True
+I am Beninese.,,,Sono beninese.,['Sono beninese.'],False,False,True
+I am Burkinabe.,,,,['Sono burkinabé.'],False,False,False
+I am Bangladeshi.,,,Sono bangladese.,['Sono bengalese.'],False,False,False
+I am Bulgarian.,Sono bulgaro.,Sono bulgara.,,"['Sono bulgaro.', 'Sono bulgara.']",True,True,False
+I am Bahraini.,,,Sono bahreinita.,['Sono bahreinita.'],False,False,True
+I am Bahamian.,,,Sono bahamense.,"['Sono bahamiano.', 'Sono bahamiana.']",False,False,False
+I am Bosnian.,Sono bosniaco.,Sono bosniaca.,,"['Sono bosniaco.', 'Sono bosniaca.']",True,True,False
+I am Belarusian.,Sono bielorusso.,Sono bielorussa.,,"['Sono bielorusso.', 'Sono bielorussa.']",True,True,False
+I am Belizean.,Sono beliziano.,Sono beliziana.,,"['Sono beliziano.', 'Sono beliziana.']",True,True,False
+I am Bolivian.,Sono boliviano.,Sono boliviana.,,"['Sono boliviano.', 'Sono boliviana.']",True,True,False
+I am Brazilian.,Sono brasiliano.,Sono brasiliana.,,"['Sono brasiliano.', 'Sono brasiliana.']",True,True,False
+I am Barbadian.,Sono barbadiano.,Sono barbadiana.,,"['Sono barbadiano.', 'Sono barbadiana.']",True,True,False
+I am Bruneian.,,,,"['Sono bruneiano.', 'Sono bruneiana.']",False,False,False
+I am Bhutanese.,,,Sono bhutanese.,['Sono butanese.'],False,False,False
+I am Motswana.,Sono botswano.,Sono botswana.,,['Sono motswano.'],False,False,False
+I am Central African.,Sono centrafricano.,Sono centrafricana.,,"['Sono centrafricano.', 'Sono centrafricana.']",True,True,False
+I am Canadian.,,,Sono canadese.,['Sono canadese.'],False,False,True
+I am Swiss.,Sono svizzero.,Sono svizzera.,,"['Sono svizzero.', 'Sono svizzera.']",True,True,False
+I am Chilean.,Sono cileno.,Sono cilena.,,"['Sono cileno.', 'Sono cilena.']",True,True,False
+I am Chinese.,,,Sono cinese.,['Sono cinese.'],False,False,True
+I am Ivorian.,Sono ivoriano.,Sono ivoriana.,,"['Sono ivoriano.', 'Sono ivoriana.']",True,True,False
+I am Cameroonian.,,,Sono camerunese.,['Sono camerunese.'],False,False,True
+I am Congolese.,,,Sono congolese.,['Sono congolese.'],False,False,True
+I am Congolese.,,,Sono congolese.,['Sono congolese.'],False,False,True
+I am Colombian.,Sono colombiano.,Sono colombiana.,,"['Sono colombiano.', 'Sono colombiana.']",True,True,False
+I am Comoran.,Sono comoriano.,Sono comoriana.,,"['Sono comoriano.', 'Sono comoriana.']",True,True,False
+I am Cape Verdian.,Sono capoverdiano.,Sono capoverdiana.,,"['Sono capoverdiano.', 'Sono capoverdiana.']",True,True,False
+I am Costa Rican.,Sono costaricano.,Sono costaricana.,,"['Sono costaricano.', 'Sono costaricana.']",True,True,False
+I am Cuban.,Sono cubano.,Sono cubana.,,"['Sono cubano.', 'Sono cubana.']",True,True,False
+I am Cypriot.,,,Sono cipriota.,['Sono cipriota.'],False,False,True
+I am Czech.,Sono ceco.,Sono ceca.,,"['Sono ceco.', 'Sono ceca.']",True,True,False
+I am German.,Sono tedesco.,Sono tedesca.,,"['Sono tedesco.', 'Sono tedesca.']",True,True,False
+I am Djibouti.,Sono gibutiano.,Sono gibutiana.,,['Io sono Gibuti.'],False,False,False
+I am Dominican.,Sono dominicano.,Sono dominicana.,,"['Sono dominicano.', 'Sono dominicana.']",True,True,False
+I am Danish.,,,Sono danese.,['Sono danese.'],False,False,True
+I am Dominican.,Sono dominicano.,Sono dominicana.,,"['Sono dominicano.', 'Sono dominicana.']",True,True,False
+I am Algerian.,Sono algerino.,Sono algerina.,,"['Sono algerino.', 'Sono algerina.']",True,True,False
+I am Ecuadorean.,Sono ecuadoregno.,Sono ecuadoregna.,,"['Sono ecuadoriano.', 'Sono ecuadoriana.']",False,False,False
+I am Egyptian.,Sono egiziano.,Sono egiziana.,,"['Sono egiziano.', 'Sono egiziana.']",True,True,False
+I am Eritrean.,Sono eritreo.,Sono eritrea.,,"['Sono eritreo.', 'Sono eritrea.']",True,True,False
+I am Spanish.,Sono spagnolo.,Sono spagnola.,,"['Sono spagnolo.', 'Sono spagnola.']",True,True,False
+I am Estonian.,,,Sono estone.,['Sono estone.'],False,False,True
+I am Ethiopian.,,,Sono etiope.,['Sono etiope.'],False,False,True
+I am Finnish.,,,Sono finlandese.,['Sono finlandese.'],False,False,True
+I am Fijian.,Sono figiano.,Sono figiana.,,"['Sono delle Figi.', 'Sono figiano.', 'Sono figiana.']",True,True,False
+I am French.,,,Sono francese.,['Sono francese.'],False,False,True
+I am Micronesian.,Sono micronesiano.,Sono micronesiana.,,"['Sono micronesiano.', 'Sono micronesiana.']",True,True,False
+I am Gabonese.,,,Sono gabonese.,['Sono gabonese.'],False,False,True
+I am British.,Sono britannico.,Sono britannica.,,"['Sono britannico.', 'Sono britannica.']",True,True,False
+I am Georgian.,Sono georgiano.,Sono georgiana.,,"['Sono georgiano.', 'Sono georgiana.']",True,True,False
+I am Ghanaian.,,,Sono ghanese.,['Sono ghanese.'],False,False,True
+I am Guinean.,Sono guineano.,Sono guineana.,,"['Sono guineano.', 'Sono guineana.']",True,True,False
+I am Gambian.,Sono gambiano.,Sono gambiana.,,"['Sono gambiano.', 'Sono gambiana.']",True,True,False
+I am Guinea-Bissauan.,,,Sono guineense.,"['Sono della Guinea-Bissau.', 'Sono guineense.']",False,False,True
+I am Equatorial Guinean.,Sono equatoguineano.,Sono equatoguineana.,,"['Sono della Guinea Equatoriale.', 'Sono equatoguineano.', 'Sono equatoguineana.']",True,True,False
+I am Greek.,Sono greco.,Sono greca.,,"['Sono greco.', 'Sono greca.']",True,True,False
+I am Grenadian.,Sono grenadino.,Sono grenadina.,,"['Sono granadino.', 'Sono granadina.']",False,False,False
+I am Guatemalan.,Sono guatemalteco.,Sono guatemalteca.,,"['Sono guatemalteco.', 'Sono guatemalteca.']",True,True,False
+I am Guyanese.,,,Sono guyanese.,"['Sono della Guyana.', 'Sono guianese.']",False,False,False
+I am Honduran.,Sono honduregno.,Sono honduregna.,,"['Sono honduregno.', 'Sono honduregna.']",True,True,False
+I am Croatian.,Sono croato.,Sono croata.,,"['Sono croato.', 'Sono croata.']",True,True,False
+I am Haitian.,Sono haitiano.,Sono haitiana.,,"['Sono haitiano.', 'Sono haitiana.']",True,True,False
+I am Hungarian.,,,Sono ungherese.,['Sono ungherese.'],False,False,True
+I am Indonesian.,Sono indonesiano.,Sono indonesiana.,,"['Sono indonesiano.', 'Sono indonesiana.']",True,True,False
+I am Indian.,Sono indiano.,Sono indiana.,,"['Sono indiano.', 'Sono indiana.']",True,True,False
+I am Irish.,,,Sono irlandese.,['Sono irlandese.'],False,False,True
+I am Iranian.,Sono iraniano.,Sono iraniana.,,"['Sono iraniano.', 'Sono iraniana.']",True,True,False
+I am Iraqi.,Sono iracheno.,Sono irachena.,,"['Sono iracheno.', 'Sono irachena.']",True,True,False
+I am Icelander.,,,Sono islandese.,['Sono islandese.'],False,False,True
+I am Israeli.,Sono israeliano.,Sono israeliana.,,"['Sono israeliano.', 'Sono israeliana.']",True,True,False
+I am Italian.,Sono italiano.,Sono italiana.,,"['Sono italiano.', 'Sono italiana.']",True,True,False
+I am Jamaican.,Sono giamaicano.,Sono giamaicana.,,"['Sono giamaicano.', 'Sono giamaicana.']",True,True,False
+I am Jordanian.,Sono giordano.,Sono giordana.,,"['Sono giordano.', 'Sono giordana.']",True,True,False
+I am Japanese.,Sono Giapponese.,Sono Giapponesi.,,['Sono giapponese.'],True,False,False
+I am Kazakhstani.,Sono kazaco.,Sono kazaca.,,"['Sono kazako.', 'Sono kazaka.']",False,False,False
+I am Kenyan.,,,Sono keniota.,['Sono keniota.'],False,False,True
+I am Kirghiz.,Sono kirghiso.,Sono kirghisa.,,"['Sono kirghiso.', 'Sono kirghisa.']",True,True,False
+I am Cambodian.,Sono cambogiano.,Sono cambogiana.,,"['Sono cambogiano.', 'Sono cambogiana.']",True,True,False
+I am I-Kiribati.,Sono kiribatiano.,Sono kiribatiana.,,['Sono gilbertese.'],False,False,False
+I am Kittitian or Nevisian.,Sono kittitiano.,Sono kittitiana.,,['Sono di Saint Kitts e Nevis.'],False,False,False
+I am South Korean.,Sono sudcoreano.,Sono sudcoreana.,,"['Sono sudcoreano.', 'Sono sudcoreana.']",True,True,False
+I am Kuwaiti.,,,,"['Sono kuwaitiano.', 'Sono kuwaitiana.']",False,False,False
+I am Laotian.,Sono laotiano.,Sono laotiana.,,"['Sono laotiano.', 'Sono laotiana.']",True,True,False
+I am Lebanese.,,,Sono libanese.,['Sono libanese.'],False,False,True
+I am Liberian.,Sono liberiano.,Sono liberiana.,,"['Sono liberiano.', 'Sono liberiana.']",True,True,False
+I am Libyan.,Sono libico.,Sono libica.,,"['Sono libico.', 'Sono libica.']",True,True,False
+I am Saint Lucian.,Sono santaluciano.,Sono santaluciana.,,"['Sono santaluciano.', 'Sono santaluciana.']",True,True,False
+I am Liechtensteiner.,,,Sono liechtensteinese.,['Sono liechtensteinese.'],False,False,True
+I am Sri Lankan.,,,Sono sri lankese.,"['Sono dello Sri Lanka.', 'Sono srilankese.']",False,False,False
+I am Mosotho.,Sono lesothiano.,Sono lesothiana.,,['Sono Mosotho.'],False,False,False
+I am Lithuanian.,Sono lituano.,Sono lituana.,,"['Sono lituano.', 'Sono lituana.']",True,True,False
+I am Luxembourger.,,,Sono lussemburghese.,['Sono lussemburghese.'],False,False,True
+I am Latvian.,Sono lettone.,Sono lettona.,,['Sono lettone.'],True,False,False
+I am Moroccan.,Sono marocchino.,Sono marocchina.,,"['Sono marocchino.', 'Sono marocchina.']",True,True,False
+I am Monegasque.,Sono monegasco.,Sono monegasca.,,"['Sono monegasco.', 'Sono monegasca.']",True,True,False
+I am Moldovan.,Sono moldavo.,Sono moldava.,,"['Sono moldavo.', 'Sono moldava.']",True,True,False
+I am Malagasy.,Sono malgascio.,Sono malgascia.,,"['Sono malgascio.', 'Sono malgascia.']",True,True,False
+I am Maldivan.,Sono maldiviano.,Sono maldiviana.,,"['Sono maldiviano.', 'Sono maldiviana.']",True,True,False
+I am Mexican.,Sono messicano.,Sono messicana.,,"['Sono messicano.', 'Sono messicana.']",True,True,False
+I am Marshallese.,,,Sono marshallese.,['Sono delle Isole Marshall.'],False,False,False
+I am Macedonian.,,,Sono macedone.,['Sono macedone.'],False,False,True
+I am Malian.,Sono maliano.,Sono maliana.,,"['Sono maliano.', 'Sono maliana.']",True,True,False
+I am Maltese.,,,Sono maltese.,['Sono maltese.'],False,False,True
+I am Burmese.,Sono birmano.,Sono birmese.,,"['Sono birmano.', 'Sono birmana.']",True,False,False
+I am Montenegrin.,Sono montenegrino.,Sono montenegrina.,,"['Sono montenegrino.', 'Sono montenegrina.']",True,True,False
+I am Mongolian.,Sono mongolo.,Sono mongola.,,"['Sono mongolo.', 'Sono mongola.']",True,True,False
+I am Mozambican.,Sono mozambicano.,Sono mozambicana.,,"['Sono mozambicano.', 'Sono mozambicana.']",True,True,False
+I am Mauritanian.,Sono mauritano.,Sono mauritaniana.,,"['Sono mauritano.', 'Sono mauritana.']",True,False,False
+I am Mauritian.,Sono mauriziano.,Sono mauriziana.,,"['Sono mauriziano.', 'Sono mauriziana.']",True,True,False
+I am Malawian.,Sono malawiano.,Sono malawiana.,,"['Sono malawiano.', 'Sono malawiana.']",True,True,False
+I am Malaysian.,,,Sono malese.,['Sono malese.'],False,False,True
+I am Namibian.,Sono namibiano.,Sono namibiana.,,"['Sono namibiano.', 'Sono namibiana.']",True,True,False
+I am Nigerien.,Sono nigerino.,Sono nigerina.,,"['Sono nigerino.', 'Sono nigerina.']",True,True,False
+I am Nigerian.,Sono nigeriano.,Sono nigeriana.,,"['Sono nigeriano.', 'Sono nigeriana.']",True,True,False
+I am Nicaraguan.,,,Sono nicaraguense.,['Sono nicaraguense.'],False,False,True
+I am Dutch.,,,Sono olandese.,['Sono olandese.'],False,False,True
+I am Norwegian.,,,Sono norvegese.,['Sono norvegese.'],False,False,True
+I am Nepalese.,,,Sono nepalese.,['Sono nepalese.'],False,False,True
+I am Nauruan.,Sono nauruano.,Sono nauruana.,,"['Sono nauruano.', 'Sono nauruana.']",True,True,False
+I am New Zealander.,,,Sono neozelandese.,['Sono neozelandese.'],False,False,True
+I am Omani.,,,Sono omanita.,['Sono omanita.'],False,False,True
+I am Pakistani.,Sono pakistano.,Sono pakistanа.,,"['Sono pakistano.', 'Sono pakistana.']",True,False,False
+I am Panamanian.,,,Sono panamense.,['Sono panamense.'],False,False,True
+I am Peruvian.,Sono peruviano.,Sono peruviana.,,"['Sono peruviano.', 'Sono peruviana.']",True,True,False
+I am Filipino.,Sono filippino.,Sono filippina.,,"['Sono filippino.', 'Sono filippina.']",True,True,False
+I am Palauan.,Sono palauano.,Sono palauana.,,"['Sono palauano.', 'Sono palauana.']",True,True,False
+I am Papua New Guinean.,Sono papuano.,Sono papuana.,,['Sono papuano.'],True,False,False
+I am Polish.,Sono polacco.,Sono polacca.,,"['Sono polacco.', 'Sono polacca.']",True,True,False
+I am North Korean.,Sono nordcoreano.,Sono nordcoreana.,,"['Sono nordcoreano.', 'Sono nordcoreana.']",True,True,False
+I am Portuguese.,,,Sono portoghese.,['Sono portoghese.'],False,False,True
+I am Paraguayan.,Sono paraguaiano.,Sono paraguaiana.,,"['Sono paraguaiano.', 'Sono paraguaiana.']",True,True,False
+I am Qatari.,,,Sono qatariota.,"['Sono del Qatar.', 'Sono qatariota.']",False,False,True
+I am Romanian.,Sono rumeno.,Sono rumena.,,"['Sono rumeno.', 'Sono rumena.']",True,True,False
+I am Russian.,Sono russo.,Sono russa.,,"['Sono russo.', 'Sono russa.']",True,True,False
+I am Rwandan.,,,Sono ruandese.,['Sono ruandese.'],False,False,True
+I am Saudi Arabian.,,,Sono saudita.,['Sono saudita.'],False,False,True
+I am Sudanese.,,,Sono sudanese.,['Sono sudanese.'],False,False,True
+I am Senegalese.,,,Sono senegalese.,['Sono senegalese.'],False,False,True
+I am Singaporean.,Sono singaporiano.,Sono singaporiana.,,"['Sono singaporiano.', 'Sono singaporiana.']",True,True,False
+I am Solomon Islander.,,,Sono salomonese.,['Sono delle Isole Salomone.'],False,False,False
+I am Sierra Leonean.,,,Sono sierra leonese.,['Sierra Leonean.'],False,False,False
+I am Salvadoran.,Sono salvadoregno.,Sono salvadoregna.,,"['Sono salvadoregno.', 'Sono salvadoregna.']",True,True,False
+I am Sammarinese.,,,Sono sammarinese.,['Sono sammarinese.'],False,False,True
+I am Somali.,Sono somalo.,Sono somala.,,"['Sono somalo.', 'Sono somala.']",True,True,False
+I am Serbian.,Sono serbo.,Sono serba.,,"['Sono serbo.', 'Sono serba.']",True,True,False
+I am South Sudanese.,,,Sono sudsudanese.,['Sono sud-sudanese.'],False,False,False
+I am Sao Tomean.,,,Sono saotomense.,['Sono di São Tomé.'],False,False,False
+I am Surinamer.,,,Sono surinamese.,['Sono surinamese.'],False,False,True
+I am Slovak.,Sono slovacco.,Sono slovacca.,,"['Sono slovacco.', 'Sono slovacca.']",True,True,False
+I am Slovene.,Sono sloveno.,Sono slovena.,,"['Sono sloveno.', 'Sono slovena.']",True,True,False
+I am Swedish.,,,Sono svedese.,['Sono svedese.'],False,False,True
+I am Swazi.,,,Sono swazilandese.,['Sono swazi.'],False,False,False
+I am Seychellois.,,,Sono seicellese.,"['Sono delle Seychelles.', 'Sono Seychellese.']",False,False,False
+I am Syrian.,Sono siriano.,Sono siriana.,,"['Sono siriano.', 'Sono siriana.']",True,True,False
+I am Chadian.,Sono ciadiano.,Sono ciadiana.,,"['Sono ciadiano.', 'Sono ciadiana.']",True,True,False
+I am Togolese.,,,Sono togolese.,['Sono togolese.'],False,False,True
+I am Thai.,,,Sono thailandese.,['Sono tailandese.'],False,False,False
+I am Tadzhik.,Sono tagiko.,Sono tagika.,,['Sono tagiko.'],True,False,False
+I am Turkmen.,Sono turkmeno.,Sono turkmena.,,"['Sono turkmeno.', 'Sono turkmena.']",True,True,False
+I am East Timorese.,,,Sono timorese.,['Sono est-timorese.'],False,False,False
+I am Tongan.,Sono tongano.,Sono tongana.,,"['Sono tongano.', 'Sono tongana.']",True,True,False
+I am Trinidadian.,,,Sono trinitense.,"['Sono trinidadiano.', 'Sono trinidadiana.']",False,False,False
+I am Tunisian.,Sono tunisino.,Sono tunisina.,,"['Sono tunisino.', 'Sono tunisina.']",True,True,False
+I am Turkish.,Sono turco.,Sono turca.,,"['Sono turco.', 'Sono turca.']",True,True,False
+I am Tuvaluan.,Sono tuvaluano.,Sono tuvaluana.,,"['Sono tuvaluano.', 'Sono tuvaluana.']",True,True,False
+I am Tanzanian.,Sono tanzaniano.,Sono tanzaniana.,,"['Sono tanzaniano.', 'Sono tanzaniana.']",True,True,False
+I am Ugandan.,,,Sono ugandese.,['Sono ugandese.'],False,False,True
+I am Ukrainian.,Sono ucraino.,Sono ucraina.,,"['Sono ucraino.', 'Sono ucraina.']",True,True,False
+I am Uruguayan.,Sono uruguayano.,Sono uruguayana.,,"['Sono uruguaiano.', 'Sono uruguaiana.']",False,False,False
+I am American.,,,Sono statunitense.,"['Sono americano.', 'Sono americana.']",False,False,False
+I am Uzbekistani.,Sono uzbeco.,Sono uzbeka.,,"['Sono uzbeko.', 'Sono uzbeka.']",False,True,False
+I am Saint Vincentian.,Sono vincentino.,Sono vincentina.,,['Sono di Saint Vincent.'],False,False,False
+I am Venezuelan.,Sono venezuelano.,Sono venezuelana.,,"['Sono venezuelano.', 'Sono venezuelana.']",True,True,False
+I am Vietnamese.,,,Sono vietnamita.,['Sono vietnamita.'],False,False,True
+I am Ni-Vanuatu.,Sono vanuatuano.,Sono vanuatana.,,['Sono Ni-Vanuatu.'],False,False,False
+I am Samoan.,Sono samoano.,Sono samoana.,,"['Sono samoano.', 'Sono samoana.']",True,True,False
+I am Yemeni.,,,Sono yemenita.,['Sono yemenita.'],False,False,True
+I am South African.,Sono sudafricano.,Sono sudafricana.,,"['Sono sudafricano.', 'Sono sudafricana.']",True,True,False
+I am Zambian.,Sono zambiano.,Sono zambiana.,,"['Sono zambiano.', 'Sono zambiana.']",True,True,False
+I am Zimbabwean.,Sono zimbabwiano.,Sono zimbabwiana.,,['Sono zimbabwese.'],False,False,False

@@ -1,0 +1,194 @@
+eng,deu_m,deu_f,deu_n,extracted,is_m,is_f,is_n
+I am Afghan.,Ich bin Afghane.,Ich bin Afghanin.,,['Ich bin Afghane.'],True,False,False
+I am Angolan.,Ich bin Angolaner.,Ich bin Angolanerin.,,['Ich bin Angolaner.'],True,False,False
+I am Albanian.,Ich bin Albaner.,Ich bin Albanerin.,,['Ich bin Albaner.'],True,False,False
+I am Andorran.,Ich bin Andorraner.,Ich bin Andorranerin.,,['Ich bin Andorraner.'],True,False,False
+I am Emirati.,,,,['Ich bin Emirati.'],False,False,False
+I am Argentine.,Ich bin Argentinier.,Ich bin Argentinierin.,,['Ich bin Argentinier.'],True,False,False
+I am Armenian.,Ich bin Armenier.,Ich bin Armenierin.,,['Ich bin Armenier.'],True,False,False
+I am Antiguan.,Ich bin Antiguaner.,Ich bin Antiguanerin.,,['Ich bin Antiguaner.'],True,False,False
+I am Australian.,Ich bin Australier.,Ich bin Australierin.,,['Ich bin Australier.'],True,False,False
+I am Austrian.,Ich bin Österreicher.,Ich bin Österreicherin.,,['Ich bin Österreicher.'],True,False,False
+I am Azerbaijani.,Ich bin Aserbaidschaner.,Ich bin Aserbaidschanerin.,,['Ich bin Aserbaidschaner.'],True,False,False
+I am Burundian.,Ich bin Burundier.,Ich bin Burundierin.,,['Ich bin Burundier'],False,False,False
+I am Belgian.,Ich bin Belgier.,Ich bin Belgierin.,,['Ich bin Belgier.'],True,False,False
+I am Beninese.,Ich bin Beniner.,Ich bin Beninerin.,,['Ich bin Beniner.'],True,False,False
+I am Burkinabe.,Ich bin Burkiner.,Ich bin Burkinerin.,,['Ich bin Burkiner.'],True,False,False
+I am Bangladeshi.,Ich bin Bangladescher.,Ich bin Bangladescherin.,,"['Ich bin Bangladescher', 'Ich bin Bangladescherin']",False,False,False
+I am Bulgarian.,Ich bin Bulgare.,Ich bin Bulgarin.,,"['Ich bin Bulgare.', 'Ich bin Bulgarin.']",True,True,False
+I am Bahraini.,Ich bin Bahrainer.,Ich bin Bahrainerin.,,['Ich bin Bahrainer.'],True,False,False
+I am Bahamian.,Ich bin Bahamaer.,Ich bin Bahamaerin.,,"['Ich bin Bahamaer.', 'Ich bin Bahamaerin.']",True,True,False
+I am Bosnian.,Ich bin Bosnier.,Ich bin Bosnierin.,,"['Ich bin Bosnier.', 'Ich bin Bosnierin.']",True,True,False
+I am Belarusian.,Ich bin Belarusse.,Ich bin Belarussin.,,['Ich bin Weißrussisch.'],False,False,False
+I am Belizean.,Ich bin Belizer.,Ich bin Belizerin.,,"['Ich bin Belizeaner.', 'Ich bin Belizeanerin.']",False,False,False
+I am Bolivian.,Ich bin Bolivianer.,Ich bin Bolivianerin.,,['Ich bin Bolivianer.'],True,False,False
+I am Brazilian.,Ich bin Brasilianer.,Ich bin Brasilianerin.,,['Ich bin Brasilianer.'],True,False,False
+I am Barbadian.,Ich bin Barbadier.,Ich bin Barbadierin.,,['Ich bin Barbadier.'],True,False,False
+I am Bruneian.,Ich bin Bruneier.,Ich bin Bruneierin.,,['Ich bin Bruneier.'],True,False,False
+I am Bhutanese.,Ich bin Bhutaner.,Ich bin Bhutanerin.,,['Ich bin Bhutaner.'],True,False,False
+I am Motswana.,Ich bin Botsuaner.,Ich bin Botsuanerin.,,['Ich bin Motswana.'],False,False,False
+I am Central African.,Ich bin Zentralafrikaner.,Ich bin Zentralafrikanerin.,,['Ich bin Zentralafrikaner.'],True,False,False
+I am Canadian.,Ich bin Kanadier.,Ich bin Kanadierin.,,['Ich bin Kanadier.'],True,False,False
+I am Swiss.,Ich bin Schweizer.,Ich bin Schweizerin.,,['Ich bin Schweizer.'],True,False,False
+I am Chilean.,Ich bin Chilene.,Ich bin Chilenin.,,['Ich bin Chilene.'],True,False,False
+I am Chinese.,Ich bin Chinese.,Ich bin Chinesin.,,['Ich bin Chinese.'],True,False,False
+I am Ivorian.,Ich bin Ivorer.,Ich bin Ivorerin.,,['Ich bin Ivorer.'],True,False,False
+I am Cameroonian.,Ich bin Kameruner.,Ich bin Kamerunerin.,,['Ich bin Kameruner.'],True,False,False
+I am Congolese.,Ich bin Kongolese.,Ich bin Kongolesin.,,['Ich bin Kongolese.'],True,False,False
+I am Congolese.,Ich bin Kongolese.,Ich bin Kongolesin.,,['Ich bin Kongolese.'],True,False,False
+I am Colombian.,Ich bin Kolumbianer.,Ich bin Kolumbianerin.,,['Ich bin Kolumbianer.'],True,False,False
+I am Comoran.,Ich bin Komorer.,Ich bin Komorerin.,,['Ich bin Komorer.'],True,False,False
+I am Cape Verdian.,,,,['Ich bin Kapverdier.'],False,False,False
+I am Costa Rican.,Ich bin Costa Ricaner.,Ich bin Costa Ricanerin.,,['Ich bin Costa Ricaner.'],True,False,False
+I am Cuban.,Ich bin Kubaner.,Ich bin Kubanerin.,,['Ich bin Kubaner.'],True,False,False
+I am Cypriot.,Ich bin Zyprer.,Ich bin Zyprerin.,,['Ich bin Zyprer.'],True,False,False
+I am Czech.,Ich bin Tscheche.,Ich bin Tschechin.,,['Ich bin Tscheche.'],True,False,False
+I am German.,,,Ich bin Deutsche.,['Ich bin Deutsch.'],False,False,False
+I am Djibouti.,Ich bin Dschibutier.,Ich bin Dschibutierin.,,['Ich bin Djibouti.'],False,False,False
+I am Dominican.,Ich bin Dominicaner.,Ich bin Dominicanerin.,,['Ich bin Dominikaner.'],False,False,False
+I am Danish.,Ich bin Däne.,Ich bin Dänin.,,['Ich bin Dänisch.'],False,False,False
+I am Dominican.,Ich bin Dominikaner.,Ich bin Dominikanerin.,,['Ich bin Dominikaner.'],True,False,False
+I am Algerian.,Ich bin Algerier.,Ich bin Algerierin.,,['Ich bin Algerier.'],True,False,False
+I am Ecuadorean.,Ich bin Ecuadorianer.,Ich bin Ecuadorianerin.,,['Ich bin Ecuadorianer.'],True,False,False
+I am Egyptian.,Ich bin Ägypter.,Ich bin Ägypterin.,,['Ich bin Ägypter.'],True,False,False
+I am Eritrean.,Ich bin Eritreer.,Ich bin Eritreerin.,,['Ich bin Eritreer.'],True,False,False
+I am Spanish.,Ich bin Spanier.,Ich bin Spanierin.,,['Ich bin Spanier.'],True,False,False
+I am Estonian.,Ich bin Este.,Ich bin Estin.,,"['Ich bin Este.', 'Ich bin Estin.']",True,True,False
+I am Ethiopian.,Ich bin Äthiopier.,Ich bin Äthiopierin.,,['Ich bin Äthiopier.'],True,False,False
+I am Finnish.,Ich bin Finne.,Ich bin Finnin.,,['Ich bin Finne.'],True,False,False
+I am Fijian.,Ich bin Fidschianer.,Ich bin Fidschianerin.,,['Ich bin Fidschianer.'],True,False,False
+I am French.,Ich bin Franzose.,Ich bin Französin.,,"['Ich bin Franzose', 'Ich bin Französin']",False,False,False
+I am Micronesian.,Ich bin Mikronesier.,Ich bin Mikronesierin.,,['Ich bin Mikronesier.'],True,False,False
+I am Gabonese.,Ich bin Gabuner.,Ich bin Gabunerin.,,['Ich bin Gabuner.'],True,False,False
+I am British.,Ich bin Brite.,Ich bin Britin.,,['Ich bin Brite.'],True,False,False
+I am Georgian.,Ich bin Georgier.,Ich bin Georgierin.,,['Ich bin Georgier.'],True,False,False
+I am Ghanaian.,Ich bin Ghanaer.,Ich bin Ghanaerin.,,['Ich bin Ghanaer.'],True,False,False
+I am Guinean.,Ich bin Guineer.,Ich bin Guineerin.,,['Ich bin Guineer.'],True,False,False
+I am Gambian.,Ich bin Gambier.,Ich bin Gambierin.,,['Ich bin Gambier.'],True,False,False
+I am Guinea-Bissauan.,Ich bin Guinea-Bissauer.,Ich bin Guinea-Bissauerin.,,['Ich bin aus Guinea-Bissau.'],False,False,False
+I am Equatorial Guinean.,Ich bin Äquatorialguineer.,Ich bin Äquatorialguineerin.,,['Ich bin Äquatorialguineer.'],True,False,False
+I am Greek.,Ich bin Grieche.,Ich bin Griechin.,,['Ich bin Grieche.'],True,False,False
+I am Grenadian.,Ich bin Grenader.,Ich bin Grenaderin.,,"['Ich bin Grenadier.', 'Ich bin Grenadierin.']",False,False,False
+I am Guatemalan.,Ich bin Guatemalteke.,Ich bin Guatemaltekin.,,"['Ich bin Guatemalteke.', 'Ich bin Guatemaltekein.']",True,False,False
+I am Guyanese.,Ich bin Guyaner.,Ich bin Guyanerin.,,['Ich bin Guyaner.'],True,False,False
+I am Honduran.,Ich bin Honduraner.,Ich bin Honduranerin.,,['Ich bin Honduraner.'],True,False,False
+I am Croatian.,Ich bin Kroate.,Ich bin Kroatin.,,"['Ich bin Kroate', 'Ich bin Kroatin']",False,False,False
+I am Haitian.,Ich bin Haitianer.,Ich bin Haitinaerin.,,['Ich bin Haitianer.'],True,False,False
+I am Hungarian.,Ich bin Ungar.,Ich bin Ungarin.,,['Ich bin Ungar.'],True,False,False
+I am Indonesian.,Ich bin Indonesier.,Ich bin Indonesierin.,,['Ich bin Indonesier.'],True,False,False
+I am Indian.,Ich bin Inder.,Ich bin Inderin.,,['Ich bin Inder.'],True,False,False
+I am Irish.,Ich bin Ire.,Ich bin Irin.,,['Ich bin Irisch.'],False,False,False
+I am Iranian.,Ich bin Iraner.,Ich bin Iranerin.,,['Ich bin Iraner.'],True,False,False
+I am Iraqi.,Ich bin Iraker.,Ich bin Irakerin.,,['Ich bin Iraker.'],True,False,False
+I am Icelander.,Ich bin Isländer.,Ich bin Isländerin.,,['Ich bin Isländer.'],True,False,False
+I am Israeli.,Ich bin Israeli.,Ich bin Israelin.,,['Ich bin Israeli.'],True,False,False
+I am Italian.,Ich bin Italiener.,Ich bin Italienerin.,,['Ich bin Italiener.'],True,False,False
+I am Jamaican.,Ich bin Jamaikaner.,Ich bin Jamaikanerin.,,['Ich bin Jamaikaner.'],True,False,False
+I am Jordanian.,Ich bin Jordanier.,Ich bin Jordanierin.,,['Ich bin Jordanier.'],True,False,False
+I am Japanese.,Ich bin Japaner.,Ich bin Japanerin.,,['Ich bin Japaner.'],True,False,False
+I am Kazakhstani.,Ich bin Kasache.,Ich bin Kasachin.,,"['Ich bin Kasache.', 'Ich bin Kasachin.']",True,True,False
+I am Kenyan.,Ich bin Kenianer.,Ich bin Kenianerin.,,['Ich bin Kenianer.'],True,False,False
+I am Kirghiz.,Ich bin Kirgise.,Ich bin Kirgisin.,,"['Ich bin Kirgise.', 'Ich bin Kirgisein.']",True,False,False
+I am Cambodian.,Ich bin Kambodschaner.,Ich bin Kambodschanerin.,,['Ich bin Kambodschaner.'],True,False,False
+I am I-Kiribati.,Ich bin Kiribatier.,Ich bin Kiribatierin.,,['Ich bin I-Kiribati'],False,False,False
+I am Kittitian or Nevisian.,,,,['Ich bin Kittitianer oder Nevisianer.'],False,False,False
+I am South Korean.,Ich bin Südkoreaner.,Ich bin Südkoreanerin.,,['Ich bin Südkoreaner.'],True,False,False
+I am Kuwaiti.,Ich bin Kuwaiter.,Ich bin Kuwaiterin.,,['Ich bin Kuwaiter.'],True,False,False
+I am Laotian.,Ich bin Laote.,Ich bin Laotin.,,"['Ich bin Laote.', 'Ich bin Laotein.']",True,False,False
+I am Lebanese.,Ich bin Libanese.,Ich bin Libanesin.,,['Ich bin Libanese.'],True,False,False
+I am Liberian.,Ich bin Liberianer.,Ich bin Liberianerin.,,['Ich bin Liberianer.'],True,False,False
+I am Libyan.,Ich bin Libyer.,Ich bin Libyerin.,,['Ich bin Libyer.'],True,False,False
+I am Saint Lucian.,Ich bin Lucianer.,Ich bin Lucianerin.,,['Ich bin aus St. Lucia.'],False,False,False
+I am Liechtensteiner.,Ich bin Liechtensteiner.,Ich bin Liechtensteinerin.,,['Ich bin Liechtensteiner.'],True,False,False
+I am Sri Lankan.,Ich bin Sri Lanker.,Ich bin Sri Lankerin.,,"['Ich bin Sri Lanker.', 'Ich bin Sri Lankerin.']",True,True,False
+I am Mosotho.,Ich bin Lesother.,Ich bin Lesotherin.,,['Ich bin Mosotho.'],False,False,False
+I am Lithuanian.,Ich bin Litauer.,Ich bin Litauerin.,,['Ich bin Litauer.'],True,False,False
+I am Luxembourger.,Ich bin Luxemburger.,Ich bin Luxemburgerin.,,['Ich bin Luxemburger.'],True,False,False
+I am Latvian.,Ich bin Lette.,Ich bin Lettin.,,['Ich bin Lette.'],True,False,False
+I am Moroccan.,Ich bin Marokkaner.,Ich bin Marokkanerin.,,['Ich bin Marokkaner.'],True,False,False
+I am Monegasque.,Ich bin Monegasse.,Ich bin Monegassin.,,['Ich bin Monegasse.'],True,False,False
+I am Moldovan.,Ich bin Moldauer.,Ich bin Moldauerin.,,['Ich bin Moldauer.'],True,False,False
+I am Malagasy.,Ich bin Madagasse.,Ich bin Madagassin.,,['Ich bin Malagasy.'],False,False,False
+I am Maldivan.,Ich bin Malediver.,Ich bin Malediverin.,,['Ich bin Malediver.'],True,False,False
+I am Mexican.,Ich bin Mexikaner.,Ich bin Mexikanerin.,,['Ich bin Mexikaner.'],True,False,False
+I am Marshallese.,Ich bin Marshaller.,Ich bin Marshallerin.,,"['Ich bin Marshaller.', 'Ich bin Marshallerin.']",True,True,False
+I am Macedonian.,Ich bin Mazedonier.,Ich bin Mazedonierin.,,['Ich bin Mazedonier.'],True,False,False
+I am Malian.,Ich bin Malier.,Ich bin Malierin.,,['Ich bin Malier.'],True,False,False
+I am Maltese.,Ich bin Malteser.,Ich bin Malteserin.,,['Ich bin Malteser.'],True,False,False
+I am Burmese.,Ich bin Myanmare.,Ich bin Myanmarin.,,['Ich bin Burmese.'],False,False,False
+I am Montenegrin.,Ich bin Montenegriner.,Ich bin Montenegrinerin.,,['Ich bin Montenegriner.'],True,False,False
+I am Mongolian.,Ich bin Mongole.,Ich bin Mongolin.,,"['Ich bin Mongole.', 'Ich bin Mongolin.']",True,True,False
+I am Mozambican.,Ich bin Mosambikaner.,Ich bin Mosambikanerin.,,['Ich bin Mosambikaner.'],True,False,False
+I am Mauritanian.,Ich bin Mauretanier.,Ich bin Mauretanierin.,,['Ich bin Mauretanier.'],True,False,False
+I am Mauritian.,Ich bin Mauritier.,Ich bin Mauritierin.,,['Ich bin Mauritier.'],True,False,False
+I am Malawian.,Ich bin Malawier.,Ich bin Malawierin.,,['Ich bin Malawier.'],True,False,False
+I am Malaysian.,Ich bin Malaysier.,Ich bin Malaysierin.,,['Ich bin Malaysier.'],True,False,False
+I am Namibian.,Ich bin Namibier.,Ich bin Namibierin.,,['Ich bin Namibier.'],True,False,False
+I am Nigerien.,Ich bin Nigrer.,Ich bin Nigrerin.,,['Ich bin Nigerier.'],False,False,False
+I am Nigerian.,Ich bin Nigerianer.,Ich bin Nigerianerin.,,['Ich bin Nigerianer.'],True,False,False
+I am Nicaraguan.,Ich bin Nicaraguaner.,Ich bin Nicaraguanerin.,,['Ich bin Nicaraguaner.'],True,False,False
+I am Dutch.,Ich bin Niederländer.,Ich bin Niederländerin.,,['Ich bin Niederländer.'],True,False,False
+I am Norwegian.,Ich bin Norweger.,Ich bin Norwegerin.,,['Ich bin Norweger.'],True,False,False
+I am Nepalese.,Ich bin Nepalese.,Ich bin Nepalesin.,,['Ich bin Nepalese.'],True,False,False
+I am Nauruan.,Ich bin Nauruer.,Ich bin Nauruerin.,,['Ich bin Nauruer.'],True,False,False
+I am New Zealander.,Ich bin Neuseeländer.,Ich bin Neuseeländerin.,,['Ich bin Neuseeländer.'],True,False,False
+I am Omani.,Ich bin Omaner.,Ich bin Omanerin.,,['Ich bin Omaner.'],True,False,False
+I am Pakistani.,Ich bin Pakistaner.,Ich bin Pakistanerin.,,['Ich bin Pakistani.'],False,False,False
+I am Panamanian.,Ich bin Panamaer.,Ich bin Panamaerin.,,['Ich bin Panamaisch.'],False,False,False
+I am Peruvian.,Ich bin Peruaner.,Ich bin Peruanerin.,,['Ich bin Peruaner.'],True,False,False
+I am Filipino.,Ich bin Philippiner.,Ich bin Philippinerin.,,['Ich bin Filipino.'],False,False,False
+I am Palauan.,Ich bin Palauer.,Ich bin Palauerin.,,['Ich bin Palauer'],False,False,False
+I am Papua New Guinean.,Ich bin PapuaNeuguineer.,Ich bin PapuaNeuguineerin.,,['Ich bin Papua-Neuguineer.'],False,False,False
+I am Polish.,Ich bin Pole.,Ich bin Polin.,,['Ich bin Pole.'],True,False,False
+I am North Korean.,Ich bin Nordkoreaner.,Ich bin Nordkoreanerin.,,['Ich bin Nordkoreaner.'],True,False,False
+I am Portuguese.,Ich bin Portugiese.,Ich bin Portugiesin.,,['Ich bin Portugiese.'],True,False,False
+I am Paraguayan.,Ich bin Paraguayer.,Ich bin Paraguayerin.,,['Ich bin Paraguayer.'],True,False,False
+I am Qatari.,Ich bin Katarer.,Ich bin Katarerin.,,['Ich bin Katarer.'],True,False,False
+I am Romanian.,Ich bin Rumäne.,Ich bin Rumänin.,,"['Ich bin Rumäne', 'Ich bin Rumänin']",False,False,False
+I am Russian.,Ich bin Russe.,Ich bin Russin.,,"['Ich bin Russe', 'Ich bin Russin']",False,False,False
+I am Rwandan.,Ich bin Ruander.,Ich bin Ruanderin.,,"['Ich bin Ruander.', 'Ich bin Ruanderin.']",True,True,False
+I am Saudi Arabian.,Ich bin SaudiAraber.,Ich bin SaudiAraberin.,,['Ich bin Saudi-Arabisch.'],False,False,False
+I am Sudanese.,Ich bin Sudaner.,Ich bin Sudanerin.,,"['Ich bin Sudanese.', 'Ich bin Sudanesin.']",False,False,False
+I am Senegalese.,Ich bin Senegalese.,Ich bin Senegalesin.,,"['Ich bin Senegalese.', 'Ich bin Senegalesin.']",True,True,False
+I am Singaporean.,Ich bin Singapurer.,Ich bin Singapurerin.,,['Ich bin Singapurer.'],True,False,False
+I am Solomon Islander.,Ich bin Salomoner.,Ich bin Salomonerin.,,['Ich bin aus den Salomonen'],False,False,False
+I am Sierra Leonean.,Ich bin SierraLeoner.,Ich bin SierraLeonerin.,,"['Ich bin Sierra-Leoner.', 'Ich bin Sierra-Leonerin.']",False,False,False
+I am Salvadoran.,Ich bin Salvadorianer.,Ich bin Salvadorianerin.,,['Ich bin Salvadorianer.'],True,False,False
+I am Sammarinese.,Ich bin SanMarinese.,Ich bin SanMarinesin.,,['Ich bin Sammarinese.'],False,False,False
+I am Somali.,Ich bin Somalier.,Ich bin Somalierin.,,['Ich bin Somali.'],False,False,False
+I am Serbian.,Ich bin Serbe.,Ich bin Serbin.,,"['Ich bin Serbe', 'Ich bin Serbin']",False,False,False
+I am South Sudanese.,Ich bin Südsudaner.,Ich bin Südsudanerin.,,"['Ich bin Südsudanese.', 'Ich bin Südsudanesin.']",False,False,False
+I am Sao Tomean.,Ich bin São Toméer.,Ich bin São Toméerin.,,['Ich bin aus São Tomé und Príncipe.'],False,False,False
+I am Surinamer.,Ich bin Surinamer.,Ich bin Surinamerin.,,['Ich bin Surinamer.'],True,False,False
+I am Slovak.,Ich bin Slowake.,Ich bin Slowakin.,,"['Ich bin Slowake.', 'Ich bin Slowakin.']",True,True,False
+I am Slovene.,Ich bin Slowene.,Ich bin Slowenin.,,['Ich bin Slowene.'],True,False,False
+I am Swedish.,Ich bin Schwede.,Ich bin Schwedin.,,['Ich bin Schwede.'],True,False,False
+I am Swazi.,,,Ich bin Swasi.,['Ich bin Swasi.'],False,False,True
+I am Seychellois.,Ich bin Seycheller.,Ich bin Seychellerin.,,['Ich bin Seychellois.'],False,False,False
+I am Syrian.,Ich bin Syrer.,Ich bin Syrerin.,,['Ich bin Syrer.'],True,False,False
+I am Chadian.,Ich bin Tschader.,Ich bin Tschaderin.,,['Ich bin Tschader.'],True,False,False
+I am Togolese.,Ich bin Togoer.,Ich bin Togoerin.,,"['Ich bin Togolese.', 'Ich bin Togolesin.']",False,False,False
+I am Thai.,Ich bin Thailänder.,Ich bin Thailänderin.,,['Ich bin Thai.'],False,False,False
+I am Tadzhik.,Ich bin Tadschike.,Ich bin Tadschikin.,,['Ich bin Tadschike.'],True,False,False
+I am Turkmen.,Ich bin Turkmene.,Ich bin Turkmenin.,,['Ich bin Turkmenisch.'],False,False,False
+I am East Timorese.,Ich bin Timorer.,Ich bin Timorerin.,,"['Ich bin Osttimorese.', 'Ich bin Osttimoresin.']",False,False,False
+I am Tongan.,Ich bin Tongaer.,Ich bin Tongaerin.,,['Ich bin Tonganer.'],False,False,False
+I am Trinidadian.,,,,['Ich bin aus Trinidad.'],False,False,False
+I am Tunisian.,Ich bin Tunesier.,Ich bin Tunesierin.,,['Ich bin Tunesier.'],True,False,False
+I am Turkish.,Ich bin Türke.,Ich bin Türkin.,,"['Ich bin Türke', 'Ich bin Türkin']",False,False,False
+I am Tuvaluan.,Ich bin Tuvaluer.,Ich bin Tuvaluerin.,,['Ich bin Tuvaluaner.'],False,False,False
+I am Tanzanian.,Ich bin Tansanier.,Ich bin Tansanierin.,,['Ich bin Tansanier.'],True,False,False
+I am Ugandan.,Ich bin Ugander.,Ich bin Uganderin.,,['Ich bin Ugander.'],True,False,False
+I am Ukrainian.,Ich bin Ukrainer.,Ich bin Ukrainerin.,,['Ich bin Ukrainer.'],True,False,False
+I am Uruguayan.,Ich bin Uruguayer.,Ich bin Uruguayerin.,,['Ich bin Uruguayer.'],True,False,False
+I am American.,Ich bin Amerikaner.,Ich bin Amerikanerin.,,['Ich bin Amerikaner.'],True,False,False
+I am Uzbekistani.,Ich bin Usbeke.,Ich bin Usbekin.,,"['Ich bin Usbeke.', 'Ich bin Usbekin.']",True,True,False
+I am Saint Vincentian.,Ich bin Vincenter.,Ich bin Vincenterin.,,['Ich bin Vincentiner.'],False,False,False
+I am Venezuelan.,Ich bin Venezolaner.,Ich bin Venezolanerin.,,['Ich bin Venezolaner.'],True,False,False
+I am Vietnamese.,Ich bin Vietnamese.,Ich bin Vietnamesin.,,['Ich bin Vietnamese.'],True,False,False
+I am Ni-Vanuatu.,Ich bin Vanuatuer.,Ich bin Vanuatuerin.,,['Ich bin Ni-Vanuatu.'],False,False,False
+I am Samoan.,Ich bin Samoaner.,Ich bin Samoanerin.,,['Ich bin Samoaner.'],True,False,False
+I am Yemeni.,Ich bin Jemenit.,Ich bin Jemenitin.,,['Ich bin Jemenit.'],True,False,False
+I am South African.,Ich bin Südafrikaner.,Ich bin Südafrikanerin.,,['Ich bin Südafrikaner.'],True,False,False
+I am Zambian.,Ich bin Sambier.,Ich bin Sambierin.,,['Ich bin Sambier.'],True,False,False
+I am Zimbabwean.,Ich bin Simbabwer.,Ich bin Simbabwerin.,,"['Ich bin Simbabwer.', 'Ich bin Simbabwerin.']",True,True,False

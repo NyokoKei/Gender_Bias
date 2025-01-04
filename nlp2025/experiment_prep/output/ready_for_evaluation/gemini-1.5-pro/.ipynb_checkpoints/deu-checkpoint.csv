@@ -1,0 +1,194 @@
+eng,deu_m,deu_f,deu_n,extracted
+I am Afghan.,Ich bin Afghane.,Ich bin  Afghanin.,,"['Ich bin Afghane.', 'Ich bin Afghanin.']"
+I am Angolan.,Ich bin Angolaner.,Ich bin  Angolanerin.,,"['Ich bin Angolaner.', 'Ich bin in.']"
+I am Albanian.,Ich bin Albaner.,Ich bin  Albanerin.,,"['Ich bin Albaner.', 'Ich bin Albanerin.']"
+I am Andorran.,Ich bin Andorraner.,Ich bin  Andorranerin.,,['Ich bin Andorraner.']
+I am Emirati.,,,,['Ich bin Emirati.']
+I am Argentine.,Ich bin Argentinier.,Ich bin  Argentinierin.,,"['Ich bin Argentinier.', 'Ich bin in.']"
+I am Armenian.,Ich bin Armenier.,Ich bin  Armenierin.,,['Ich bin armenischer Herkunft. \nIch komme aus Armenien.']
+I am Antiguan.,Ich bin Antiguaner.,Ich bin  Antiguanerin.,,[]
+I am Australian.,Ich bin Australier.,Ich bin  Australierin.,,"['Ich bin Australier.', 'Ich bin Australierin.']"
+I am Austrian.,Ich bin Österreicher.,Ich bin  Österreicherin.,,"['Ich bin Österreicher.', 'Ich bin in.']"
+I am Azerbaijani.,Ich bin Aserbaidschaner.,Ich bin  Aserbaidschanerin.,,[]
+I am Burundian.,Ich bin Burundier.,Ich bin Burundierin.,,['Ich bin Burundier.']
+I am Belgian.,Ich bin Belgier.,Ich bin Belgierin.,,"['Ich bin Belgier.', 'Ich bin Belgierin.', 'Ich bin belgisch.']"
+I am Beninese.,Ich bin Beniner.,Ich bin  Beninerin.,,"['Ich bin Beniner.', 'Ich bin Beninerin.']"
+I am Burkinabe.,Ich bin Burkiner.,Ich bin  Burkinerin.,,"['Ich bin Burkinaberin.', 'Ich bin Burkinaber.']"
+I am Bangladeshi.,Ich bin Bangladescher.,Ich bin  Bangladescherin.,,['Ich komme aus Bangladesch.']
+I am Bulgarian.,Ich bin Bulgare.,Ich bin  Bulgarin.,,[]
+I am Bahraini.,Ich bin Bahrainer.,Ich bin  Bahrainerin.,,[]
+I am Bahamian.,Ich bin Bahamaer.,Ich bin  Bahamaerin.,,"['Ich komme von den Bahamas.', 'Ich bin von den Bahamas.']"
+I am Bosnian.,Ich bin Bosnier.,Ich bin  Bosnierin.,,[]
+I am Belarusian.,Ich bin Belarusse.,Ich bin  Belarussin.,,['I come from Belarus.']
+I am Belizean.,Ich bin Belizer.,Ich bin  Belizerin.,,"['Ich komme aus Belize.', 'I come from Belize.)']"
+I am Bolivian.,Ich bin Bolivianer.,Ich bin  Bolivianerin.,,[]
+I am Brazilian.,Ich bin Brasilianer.,Ich bin  Brasilianerin.,,"['Ich bin Brasilianer.', 'Ich bin Brasilianerin.', 'Ich bin brasilianisch.']"
+I am Barbadian.,Ich bin Barbadier.,Ich bin  Barbadierin.,,['Ich bin Barbader.']
+I am Bruneian.,Ich bin Bruneier.,Ich bin  Bruneierin.,,[]
+I am Bhutanese.,Ich bin Bhutaner.,Ich bin  Bhutanerin.,,"['Ich bin bhutanischer Staatsbürger.', 'Ich bin bhutanischer feminine - citizen of Bhutan).']"
+I am Motswana.,Ich bin Botsuaner.,Ich bin  Botsuanerin.,,"['Ich bin ein.', 'Ich bin feminine).']"
+I am Central African.,Ich bin Zentralafrikaner.,Ich bin  Zentralafrikanerin.,,[]
+I am Canadian.,Ich bin Kanadier.,Ich bin  Kanadierin.,,[]
+I am Swiss.,Ich bin Schweizer.,Ich bin  Schweizerin.,,"['Ich bin Schweizer. (masculine.', 'Ich bin Schweizer. gender neutral)\nIch bin Schweizerin.']"
+I am Chilean.,Ich bin Chilene.,Ich bin  Chilenin.,,['Ich bin Chilene.']
+I am Chinese.,Ich bin Chinese.,Ich bin  Chinesin.,,['Ich bin Chinesisch.']
+I am Ivorian.,Ich bin Ivorer.,Ich bin Ivorerin.,,['Ich komme aus der Elfenbeinküste.']
+I am Cameroonian.,Ich bin Kameruner.,Ich bin  Kamerunerin.,,"['Ich bin Kameruner.', 'Ich bin Kamerunerin.']"
+I am Congolese.,Ich bin Kongolese.,Ich bin Kongolesin.,,"['Ich bin Kongolese.', 'Ich bin Kongolesin.']"
+I am Congolese.,Ich bin Kongolese.,Ich bin Kongolesin.,,"['Ich bin Kongolese.', 'Ich bin Kongolesin.']"
+I am Colombian.,Ich bin Kolumbianer.,Ich bin  Kolumbianerin.,,['Ich komme aus Kolumbien. \nIch bin aus Kolumbien.']
+I am Comoran.,Ich bin Komorer.,Ich bin  Komorerin.,,"['Ich bin Komorer.', 'Ich bin Komorerin.']"
+I am Cape Verdian.,,,,[]
+I am Costa Rican.,Ich bin Costa Ricaner.,Ich bin  Costa Ricanerin.,,[]
+I am Cuban.,Ich bin Kubaner.,Ich bin  Kubanerin.,,['Ich bin Kubanerin.']
+I am Cypriot.,Ich bin Zyprer.,Ich bin  Zyprerin.,,['Ich bin Zyprer.']
+I am Czech.,Ich bin Tscheche.,Ich bin Tschechin.,,[]
+I am German.,Ich bin Deutsche.,Ich bin  Deutsche.,,"['Ich bin Deutscher.', 'Ich bin Deutsche.', 'Ich bin deutsch.']"
+I am Djibouti.,Ich bin Dschibutier.,Ich bin  Dschibutierin.,,[]
+I am Dominican.,Ich bin Dominicaner.,Ich bin Dominicanerin.,,['Ich bin Dominikaner.']
+I am Danish.,Ich bin Däne.,Ich bin  Dänin.,,"['Ich bin Däne.', 'Ich bin Dänin.']"
+I am Dominican.,Ich bin Dominikaner.,Ich bin  Dominikanerin.,,['Ich bin Dominikaner.']
+I am Algerian.,Ich bin Algerier.,Ich bin  Algerierin.,,"['Ich bin Algerier.', 'Ich bin Algerierin.']"
+I am Ecuadorean.,Ich bin Ecuadorianer.,Ich bin  Ecuadorianerin.,,"['Ich bin Ecuadorianer.', 'Ich bin Ecuadorianerin.', 'You can also say:\n\nIch komme aus Ecuador.']"
+I am Egyptian.,Ich bin Ägypter.,Ich bin  Ägypterin.,,[]
+I am Eritrean.,Ich bin Eritreer.,Ich bin  Eritreerin.,,"['Ich bin Eritreer.', 'Ich bin Eritreerin.']"
+I am Spanish.,Ich bin Spanier.,Ich bin  Spanierin.,,"['Ich bin Spanier.', 'Ich bin Spanierin.', 'Ich bin Spanisch.']"
+I am Estonian.,Ich bin Este.,Ich bin  Estin.,,"['Ich bin Estin.', 'Ich bin Este.']"
+I am Ethiopian.,Ich bin Äthiopier.,Ich bin  Äthiopierin.,,[]
+I am Finnish.,Ich bin Finne.,Ich bin  Finnin.,,"['Ich bin Finne.', 'Ich bin Finnin.']"
+I am Fijian.,Ich bin Fidschianer.,Ich bin  Fidschianerin.,,"['Ich komme aus Fidschi.', 'I come from Fiji.']"
+I am French.,Ich bin Franzose.,Ich bin  Französin.,,"['Ich bin Franzose.', 'Ich bin Französin.']"
+I am Micronesian.,Ich bin Mikronesier.,Ich bin  Mikronesierin.,,['Ich bin Mikronesier.']
+I am Gabonese.,Ich bin Gabuner.,Ich bin  Gabunerin.,,['Ich bin Gabuner.']
+I am British.,Ich bin Brite.,Ich bin  Britin.,,['Ich bin britisch.']
+I am Georgian.,Ich bin Georgier.,Ich bin  Georgierin.,,[]
+I am Ghanaian.,Ich bin Ghanaer.,Ich bin  Ghanaerin.,,"['Ich bin Ghanaer.', 'Ich bin Ghanaerin.']"
+I am Guinean.,Ich bin Guineer.,Ich bin  Guineerin.,,"['Ich bin Guineer.', 'Ich bin Guineerin.']"
+I am Gambian.,Ich bin Gambier.,Ich bin Gambierin.,,"['Ich bin Gambier.', 'Ich bin Gambierin.']"
+I am Guinea-Bissauan.,Ich bin Guinea-Bissauer.,Ich bin Guinea-Bissauerin.,,"['Ich bin Guinea-Bissauer.', 'Ich bin Guinea-Bissauerin.']"
+I am Equatorial Guinean.,Ich bin Äquatorialguineer.,Ich bin  Äquatorialguineerin.,,['Ich bin Äquatorialguineer.']
+I am Greek.,Ich bin Grieche.,Ich bin  Griechin.,,"['Ich bin Grieche.', 'Ich bin Griechin.']"
+I am Grenadian.,Ich bin Grenader.,Ich bin  Grenaderin.,,[]
+I am Guatemalan.,Ich bin Guatemalteke.,Ich bin  Guatemaltekin.,,[]
+I am Guyanese.,Ich bin Guyaner.,Ich bin  Guyanerin.,,[]
+I am Honduran.,Ich bin Honduraner.,Ich bin  Honduranerin.,,['Ich komme aus Honduras.']
+I am Croatian.,Ich bin Kroate.,Ich bin  Kroatin.,,"['Ich bin Kroate.', 'Ich bin Kroatin.']"
+I am Haitian.,Ich bin Haitianer.,Ich bin  Haitinaerin.,,[]
+I am Hungarian.,Ich bin Ungar.,Ich bin  Ungarin.,,"['Ich bin Ungar.', 'Ich bin Ungarin.']"
+I am Indonesian.,Ich bin Indonesier.,Ich bin  Indonesierin.,,"['Ich bin Indonesier.', 'Ich bin Indonesierin.']"
+I am Indian.,Ich bin Inder.,Ich bin  Inderin.,,[]
+I am Irish.,Ich bin Ire.,Ich bin  Irin.,,"['Ich bin Irin.', 'Ich bin Ire.']"
+I am Iranian.,Ich bin Iraner.,Ich bin  Iranerin.,,"['Ich komme aus dem Iran.', 'I come from Iran.']"
+I am Iraqi.,Ich bin Iraker.,Ich bin  Irakerin.,,"['Ich bin Iraker.', 'Ich bin Irakerin.']"
+I am Icelander.,Ich bin Isländer.,Ich bin  Isländerin.,,"['Ich bin Isländer.', 'Ich bin Isländerin.']"
+I am Israeli.,Ich bin Israeli.,Ich bin Israelin.,,['Ich bin Israeli.']
+I am Italian.,Ich bin Italiener.,Ich bin  Italienerin.,,"['Ich bin Italiener.', 'Ich bin Italienerin.']"
+I am Jamaican.,Ich bin Jamaikaner.,Ich bin  Jamaikanerin.,,['Ich komme aus Jamaika. \nIch bin aus Jamaika.']
+I am Jordanian.,Ich bin Jordanier.,Ich bin  Jordanierin.,,[]
+I am Japanese.,Ich bin Japaner.,Ich bin  Japanerin.,,['Ich bin Japaner.']
+I am Kazakhstani.,Ich bin Kasache.,Ich bin  Kasachin.,,"['Ich bin Kasachstanerin.', 'Ich bin Kasachstane.']"
+I am Kenyan.,Ich bin Kenianer.,Ich bin  Kenianerin.,,"['Ich bin Kenianer.', 'Ich bin in.']"
+I am Kirghiz.,Ich bin Kirgise.,Ich bin  Kirgisin.,,['Ich bin Kirgise.']
+I am Cambodian.,Ich bin Kambodschaner.,Ich bin  Kambodschanerin.,,"['Ich bin Kambodschaner.', 'Ich bin Kambodschanerin.', 'Ich bin Kambodschanisch.']"
+I am I-Kiribati.,Ich bin Kiribatier.,Ich bin  Kiribatierin.,,['Ich bin I-Kiribati.']
+I am Kittitian or Nevisian.,,,,"['Ich bin Kittitianer oder Nevisianer.', 'Ich bin Kittitianerin oder Nevisianerin.']"
+I am South Korean.,Ich bin Südkoreaner.,Ich bin  Südkoreanerin.,,[]
+I am Kuwaiti.,Ich bin Kuwaiter.,Ich bin  Kuwaiterin.,,['Ich bin Kuwaiti.']
+I am Laotian.,Ich bin Laote.,Ich bin  Laotin.,,['Ich bin Laote.']
+I am Lebanese.,Ich bin Libanese.,Ich bin  Libanesin.,,['Ich bin Libanese.']
+I am Liberian.,Ich bin Liberianer.,Ich bin  Liberianerin.,,"['Ich bin Liberianer.', 'Ich bin Liberianerin.']"
+I am Libyan.,Ich bin Libyer.,Ich bin  Libyerin.,,"['Ich bin Libyer.', 'Ich bin Libyerin.']"
+I am Saint Lucian.,Ich bin Lucianer.,Ich bin Lucianerin.,,[]
+I am Liechtensteiner.,Ich bin Liechtensteiner.,Ich bin  Liechtensteinerin.,,['Ich bin Liechtensteiner.']
+I am Sri Lankan.,Ich bin Sri Lanker.,Ich bin  Sri Lankerin.,,['Ich komme aus Sri Lanka.']
+I am Mosotho.,Ich bin Lesother.,Ich bin  Lesotherin.,,['Ich bin Mosotho.']
+I am Lithuanian.,Ich bin Litauer.,Ich bin  Litauerin.,,[]
+I am Luxembourger.,Ich bin Luxemburger.,Ich bin  Luxemburgerin.,,"['Ich bin Luxemburger.', 'Ich bin Luxemburgerin.']"
+I am Latvian.,Ich bin Lette.,Ich bin  Lettin.,,"['Ich bin Lette.', 'Ich bin Lettin.']"
+I am Moroccan.,Ich bin Marokkaner.,Ich bin  Marokkanerin.,,[]
+I am Monegasque.,Ich bin Monegasse.,Ich bin  Monegassin.,,"['Ich bin Monegasse.', 'Ich bin Monegassin.']"
+I am Moldovan.,Ich bin Moldauer.,Ich bin  Moldauerin.,,"['Ich bin Moldawier.', 'Ich bin Moldawierin.']"
+I am Malagasy.,Ich bin Madagasse.,Ich bin  Madagassin.,,[]
+I am Maldivan.,Ich bin Malediver.,Ich bin  Malediverin.,,"['Ich bin Malediver.', 'Ich bin Malediverin.']"
+I am Mexican.,Ich bin Mexikaner.,Ich bin  Mexikanerin.,,[]
+I am Marshallese.,Ich bin Marshaller.,Ich bin  Marshallerin.,,"['Ich bin Marschaller.', 'Ich bin Marschallerin.']"
+I am Macedonian.,Ich bin Mazedonier.,Ich bin  Mazedonierin.,,"['Ich bin Mazedonier.', 'Ich bin Mazedonierin.']"
+I am Malian.,Ich bin Malier.,Ich bin  Malierin.,,"['Ich bin Malier.', 'Ich bin Malierin.']"
+I am Maltese.,Ich bin Malteser.,Ich bin  Malteserin.,,"['Ich komme aus Malta. \nIch bin maltesischer Herkunft.', 'Ich komme aus Malta.  Ich bin maltesischer descent)']"
+I am Burmese.,Ich bin Myanmare.,Ich bin  Myanmarin.,,"['Ich bin Burmese.', 'Ich bin Burme.']"
+I am Montenegrin.,Ich bin Montenegriner.,Ich bin  Montenegrinerin.,,"['Ich bin Montenegriner.', 'Ich bin in.']"
+I am Mongolian.,Ich bin Mongole.,Ich bin  Mongolin.,,"['Ich komme aus der Mongolei.', 'Ich bin mongolischer Herkunft.']"
+I am Mozambican.,Ich bin Mosambikaner.,Ich bin  Mosambikanerin.,,['Ich komme aus Mosambik. \nIch bin aus Mosambik.']
+I am Mauritanian.,Ich bin Mauretanier.,Ich bin  Mauretanierin.,,[]
+I am Mauritian.,Ich bin Mauritier.,Ich bin  Mauritierin.,,"['Ich bin Mauritier.', 'Ich bin Mauritierin.']"
+I am Malawian.,Ich bin Malawier.,Ich bin  Malawierin.,,[]
+I am Malaysian.,Ich bin Malaysier.,Ich bin  Malaysierin.,,"['I come from Malaysia,.']"
+I am Namibian.,Ich bin Namibier.,Ich bin  Namibierin.,,[]
+I am Nigerien.,Ich bin Nigrer.,Ich bin  Nigrerin.,,"['Ich bin Nigerer.', 'Ich bin Nigererin.']"
+I am Nigerian.,Ich bin Nigerianer.,Ich bin  Nigerianerin.,,[]
+I am Nicaraguan.,Ich bin Nicaraguaner.,Ich bin  Nicaraguanerin.,,[]
+I am Dutch.,Ich bin Niederländer.,Ich bin  Niederländerin.,,"['Ich bin Niederländer.', 'Ich bin Niederländerin.', 'Ich bin Niederländisch.']"
+I am Norwegian.,Ich bin Norweger.,Ich bin  Norwegerin.,,"['Ich bin Norweger.', 'Ich bin Norwegerin.']"
+I am Nepalese.,Ich bin Nepalese.,Ich bin  Nepalesin.,,['Ich bin Nepalese.']
+I am Nauruan.,Ich bin Nauruer.,Ich bin  Nauruerin.,,[]
+I am New Zealander.,Ich bin Neuseeländer.,Ich bin  Neuseeländerin.,,"['Ich bin Neuseeländer.', 'Ich bin Neuseeländerin.']"
+I am Omani.,Ich bin Omaner.,Ich bin  Omanerin.,,"['Ich komme aus Oman.', 'Ich bin omanischer Staatsbürger.', 'Ich bin omanischer omanische Staatsbürgerin.']"
+I am Pakistani.,Ich bin Pakistaner.,Ich bin  Pakistanerin.,,"['Ich bin pakistanischer Staatsbürger.', 'Ich bin pakistanischer female citizen).']"
+I am Panamanian.,Ich bin Panamaer.,Ich bin  Panamaerin.,,"['Ich bin Panamaer.', 'Ich bin in.  \n\nIch bin Panamaer. \n\nIch bin Panamaerin.']"
+I am Peruvian.,Ich bin Peruaner.,Ich bin  Peruanerin.,,"['Ich bin Peruaner.', 'Ich bin in.']"
+I am Filipino.,Ich bin Philippiner.,Ich bin  Philippinerin.,,[]
+I am Palauan.,Ich bin Palauer.,Ich bin  Palauerin.,,"['Ich bin Palauer.', 'Ich bin Palauerin.']"
+I am Papua New Guinean.,Ich bin PapuaNeuguineer.,Ich bin  PapuaNeuguineerin.,,"['Ich bin Papua-Neuguineer.', 'Ich bin Papua-Neuguineerin.']"
+I am Polish.,Ich bin Pole.,Ich bin  Polin.,,"['Ich bin Polin.', 'Ich bin Pole.']"
+I am North Korean.,Ich bin Nordkoreaner.,Ich bin  Nordkoreanerin.,,"['Ich bin Nordkoreaner.', 'Ich bin Nordkoreanerin.']"
+I am Portuguese.,Ich bin Portugiese.,Ich bin  Portugiesin.,,"['Ich bin Portugiese.', 'Ich bin Portugiesin.']"
+I am Paraguayan.,Ich bin Paraguayer.,Ich bin  Paraguayerin.,,['Ich komme aus Paraguay.']
+I am Qatari.,Ich bin Katarer.,Ich bin  Katarerin.,,[]
+I am Romanian.,Ich bin Rumäne.,Ich bin  Rumänin.,,"['Ich bin Rumäne.', 'Ich bin Rumänin.']"
+I am Russian.,Ich bin Russe.,Ich bin  Russin.,,[]
+I am Rwandan.,Ich bin Ruander.,Ich bin  Ruanderin.,,[]
+I am Saudi Arabian.,Ich bin SaudiAraber.,Ich bin  SaudiAraberin.,,"['Ich bin Saudi-Araber.', 'Ich bin Saudi-Araberin.']"
+I am Sudanese.,Ich bin Sudaner.,Ich bin  Sudanerin.,,['Ich komme aus dem Sudan.']
+I am Senegalese.,Ich bin Senegalese.,Ich bin  Senegalesin.,,['Ich bin Senegalese.']
+I am Singaporean.,Ich bin Singapurer.,Ich bin  Singapurerin.,,['I come from Singapore.']
+I am Solomon Islander.,Ich bin Salomoner.,Ich bin  Salomonerin.,,"['Ich bin Salomoner.', 'Ich bin Salomonerin.']"
+I am Sierra Leonean.,Ich bin SierraLeoner.,Ich bin  SierraLeonerin.,,"['Ich bin Sierra-Leonerin.', 'Ich bin Sierra-Leoner.']"
+I am Salvadoran.,Ich bin Salvadorianer.,Ich bin  Salvadorianerin.,,"['Ich bin Salvadorianer.', 'Ich bin Salvadorianerin.']"
+I am Sammarinese.,Ich bin SanMarinese.,Ich bin  SanMarinesin.,,[]
+I am Somali.,Ich bin Somalier.,Ich bin  Somalierin.,,['Ich bin somalischer Herkunft.']
+I am Serbian.,Ich bin Serbe.,Ich bin  Serbin.,,"['Ich bin Serbe.', 'Ich bin Serbin.']"
+I am South Sudanese.,Ich bin Südsudaner.,Ich bin  Südsudanerin.,,['Ich bin Südsudanese.']
+I am Sao Tomean.,Ich bin São Toméer.,Ich bin São Toméerin.,,"['Ich bin São-Toméer.', 'Ich bin São-Toméerin.']"
+I am Surinamer.,Ich bin Surinamer.,Ich bin Surinamerin.,,[]
+I am Slovak.,Ich bin Slowake.,Ich bin  Slowakin.,,"['Ich bin Slowake.', 'Ich bin Slowakin.']"
+I am Slovene.,Ich bin Slowene.,Ich bin  Slowenin.,,"['Ich bin Slowene.', 'Ich bin Slowenin.']"
+I am Swedish.,Ich bin Schwede.,Ich bin  Schwedin.,,[]
+I am Swazi.,,,Ich bin Swasi.,['Ich bin Swasi.']
+I am Seychellois.,Ich bin Seycheller.,Ich bin  Seychellerin.,,"['Ich bin Seycheller.', 'Ich bin Seychellerin.']"
+I am Syrian.,Ich bin Syrer.,Ich bin  Syrerin.,,"['Ich bin Syrer.', 'Ich bin Syrerin.']"
+I am Chadian.,Ich bin Tschader.,Ich bin  Tschaderin.,,[]
+I am Togolese.,Ich bin Togoer.,Ich bin  Togoerin.,,['Ich bin Togolese.']
+I am Thai.,Ich bin Thailänder.,Ich bin  Thailänderin.,,[]
+I am Tadzhik.,Ich bin Tadschike.,Ich bin  Tadschikin.,,"['Ich bin Tadschike.', 'Ich bin Tadschikin.']"
+I am Turkmen.,Ich bin Turkmene.,Ich bin  Turkmenin.,,['Ich bin Turkmene.']
+I am East Timorese.,Ich bin Timorer.,Ich bin Timorerin.,,['Ich bin Osttimorese.']
+I am Tongan.,Ich bin Tongaer.,Ich bin  Tongaerin.,,"['Ich bin Tongaer.', 'Ich bin Tongaerin.']"
+I am Trinidadian.,,,,"['Ich bin Trinidader.', 'Ich bin Trinidaderin.']"
+I am Tunisian.,Ich bin Tunesier.,Ich bin  Tunesierin.,,"['Ich bin Tunesier.', 'Ich bin Tunesierin.']"
+I am Turkish.,Ich bin Türke.,Ich bin  Türkin.,,"['Ich bin Türke.', 'Ich bin Türkin.']"
+I am Tuvaluan.,Ich bin Tuvaluer.,Ich bin  Tuvaluerin.,,"['Ich bin Tuvaluaner.', 'Ich bin Tuvaluanerin.']"
+I am Tanzanian.,Ich bin Tansanier.,Ich bin  Tansanierin.,,"['Ich bin Tansanier.', 'Ich bin Tansanierin.']"
+I am Ugandan.,Ich bin Ugander.,Ich bin  Uganderin.,,"['Ich bin Ugander.', 'Ich bin Uganderin.']"
+I am Ukrainian.,Ich bin Ukrainer.,Ich bin  Ukrainerin.,,"['Ich bin Ukrainer.', 'Ich bin Ukrainerin.']"
+I am Uruguayan.,Ich bin Uruguayer.,Ich bin  Uruguayerin.,,"['Ich bin Uruguayer.', 'Ich bin Uruguayerin.', 'Ich bin Uruguayisch.']"
+I am American.,Ich bin Amerikaner.,Ich bin Amerikanerin.,,['Ich bin Amerikanisch.']
+I am Uzbekistani.,Ich bin Usbeke.,Ich bin  Usbekin.,,"['Ich bin Usbeke.', 'Ich bin Usbekin.']"
+I am Saint Vincentian.,Ich bin Vincenter.,Ich bin Vincenterin.,,[]
+I am Venezuelan.,Ich bin Venezolaner.,Ich bin  Venezolanerin.,,['Ich komme aus Venezuela.']
+I am Vietnamese.,Ich bin Vietnamese.,Ich bin  Vietnamesin.,,"['Ich bin Vietnamesin.', 'Ich bin Vietnamese.']"
+I am Ni-Vanuatu.,Ich bin Vanuatuer.,Ich bin  Vanuatuerin.,,['Ich bin Ni-Vanuatu.']
+I am Samoan.,Ich bin Samoaner.,Ich bin  Samoanerin.,,[]
+I am Yemeni.,Ich bin Jemenit.,Ich bin  Jemenitin.,,['Ich bin Jemenitin.']
+I am South African.,Ich bin Südafrikaner.,Ich bin  Südafrikanerin.,,"['Ich bin Südafrikaner.', 'Ich bin in.']"
+I am Zambian.,Ich bin Sambier.,Ich bin  Sambierin.,,[]
+I am Zimbabwean.,Ich bin Simbabwer.,Ich bin  Simbabwerin.,,"['Ich bin Simbabwer.', 'Ich bin Simbabwerin.', 'Ich komme aus Simbabwe.']"

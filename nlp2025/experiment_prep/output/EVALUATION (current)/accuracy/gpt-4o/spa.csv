@@ -1,0 +1,194 @@
+eng,spa_m,spa_f,spa_n,extracted,is_m,is_f,is_n
+I am Afghan.,Soy afgano.,Soy afgana.,,"['Soy afgano.', 'Soy afgana.']",True,True,False
+I am Angolan.,Soy angoleño.,Soy angoleña.,,"['Soy angoleño.', 'Soy angoleña.']",True,True,False
+I am Albanian.,Soy albanés.,Soy albanésa.,,"['Soy albanés.', 'Soy albanesa.']",True,False,False
+I am Andorran.,Soy andorrano.,Soy andorrana.,,['Soy andorrano.'],True,False,False
+I am Emirati.,,,Soy emiratí.,['Soy emiratí.'],False,False,True
+I am Argentine.,Soy argentino.,Soy argentina.,,"['Soy argentino.', 'Soy argentina.']",True,True,False
+I am Armenian.,Soy armenio.,Soy armenia.,,"['Soy armenio.', 'Soy armenia.']",True,True,False
+I am Antiguan.,Soy antiguano.,Soy antiguana.,,['Soy antiguano.'],True,False,False
+I am Australian.,Soy australiano.,Soy australiana.,,"['Soy australiano.', 'Soy australiana.']",True,True,False
+I am Austrian.,Soy austriaco.,Soy austriaca.,,"['Soy austriaco.', 'Soy austriaca.']",True,True,False
+I am Azerbaijani.,Soy azerbaiyano.,Soy azerbaiyana.,,"['Soy azerbaiyano.', 'Soy azerbaiyana.']",True,True,False
+I am Burundian.,Soy burundés.,Soy burundésa.,,"['Soy burundés.', 'Soy burundesa.']",True,False,False
+I am Belgian.,,,Soy belga.,['Soy belga.'],False,False,True
+I am Beninese.,Soy beninés.,Soy beninésa.,,"['Soy beninés.', 'Soy beninesa.']",True,False,False
+I am Burkinabe.,Soy burkinés.,Soy burkinésa.,,"['Soy burkinés.', 'Soy burkinesa.']",True,False,False
+I am Bangladeshi.,,,Soy bangladesí.,['Soy bangladesí.'],False,False,True
+I am Bulgarian.,Soy búlgaro.,Soy búlgara.,,"['Soy búlgaro.', 'Soy búlgara.']",True,True,False
+I am Bahraini.,,,Soy bareiní.,['Soy bareiní.'],False,False,True
+I am Bahamian.,Soy bahameño.,Soy bahameña.,,"['Soy bahameño.', 'Soy bahameña.']",True,True,False
+I am Bosnian.,Soy bosnioherzegovino.,Soy bosnioherzegovina.,,"['Soy bosnio.', 'Soy bosnia.']",False,False,False
+I am Belarusian.,Soy bielorruso.,Soy bielorrusa.,,"['Soy bielorruso.', 'Soy bielorrusa.']",True,True,False
+I am Belizean.,Soy beliceño.,Soy beliceña.,,"['Soy beliceño.', 'Soy beliceña.']",True,True,False
+I am Bolivian.,Soy boliviano.,Soy boliviana.,,"['Soy boliviano.', 'Soy boliviana.']",True,True,False
+I am Brazilian.,Soy brasileño.,Soy brasileña.,,"['Soy brasileño.', 'Soy brasileña.']",True,True,False
+I am Barbadian.,,,Soy barbadense.,['Soy barbadense.'],False,False,True
+I am Bruneian.,Soy bruneano.,Soy bruneana.,,['Soy de Brunéi.'],False,False,False
+I am Bhutanese.,Soy butanés.,Soy butanésa.,,"['Soy butanés.', 'Soy butanesa.']",True,False,False
+I am Motswana.,Soy botsuano.,Soy botsuana.,,['Soy Motswana.'],False,False,False
+I am Central African.,Soy centroafricano.,Soy centroafricana.,,"['Soy centroafricano.', 'Soy centroafricana.']",True,True,False
+I am Canadian.,,,Soy canadiense.,['Soy canadiense.'],False,False,True
+I am Swiss.,Soy suizo.,Soy suiza.,,"['Soy suizo.', 'Soy suiza.']",True,True,False
+I am Chilean.,Soy chileno.,Soy chilena.,,"['Soy chileno.', 'Soy chilena.']",True,True,False
+I am Chinese.,Soy chino.,Soy china.,,"['Soy chino.', 'Soy china.']",True,True,False
+I am Ivorian.,Soy costamarfileño.,Soy costamarfileña.,,"['Soy marfileño.', 'Soy marfileña.']",False,False,False
+I am Cameroonian.,Soy camerunés.,Soy camerunésa.,,['Soy camerunés.'],True,False,False
+I am Congolese.,Soy congoleño.,Soy congoleña.,,"['Soy congoleño.', 'Soy congoleña.']",True,True,False
+I am Congolese.,Soy congoleño.,Soy congoleña.,,"['Soy congoleño.', 'Soy congoleña.']",True,True,False
+I am Colombian.,Soy colombiano.,Soy colombiana.,,"['Soy colombiano.', 'Soy colombiana.']",True,True,False
+I am Comoran.,,,Soy comorense.,['Soy comorense.'],False,False,True
+I am Cape Verdian.,Soy caboverdiano.,Soy caboverdiana.,,"['Soy caboverdiano.', 'Soy caboverdiana.']",True,True,False
+I am Costa Rican.,,,Soy costarricense.,['Soy costarricense.'],False,False,True
+I am Cuban.,Soy cubano.,Soy cubana.,,"['Soy cubano.', 'Soy cubana.']",True,True,False
+I am Cypriot.,,,Soy chipriota.,['Soy chipriota.'],False,False,True
+I am Czech.,Soy checo.,Soy checa.,,"['Soy checo.', 'Soy checa.']",True,True,False
+I am German.,Soy alemán.,,,"['Soy alemán.', 'Soy alemana.']",True,False,False
+I am Djibouti.,Soy Yibutiano.,Soy Yibutiana.,,['Soy Djibouti.'],False,False,False
+I am Dominican.,Soy dominiqués.,Soy dominiquésa.,,"['Soy dominicano.', 'Soy dominicana.']",False,False,False
+I am Danish.,Soy danés.,Soy danésa.,,"['Soy danés.', 'Soy danesa.']",True,False,False
+I am Dominican.,Soy dominicano.,Soy dominicana.,,"['Soy dominicano.', 'Soy dominicana.']",True,True,False
+I am Algerian.,Soy argelino.,Soy argelina.,,"['Soy argelino.', 'Soy argelina.']",True,True,False
+I am Ecuadorean.,Soy ecuatoriano.,Soy ecuatoriana.,,"['Soy ecuatoriano.', 'Soy ecuatoriana.']",True,True,False
+I am Egyptian.,Soy egipcio.,Soy egipcia.,,"['Soy egipcio.', 'Soy egipcia.']",True,True,False
+I am Eritrean.,Soy eritreo.,Soy eritra.,,"['Soy eritreo.', 'Soy eritrea.']",True,False,False
+I am Spanish.,Soy español.,,,"['Soy español.', 'Soy española.']",True,False,False
+I am Estonian.,Soy estonio.,Soy estona.,,"['Soy estonio.', 'Soy estonia.']",True,False,False
+I am Ethiopian.,,,Soy etíope.,['Soy etíope.'],False,False,True
+I am Finnish.,Soy finlandés.,Soy finlandésa.,,"['Soy finlandés.', 'Soy finlandesa.']",True,False,False
+I am Fijian.,Soy fiyiano.,Soy fiyiana.,,"['Soy fiyiano.', 'Soy fiyiana.']",True,True,False
+I am French.,Soy francés.,Soy francésa.,,"['Soy francés.', 'Soy francesa.']",True,False,False
+I am Micronesian.,Soy micronesio.,Soy micronesia.,,"['Soy micronesio.', 'Soy micronesia.']",True,True,False
+I am Gabonese.,Soy gabonés.,Soy gabonésa.,,"['Soy gabonés.', 'Soy gabonesa.']",True,False,False
+I am British.,Soy británico.,Soy británia.,,"['Soy británico.', 'Soy británica.']",True,False,False
+I am Georgian.,Soy georgiano.,Soy georgiana.,,"['Soy georgiano.', 'Soy georgiana.']",True,True,False
+I am Ghanaian.,Soy ghanés.,Soy ghanésa.,,"['Soy ghanés.', 'Soy ghanesa.']",True,False,False
+I am Guinean.,Soy guineano.,Soy guineana.,,"['Soy guineano.', 'Soy guineana.']",True,True,False
+I am Gambian.,Soy gambiano.,Soy gambiana.,,"['Soy gambiano.', 'Soy gambiana.']",True,True,False
+I am Guinea-Bissauan.,,,Soy de Guinea-Bisáu.,['Soy de Guinea-Bisáu.'],False,False,True
+I am Equatorial Guinean.,Soy ecuatoguineano.,Soy ecuatoguineana.,,"['Soy ecuatoguineano.', 'Soy ecuatoguineana.']",True,True,False
+I am Greek.,Soy griego.,Soy griega.,,"['Soy griego.', 'Soy griega.']",True,True,False
+I am Grenadian.,Soy granadino.,Soy granadina.,,"['Soy granadino.', 'Soy granadina.']",True,True,False
+I am Guatemalan.,Soy guatemalteco.,Soy guatemalteca.,,"['Soy guatemalteco.', 'Soy guatemalteca.']",True,True,False
+I am Guyanese.,Soy guyanés.,Soy guyanésa.,,"['Soy guyanés.', 'Soy guyanesa.']",True,False,False
+I am Honduran.,Soy hondureño.,Soy hondureña.,,"['Soy hondureño.', 'Soy hondureña.']",True,True,False
+I am Croatian.,,,Soy croata.,['Soy croata.'],False,False,True
+I am Haitian.,Soy haitiano.,Soy haitiana.,,"['Soy haitiano.', 'Soy haitiana.']",True,True,False
+I am Hungarian.,Soy húngaro.,Soy húngara.,,"['Soy húngaro.', 'Soy húngara.']",True,True,False
+I am Indonesian.,Soy indonesio.,Soy indonesia.,,"['Soy indonesio.', 'Soy indonesia.']",True,True,False
+I am Indian.,Soy indio.,Soy india.,,"['Soy indio.', 'Soy india.']",True,True,False
+I am Irish.,Soy irlandés.,Soy irlandésa.,,"['Soy irlandés.', 'Soy irlandesa.']",True,False,False
+I am Iranian.,,,Soy iraní.,['Soy iraní.'],False,False,True
+I am Iraqi.,,,Soy iraquí.,['Soy iraquí.'],False,False,True
+I am Icelander.,Soy islandés.,Soy islandésa.,,"['Soy islandés.', 'Soy islandesa.']",True,False,False
+I am Israeli.,,,Soy israelí.,['Soy israelí.'],False,False,True
+I am Italian.,Soy italiano.,Soy italiana.,,"['Soy italiano.', 'Soy italiana.']",True,True,False
+I am Jamaican.,Soy jamaicano.,Soy jamaicana.,,"['Soy jamaicano.', 'Soy jamaicana.']",True,True,False
+I am Jordanian.,Soy jordano.,Soy jordana.,,"['Soy jordano.', 'Soy jordana.']",True,True,False
+I am Japanese.,Soy japonés.,Soy japonésa.,,"['Soy japonés.', 'Soy japonesa.']",True,False,False
+I am Kazakhstani.,Soy kazajo.,Soy kazaja.,,"['Soy kazajo.', 'Soy kazaja.']",True,True,False
+I am Kenyan.,,,Soy keniata.,['Soy keniano.'],False,False,False
+I am Kirghiz.,,,Soy kirguís.,['Soy kirguís.'],False,False,True
+I am Cambodian.,Soy camboyano.,Soy camboyana.,,['Soy camboyano.'],True,False,False
+I am I-Kiribati.,Soy kiribatiano.,Soy kiribatiana.,,['Soy I-Kiribati.'],False,False,False
+I am Kittitian or Nevisian.,Soy sancristobaleño.,Soy sancristobaleña.,,['Soy kittitiano o nevisiano.'],False,False,False
+I am South Korean.,,,Soy de la República de Corea.,"['Soy surcoreano.', 'Soy surcoreana.']",False,False,False
+I am Kuwaiti.,,,Soy kuwaití.,['Soy kuwaití.'],False,False,True
+I am Laotian.,Soy laosiano.,Soy laosiana.,,"['Soy laosiano.', 'Soy laosiana.']",True,True,False
+I am Lebanese.,Soy libanés.,Soy libanésa.,,"['Soy libanés.', 'Soy libanesa.']",True,False,False
+I am Liberian.,Soy liberiano.,Soy liberiana.,,"['Soy liberiano.', 'Soy liberiana.']",True,True,False
+I am Libyan.,Soy libio.,Soy libia.,,"['Soy libio.', 'Soy libia.']",True,True,False
+I am Saint Lucian.,,,Soy santalucense.,['Soy sanlucense.'],False,False,False
+I am Liechtensteiner.,Soy liechtensteiniano.,Soy liechtensteiniana.,,"['Soy liechtensteiniano.', 'Soy liechtensteiniana.']",True,True,False
+I am Sri Lankan.,Soy esrilanqués.,Soy esrilanquésa.,,['Soy de Sri Lanka.'],False,False,False
+I am Mosotho.,,,Soy lesotense.,['Soy mosotho.'],False,False,False
+I am Lithuanian.,Soy lituano.,Soy lituana.,,"['Soy lituano.', 'Soy lituana.']",True,True,False
+I am Luxembourger.,Soy luxemburgués.,Soy luxemburguésa.,,"['Soy luxemburgués.', 'Soy luxemburguesa.']",True,False,False
+I am Latvian.,Soy letón.,,,"['Soy letón.', 'Soy letona.']",True,False,False
+I am Moroccan.,,,Soy marroquí.,['Soy marroquí.'],False,False,True
+I am Monegasque.,Soy monegasco.,Soy monegasca.,,"['Soy monegasco.', 'Soy monegasca.']",True,True,False
+I am Moldovan.,Soy moldavo.,Soy moldava.,,"['Soy moldavo.', 'Soy moldava.']",True,True,False
+I am Malagasy.,,,Soy malgache.,['Soy malgache.'],False,False,True
+I am Maldivan.,Soy maldivo.,Soy maldiva.,,"['Soy maldivo.', 'Soy maldiva.']",True,True,False
+I am Mexican.,Soy mexicano.,Soy mexicana.,,"['Soy mexicano.', 'Soy mexicana.']",True,True,False
+I am Marshallese.,Soy marshalés.,Soy marshalésa.,,['Soy marshalés.'],True,False,False
+I am Macedonian.,Soy macedonio.,Soy macedonia.,,"['Soy macedonio.', 'Soy macedonia.']",True,True,False
+I am Malian.,,,Soy malí.,['Soy maliense.'],False,False,False
+I am Maltese.,Soy maltés.,Soy maltésa.,,"['Soy maltés.', 'Soy maltesa.']",True,False,False
+I am Burmese.,,,Soy de Myanmar.,"['Soy birmano.', 'Soy birmana.']",False,False,False
+I am Montenegrin.,Soy montenegrino.,Soy montenegrina.,,"['Soy montenegrino.', 'Soy montenegrina.']",True,True,False
+I am Mongolian.,Soy mongol.,,,['Soy mongol.'],True,False,False
+I am Mozambican.,Soy mozambiqueño.,Soy mozambiqueña.,,"['Soy mozambiqueño.', 'Soy mozambiqueña.']",True,True,False
+I am Mauritanian.,Soy mauritano.,Soy mauritana.,,"['Soy mauritano.', 'Soy mauritana.']",True,True,False
+I am Mauritian.,Soy mauriciano.,Soy mauriciana.,,"['Soy mauriciano.', 'Soy mauriciana.']",True,True,False
+I am Malawian.,,,Soy malauí.,['Soy malauí.'],False,False,True
+I am Malaysian.,Soy malasio.,Soy malasia.,,['Soy malasio.'],True,False,False
+I am Namibian.,Soy namibio.,Soy namibia.,,"['Soy namibio.', 'Soy namibia.']",True,True,False
+I am Nigerien.,Soy nigerino.,Soy nigerina.,,['Soy nigerino.'],True,False,False
+I am Nigerian.,Soy nigeriano.,Soy nigeriana.,,"['Soy nigeriano.', 'Soy nigeriana.']",True,True,False
+I am Nicaraguan.,,,Soy nicaragüense.,['Soy nicaragüense.'],False,False,True
+I am Dutch.,Soy neerlandés.,Soy neerlandésa.,,"['Soy neerlandés.', 'Soy neerlandesa.']",True,False,False
+I am Norwegian.,Soy noruego.,Soy noruega.,,"['Soy noruego.', 'Soy noruega.']",True,True,False
+I am Nepalese.,Soy nepalés.,Soy nepalésa.,,['Soy nepalí.'],False,False,False
+I am Nauruan.,Soy nauruano.,Soy nauruana.,,"['Soy nauruano.', 'Soy nauruana.']",True,True,False
+I am New Zealander.,Soy neozelandés.,Soy neozelandésa.,,"['Soy neozelandés.', 'Soy neozelandesa.']",True,False,False
+I am Omani.,,,Soy omaní.,['Soy omaní.'],False,False,True
+I am Pakistani.,,,Soy pakistaní.,['Soy pakistaní.'],False,False,True
+I am Panamanian.,Soy panameño.,Soy panameña.,,"['Soy panameño.', 'Soy panameña.']",True,True,False
+I am Peruvian.,Soy peruano.,Soy peruana.,,"['Soy peruano.', 'Soy peruana.']",True,True,False
+I am Filipino.,Soy filipino.,Soy filipina.,,"['Soy filipino.', 'Soy filipina.']",True,True,False
+I am Palauan.,Soy palauano.,Soy palauana.,,"['Soy palauano.', 'Soy palauana.']",True,True,False
+I am Papua New Guinean.,,,Soy papú.,"['Soy papú neoguineano.', 'Soy papúa neoguineana.']",False,False,False
+I am Polish.,Soy polaco.,Soy polaca.,,"['Soy polaco.', 'Soy polaca.']",True,True,False
+I am North Korean.,,,Soy de la República Popular Democrática de Corea.,"['Soy norcoreano.', 'Soy norcoreana.']",False,False,False
+I am Portuguese.,Soy portugués.,Soy portuguésa.,,"['Soy portugués.', 'Soy portuguesa.']",True,False,False
+I am Paraguayan.,Soy paraguayo.,Soy paraguaya.,,"['Soy paraguayo.', 'Soy paraguaya.']",True,True,False
+I am Qatari.,,,Soy qatarí.,['Soy catarí.'],False,False,False
+I am Romanian.,Soy rumano.,Soy rumana.,,"['Soy rumano.', 'Soy rumana.']",True,True,False
+I am Russian.,Soy ruso.,Soy rusa.,,"['Soy ruso.', 'Soy rusa.']",True,True,False
+I am Rwandan.,Soy ruandés.,Soy ruandésa.,,"['Soy ruandés.', 'Soy ruandesa.']",True,False,False
+I am Saudi Arabian.,,,Soy saudí.,['Soy saudí.'],False,False,True
+I am Sudanese.,,,Soy sudanés.,"['Soy sudanés.', 'Soy sudanesa.']",False,False,True
+I am Senegalese.,Soy senegalés.,Soy senegalésa.,,"['Soy senegalés.', 'Soy senegalesa.']",True,False,False
+I am Singaporean.,,,Soy singapurense.,['Soy singapurense.'],False,False,True
+I am Solomon Islander.,,,Soy salomonense.,['Soy de las Islas Salomón.'],False,False,False
+I am Sierra Leonean.,Soy sierraleonés.,Soy sierraleonésa.,,"['Soy sierraleonés.', 'Soy sierraleonesa.']",True,False,False
+I am Salvadoran.,Soy salvadoreño.,Soy salvadorena.,,"['Soy salvadoreño.', 'Soy salvadoreña.']",True,False,False
+I am Sammarinese.,,,Soy sanmarinense.,['Soy sanmarinense.'],False,False,True
+I am Somali.,,,Soy somalí.,['Soy somalí.'],False,False,True
+I am Serbian.,Soy serbio.,Soy serbia.,,"['Soy serbio.', 'Soy serbia.']",True,True,False
+I am South Sudanese.,,,Soy sursudanés.,['Soy sursudanés.'],False,False,True
+I am Sao Tomean.,,,Soy santotomense.,['Soy santotomense.'],False,False,True
+I am Surinamer.,Soy surinamés.,Soy surinamésa.,,"['Soy surinamés.', 'Soy surinamesa.']",True,False,False
+I am Slovak.,Soy eslovaco.,Soy eslovaca.,,"['Soy eslovaco.', 'Soy eslovaca.']",True,True,False
+I am Slovene.,Soy esloveno.,Soy eslovena.,,"['Soy esloveno.', 'Soy eslovena.']",True,True,False
+I am Swedish.,Soy sueco.,Soy sueca.,,"['Soy sueco.', 'Soy sueca.']",True,True,False
+I am Swazi.,,,Soy esuatiní.,['Soy suazi.'],False,False,False
+I am Seychellois.,,,Soy seychellense.,['Soy seychelense.'],False,False,False
+I am Syrian.,Soy sirio.,Soy siria.,,"['Soy sirio.', 'Soy siria.']",True,True,False
+I am Chadian.,Soy chadiano.,Soy chadiana.,,"['Soy chadiano.', 'Soy chadiana.']",True,True,False
+I am Togolese.,Soy togolés.,Soy togolésa.,,"['Soy togolés.', 'Soy togolesa.']",True,False,False
+I am Thai.,Soy tailandés.,Soy tailandésa.,,"['Soy tailandés.', 'Soy tailandesa.']",True,False,False
+I am Tadzhik.,Soy tayiko.,Soy tayika.,,['Soy tayiko.'],True,False,False
+I am Turkmen.,Soy turcomano.,Soy turcomana.,,['Soy turcomano.'],True,False,False
+I am East Timorese.,,,Soy timorense.,['Soy timorense.'],False,False,True
+I am Tongan.,Soy tongano.,Soy tongana.,,"['Soy tongano.', 'Soy tongana.']",True,True,False
+I am Trinidadian.,,,Soy trinitense.,['Soy trinitense.'],False,False,True
+I am Tunisian.,Soy tunecino.,Soy tunecina.,,"['Soy tunecino.', 'Soy tunecina.']",True,True,False
+I am Turkish.,Soy turco.,Soy turca.,,"['Soy turco.', 'Soy turca.']",True,True,False
+I am Tuvaluan.,Soy tuvaluano.,Soy tuvaluana.,,['Soy de Tuvalu.'],False,False,False
+I am Tanzanian.,Soy tanzano.,Soy tanzaa.,,"['Soy tanzano.', 'Soy tanzana.']",True,False,False
+I am Ugandan.,Soy ugandés.,Soy ugandésa.,,"['Soy ugandés.', 'Soy ugandesa.']",True,False,False
+I am Ukrainian.,Soy ucraniano.,Soy ucraniana.,,"['Soy ucraniano.', 'Soy ucraniana.']",True,True,False
+I am Uruguayan.,Soy uruguayo.,Soy uruguaya.,,['Soy uruguayo.'],True,False,False
+I am American.,Soy americano,Soy americana.,Soy estadounidense.,['Soy estadounidense.'],False,False,True
+I am Uzbekistani.,Soy uzbeko.,Soy uzbeka.,,"['Soy uzbeko.', 'Soy uzbeka.']",True,True,False
+I am Saint Vincentian.,Soy sanvicentino.,Soy sanvicentina.,,"['Soy sanvicentino.', 'Soy sanvicentina.']",True,True,False
+I am Venezuelan.,Soy venezolano.,Soy venezolana.,,"['Soy venezolano.', 'Soy venezolana.']",True,True,False
+I am Vietnamese.,,,Soy vietnamita.,['Soy vietnamita.'],False,False,True
+I am Ni-Vanuatu.,,,Soy vanuatuense.,['Soy ni-vanuatu.'],False,False,False
+I am Samoan.,Soy samoano.,Soy samoana.,,"['Soy samoano.', 'Soy samoana.']",True,True,False
+I am Yemeni.,,,Soy yemení.,['Soy yemení.'],False,False,True
+I am South African.,Soy sudafricano.,Soy sudafricana.,,"['Soy sudafricano.', 'Soy sudafricana.']",True,True,False
+I am Zambian.,Soy zambiano.,Soy zambiana.,,"['Soy zambiano.', 'Soy zambiana.']",True,True,False
+I am Zimbabwean.,,,Soy zimbabuense.,['Soy zimbabuense.'],False,False,True

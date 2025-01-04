@@ -6,118 +6,118 @@ I am Andorran.,Soy andorrano.,Soy andorrana.,,"['Soy andorrano.', 'Soy andorrana
 I am Emirati.,,,Soy emiratí.,['Soy emiratí.']
 I am Argentine.,Soy argentino.,Soy argentina.,,"['Soy argentino.', 'Soy argentina.']"
 I am Armenian.,Soy armenio.,Soy armenia.,,"['Soy armenio.', 'Soy armenia.']"
-I am Antiguan.,Soy antiguano.,Soy antiguana.,,"['Soy antiguano.', 'Soy antiguana.']"
+I am Antiguan.,Soy antiguano.,Soy antiguana.,,"['Soy de Antigua.', 'Soy antigüense.']"
 I am Australian.,Soy australiano.,Soy australiana.,,"['Soy australiano.', 'Soy australiana.']"
 I am Austrian.,Soy austriaco.,Soy austriaca.,,"['Soy austriaco.', 'Soy austriaca.']"
 I am Azerbaijani.,Soy azerbaiyano.,Soy azerbaiyana.,,"['Soy azerbaiyano.', 'Soy azerbaiyana.']"
-I am Burundian.,Soy burundés.,Soy burundésa.,,['Soy burundés.']
+I am Burundian.,Soy burundés.,Soy burundésa.,,"['Soy burundés.', 'Soy burundesa.']"
 I am Belgian.,,,Soy belga.,['Soy belga.']
-I am Beninese.,Soy beninés.,Soy beninésa.,,['Soy beninés.']
-I am Burkinabe.,Soy burkinés.,Soy burkinésa.,,['Soy burkinabé.']
+I am Beninese.,Soy beninés.,Soy beninésa.,,"['Soy beninés.', 'Soy beninesa.']"
+I am Burkinabe.,Soy burkinés.,Soy burkinésa.,,['Soy burkinés.']
 I am Bangladeshi.,,,Soy bangladesí.,['Soy bangladesí.']
 I am Bulgarian.,Soy búlgaro.,Soy búlgara.,,"['Soy búlgaro.', 'Soy búlgara.']"
-I am Bahraini.,,,Soy bareiní.,['Soy bahreiní.']
+I am Bahraini.,,,Soy bareiní.,['Soy bareiní.']
 I am Bahamian.,Soy bahameño.,Soy bahameña.,,"['Soy bahameño.', 'Soy bahameña.']"
 I am Bosnian.,Soy bosnioherzegovino.,Soy bosnioherzegovina.,,"['Soy bosnio.', 'Soy bosnia.']"
 I am Belarusian.,Soy bielorruso.,Soy bielorrusa.,,"['Soy bielorruso.', 'Soy bielorrusa.']"
 I am Belizean.,Soy beliceño.,Soy beliceña.,,"['Soy beliceño.', 'Soy beliceña.']"
 I am Bolivian.,Soy boliviano.,Soy boliviana.,,"['Soy boliviano.', 'Soy boliviana.']"
 I am Brazilian.,Soy brasileño.,Soy brasileña.,,"['Soy brasileño.', 'Soy brasileña.']"
-I am Barbadian.,,,Soy barbadense.,['Soy barbadense.']
-I am Bruneian.,Soy bruneano.,Soy bruneana.,,['Soy de Brunéi.']
-I am Bhutanese.,Soy butanés.,Soy butanésa.,,['Soy de Bután.']
-I am Motswana.,Soy botsuano.,Soy botsuana.,,['Soy Motswana.']
+I am Barbadian.,,,Soy barbadense.,"['Soy barbadense.', 'Soy de Barbados.']"
+I am Bruneian.,Soy bruneano.,Soy bruneana.,,"['Soy bruneano.', 'Soy bruneana.']"
+I am Bhutanese.,Soy butanés.,Soy butanésa.,,"['Soy butanés.', 'Soy butanesa.']"
+I am Motswana.,Soy botsuano.,Soy botsuana.,,['Soy motswana.']
 I am Central African.,Soy centroafricano.,Soy centroafricana.,,"['Soy centroafricano.', 'Soy centroafricana.']"
 I am Canadian.,,,Soy canadiense.,['Soy canadiense.']
-I am Swiss.,Soy suizo.,Soy suiza.,,['Soy suizo.']
+I am Swiss.,Soy suizo.,Soy suiza.,,"['Soy suizo.', 'Soy suiza.']"
 I am Chilean.,Soy chileno.,Soy chilena.,,"['Soy chileno.', 'Soy chilena.']"
 I am Chinese.,Soy chino.,Soy china.,,"['Soy chino.', 'Soy china.']"
 I am Ivorian.,Soy costamarfileño.,Soy costamarfileña.,,"['Soy marfileño.', 'Soy marfileña.']"
-I am Cameroonian.,Soy camerunés.,Soy camerunésa.,,['Soy camerunés.']
+I am Cameroonian.,Soy camerunés.,Soy camerunésa.,,"['Soy camerunés.', 'Soy camerunesa.']"
 I am Congolese.,Soy congoleño.,Soy congoleña.,,"['Soy congoleño.', 'Soy congoleña.']"
 I am Congolese.,Soy congoleño.,Soy congoleña.,,"['Soy congoleño.', 'Soy congoleña.']"
 I am Colombian.,Soy colombiano.,Soy colombiana.,,"['Soy colombiano.', 'Soy colombiana.']"
 I am Comoran.,,,Soy comorense.,['Soy comorense.']
 I am Cape Verdian.,Soy caboverdiano.,Soy caboverdiana.,,"['Soy caboverdiano.', 'Soy caboverdiana.']"
 I am Costa Rican.,,,Soy costarricense.,['Soy costarricense.']
-I am Cuban.,Soy cubano.,Soy cubana.,,['Soy cubano.']
+I am Cuban.,Soy cubano.,Soy cubana.,,"['Soy cubano.', 'Soy cubana.']"
 I am Cypriot.,,,Soy chipriota.,['Soy chipriota.']
 I am Czech.,Soy checo.,Soy checa.,,"['Soy checo.', 'Soy checa.']"
-I am German.,Soy alemán.,,,"['Soy alemán.', 'Soy a.']"
-I am Djibouti.,Soy Yibutiano.,Soy Yibutiana.,,['Soy de Yibuti.']
+I am German.,Soy alemán.,,,"['Soy alemán.', 'Soy alemana.']"
+I am Djibouti.,Soy Yibutiano.,Soy Yibutiana.,,['Yo soy Djibouti.']
 I am Dominican.,Soy dominiqués.,Soy dominiquésa.,,"['Soy dominicano.', 'Soy dominicana.']"
-I am Danish.,Soy danés.,Soy danésa.,,['Soy danés.']
+I am Danish.,Soy danés.,Soy danésa.,,"['Soy danés.', 'Soy danesa.']"
 I am Dominican.,Soy dominicano.,Soy dominicana.,,"['Soy dominicano.', 'Soy dominicana.']"
 I am Algerian.,Soy argelino.,Soy argelina.,,"['Soy argelino.', 'Soy argelina.']"
 I am Ecuadorean.,Soy ecuatoriano.,Soy ecuatoriana.,,"['Soy ecuatoriano.', 'Soy ecuatoriana.']"
 I am Egyptian.,Soy egipcio.,Soy egipcia.,,"['Soy egipcio.', 'Soy egipcia.']"
 I am Eritrean.,Soy eritreo.,Soy eritra.,,"['Soy eritreo.', 'Soy eritrea.']"
-I am Spanish.,Soy español.,,,"['Soy español.', 'Soy a.']"
+I am Spanish.,Soy español.,,,"['Soy español.', 'Soy española.']"
 I am Estonian.,Soy estonio.,Soy estona.,,"['Soy estonio.', 'Soy estonia.']"
 I am Ethiopian.,,,Soy etíope.,['Soy etíope.']
-I am Finnish.,Soy finlandés.,Soy finlandésa.,,['Soy finlandés.']
+I am Finnish.,Soy finlandés.,Soy finlandésa.,,"['Soy finlandés.', 'Soy finlandesa.']"
 I am Fijian.,Soy fiyiano.,Soy fiyiana.,,"['Soy fiyiano.', 'Soy fiyiana.']"
-I am French.,Soy francés.,Soy francésa.,,['Soy francés.']
-I am Micronesian.,Soy micronesio.,Soy micronesia.,,"['Soy micronésio.', 'Soy micronésia.']"
-I am Gabonese.,Soy gabonés.,Soy gabonésa.,,"['Soy gabonés.', 'Soy gabonésa.']"
+I am French.,Soy francés.,Soy francésa.,,"['Soy francés.', 'Soy francesa.']"
+I am Micronesian.,Soy micronesio.,Soy micronesia.,,"['Soy micronesio.', 'Soy micronesia.']"
+I am Gabonese.,Soy gabonés.,Soy gabonésa.,,"['Soy gabonés.', 'Soy gabonesa.']"
 I am British.,Soy británico.,Soy británia.,,"['Soy británico.', 'Soy británica.']"
 I am Georgian.,Soy georgiano.,Soy georgiana.,,"['Soy georgiano.', 'Soy georgiana.']"
-I am Ghanaian.,Soy ghanés.,Soy ghanésa.,,['Soy ghanés.']
+I am Ghanaian.,Soy ghanés.,Soy ghanésa.,,"['Soy ghanés.', 'Soy ghanesa.']"
 I am Guinean.,Soy guineano.,Soy guineana.,,"['Soy guineano.', 'Soy guineana.']"
 I am Gambian.,Soy gambiano.,Soy gambiana.,,"['Soy gambiano.', 'Soy gambiana.']"
-I am Guinea-Bissauan.,,,Soy de Guinea-Bisáu.,['Soy de Guinea-Bisáu.']
-I am Equatorial Guinean.,Soy ecuatoguineano.,Soy ecuatoguineana.,,['Soy guineano ecuatoguineano.']
-I am Greek.,Soy griego.,Soy griega.,,['Soy griego.']
+I am Guinea-Bissauan.,,,Soy de Guinea-Bisáu.,"['Soy de Guinea-Bisáu.', 'Soy guineano.', 'Soy guineana de Guinea-Bisáu.']"
+I am Equatorial Guinean.,Soy ecuatoguineano.,Soy ecuatoguineana.,,"['Soy ecuatoguineano.', 'Soy ecuatoguineana.']"
+I am Greek.,Soy griego.,Soy griega.,,"['Soy griego.', 'Soy griega.']"
 I am Grenadian.,Soy granadino.,Soy granadina.,,"['Soy granadino.', 'Soy granadina.']"
 I am Guatemalan.,Soy guatemalteco.,Soy guatemalteca.,,"['Soy guatemalteco.', 'Soy guatemalteca.']"
-I am Guyanese.,Soy guyanés.,Soy guyanésa.,,['Soy guyanés.']
+I am Guyanese.,Soy guyanés.,Soy guyanésa.,,"['Soy guyanés.', 'Soy guyanesa.']"
 I am Honduran.,Soy hondureño.,Soy hondureña.,,"['Soy hondureño.', 'Soy hondureña.']"
 I am Croatian.,,,Soy croata.,['Soy croata.']
 I am Haitian.,Soy haitiano.,Soy haitiana.,,"['Soy haitiano.', 'Soy haitiana.']"
 I am Hungarian.,Soy húngaro.,Soy húngara.,,"['Soy húngaro.', 'Soy húngara.']"
 I am Indonesian.,Soy indonesio.,Soy indonesia.,,"['Soy indonesio.', 'Soy indonesia.']"
-I am Indian.,Soy indio.,Soy india.,,['Soy indio.']
-I am Irish.,Soy irlandés.,Soy irlandésa.,,['Soy irlandés.']
+I am Indian.,Soy indio.,Soy india.,,"['Soy indio.', 'Soy india.']"
+I am Irish.,Soy irlandés.,Soy irlandésa.,,"['Soy irlandés.', 'Soy irlandesa.']"
 I am Iranian.,,,Soy iraní.,['Soy iraní.']
 I am Iraqi.,,,Soy iraquí.,['Soy iraquí.']
-I am Icelander.,Soy islandés.,Soy islandésa.,,['Soy islandés.']
+I am Icelander.,Soy islandés.,Soy islandésa.,,"['Soy islandés.', 'Soy islandesa.']"
 I am Israeli.,,,Soy israelí.,['Soy israelí.']
-I am Italian.,Soy italiano.,Soy italiana.,,['Soy italiano.']
+I am Italian.,Soy italiano.,Soy italiana.,,"['Soy italiano.', 'Soy italiana.']"
 I am Jamaican.,Soy jamaicano.,Soy jamaicana.,,"['Soy jamaicano.', 'Soy jamaicana.']"
-I am Jordanian.,Soy jordano.,Soy jordana.,,['Soy jordano.']
-I am Japanese.,Soy japonés.,Soy japonésa.,,['Soy japonés.']
+I am Jordanian.,Soy jordano.,Soy jordana.,,"['Soy jordano.', 'Soy jordana.']"
+I am Japanese.,Soy japonés.,Soy japonésa.,,"['Soy japonés.', 'Soy japonesa.']"
 I am Kazakhstani.,Soy kazajo.,Soy kazaja.,,"['Soy kazajo.', 'Soy kazaja.']"
-I am Kenyan.,,,Soy keniata.,['Soy keniano.']
+I am Kenyan.,,,Soy keniata.,"['Soy keniano.', 'Soy keniana.']"
 I am Kirghiz.,,,Soy kirguís.,['Soy kirguís.']
 I am Cambodian.,Soy camboyano.,Soy camboyana.,,"['Soy camboyano.', 'Soy camboyana.']"
-I am I-Kiribati.,Soy kiribatiano.,Soy kiribatiana.,,['Soy I-Kiribati.']
-I am Kittitian or Nevisian.,Soy sancristobaleño.,Soy sancristobaleña.,,['Soy de San Cristóbal y Nieves.']
+I am I-Kiribati.,Soy kiribatiano.,Soy kiribatiana.,,"['Soy kiribatiano.', 'Soy kiribatiana.']"
+I am Kittitian or Nevisian.,Soy sancristobaleño.,Soy sancristobaleña.,,['San Cristóbal y Nieves.']
 I am South Korean.,,,Soy de la República de Corea.,"['Soy surcoreano.', 'Soy surcoreana.']"
 I am Kuwaiti.,,,Soy kuwaití.,['Soy kuwaití.']
-I am Laotian.,Soy laosiano.,Soy laosiana.,,['Soy laosiano.']
-I am Lebanese.,Soy libanés.,Soy libanésa.,,['Soy libanés.']
+I am Laotian.,Soy laosiano.,Soy laosiana.,,"['Soy laosiano.', 'Soy laosiana.']"
+I am Lebanese.,Soy libanés.,Soy libanésa.,,"['Soy libanés.', 'Soy libanesa.']"
 I am Liberian.,Soy liberiano.,Soy liberiana.,,"['Soy liberiano.', 'Soy liberiana.']"
 I am Libyan.,Soy libio.,Soy libia.,,"['Soy libio.', 'Soy libia.']"
-I am Saint Lucian.,,,Soy santalucense.,"['Soy sanluqueño.', 'Soy sanluqueña.']"
-I am Liechtensteiner.,Soy liechtensteiniano.,Soy liechtensteiniana.,,['Soy liechtensteiniano.']
-I am Sri Lankan.,Soy esrilanqués.,Soy esrilanquésa.,,['Soy de Sri Lanka.']
-I am Mosotho.,,,Soy lesotense.,"['Soy mosoteano.', 'Soy mosoteana.']"
+I am Saint Lucian.,,,Soy santalucense.,"['Soy santalucense.', 'Soy de Santa Lucía.']"
+I am Liechtensteiner.,Soy liechtensteiniano.,Soy liechtensteiniana.,,"['Soy liechtensteiniano.', 'Soy liechtensteiniana.']"
+I am Sri Lankan.,Soy esrilanqués.,Soy esrilanquésa.,,"['Soy de Sri Lanka.', 'Soy esrilanqués.', 'Soy esrilanquesa.']"
+I am Mosotho.,,,Soy lesotense.,['Soy mosotho.']
 I am Lithuanian.,Soy lituano.,Soy lituana.,,"['Soy lituano.', 'Soy lituana.']"
-I am Luxembourger.,Soy luxemburgués.,Soy luxemburguésa.,,['Soy luxemburgués.']
-I am Latvian.,Soy letón.,,,['Soy letón.']
+I am Luxembourger.,Soy luxemburgués.,Soy luxemburguésa.,,"['Soy luxemburgués.', 'Soy luxemburguesa.']"
+I am Latvian.,Soy letón.,,,"['Soy letón.', 'Soy letona.']"
 I am Moroccan.,,,Soy marroquí.,['Soy marroquí.']
 I am Monegasque.,Soy monegasco.,Soy monegasca.,,"['Soy monegasco.', 'Soy monegasca.']"
-I am Moldovan.,Soy moldavo.,Soy moldava.,,['Soy moldavo.']
+I am Moldovan.,Soy moldavo.,Soy moldava.,,"['Soy moldavo.', 'Soy moldava.']"
 I am Malagasy.,,,Soy malgache.,['Soy malgache.']
 I am Maldivan.,Soy maldivo.,Soy maldiva.,,"['Soy maldivo.', 'Soy maldiva.']"
 I am Mexican.,Soy mexicano.,Soy mexicana.,,"['Soy mexicano.', 'Soy mexicana.']"
-I am Marshallese.,Soy marshalés.,Soy marshalésa.,,"['Soy marsellés.', 'Soy marsellésa.']"
+I am Marshallese.,Soy marshalés.,Soy marshalésa.,,"['Soy marshalés.', 'Soy marshalesa.']"
 I am Macedonian.,Soy macedonio.,Soy macedonia.,,"['Soy macedonio.', 'Soy macedonia.']"
-I am Malian.,,,Soy malí.,['Soy de Malí.']
-I am Maltese.,Soy maltés.,Soy maltésa.,,['Soy maltés.']
+I am Malian.,,,Soy malí.,['Soy maliense.']
+I am Maltese.,Soy maltés.,Soy maltésa.,,"['Soy maltés.', 'Soy maltesa.']"
 I am Burmese.,,,Soy de Myanmar.,"['Soy birmano.', 'Soy birmana.']"
 I am Montenegrin.,Soy montenegrino.,Soy montenegrina.,,"['Soy montenegrino.', 'Soy montenegrina.']"
-I am Mongolian.,Soy mongol.,,,['Soy mongol.']
+I am Mongolian.,Soy mongol.,,,"['Soy mongol.', 'Soy mongola.']"
 I am Mozambican.,Soy mozambiqueño.,Soy mozambiqueña.,,"['Soy mozambiqueño.', 'Soy mozambiqueña.']"
 I am Mauritanian.,Soy mauritano.,Soy mauritana.,,"['Soy mauritano.', 'Soy mauritana.']"
 I am Mauritian.,Soy mauriciano.,Soy mauriciana.,,"['Soy mauriciano.', 'Soy mauriciana.']"
@@ -127,68 +127,68 @@ I am Namibian.,Soy namibio.,Soy namibia.,,"['Soy namibio.', 'Soy namibia.']"
 I am Nigerien.,Soy nigerino.,Soy nigerina.,,"['Soy nigerino.', 'Soy nigerina.']"
 I am Nigerian.,Soy nigeriano.,Soy nigeriana.,,"['Soy nigeriano.', 'Soy nigeriana.']"
 I am Nicaraguan.,,,Soy nicaragüense.,['Soy nicaragüense.']
-I am Dutch.,Soy neerlandés.,Soy neerlandésa.,,['Soy holandés.']
+I am Dutch.,Soy neerlandés.,Soy neerlandésa.,,"['Soy holandés.', 'Soy holandesa.']"
 I am Norwegian.,Soy noruego.,Soy noruega.,,"['Soy noruego.', 'Soy noruega.']"
-I am Nepalese.,Soy nepalés.,Soy nepalésa.,,['Soy nepalés.']
+I am Nepalese.,Soy nepalés.,Soy nepalésa.,,"['Soy nepalés.', 'Soy nepalesa.']"
 I am Nauruan.,Soy nauruano.,Soy nauruana.,,"['Soy nauruano.', 'Soy nauruana.']"
-I am New Zealander.,Soy neozelandés.,Soy neozelandésa.,,['Soy neozelandés.']
+I am New Zealander.,Soy neozelandés.,Soy neozelandésa.,,"['Soy neozelandés.', 'Soy neozelandesa.']"
 I am Omani.,,,Soy omaní.,['Soy omaní.']
 I am Pakistani.,,,Soy pakistaní.,['Soy pakistaní.']
 I am Panamanian.,Soy panameño.,Soy panameña.,,"['Soy panameño.', 'Soy panameña.']"
 I am Peruvian.,Soy peruano.,Soy peruana.,,"['Soy peruano.', 'Soy peruana.']"
 I am Filipino.,Soy filipino.,Soy filipina.,,"['Soy filipino.', 'Soy filipina.']"
 I am Palauan.,Soy palauano.,Soy palauana.,,"['Soy palauano.', 'Soy palauana.']"
-I am Papua New Guinean.,,,Soy papú.,['Soy de Papúa Nueva Guinea.']
+I am Papua New Guinean.,,,Soy papú.,"['Soy de Papúa Nueva Guinea.', 'Soy papú.']"
 I am Polish.,Soy polaco.,Soy polaca.,,"['Soy polaco.', 'Soy polaca.']"
 I am North Korean.,,,Soy de la República Popular Democrática de Corea.,"['Soy norcoreano.', 'Soy norcoreana.']"
-I am Portuguese.,Soy portugués.,Soy portuguésa.,,['Soy portugués.']
+I am Portuguese.,Soy portugués.,Soy portuguésa.,,"['Soy portugués.', 'Soy portuguesa.']"
 I am Paraguayan.,Soy paraguayo.,Soy paraguaya.,,"['Soy paraguayo.', 'Soy paraguaya.']"
-I am Qatari.,,,Soy qatarí.,['Soy qatarí.']
+I am Qatari.,,,Soy qatarí.,['Soy catarí.']
 I am Romanian.,Soy rumano.,Soy rumana.,,"['Soy rumano.', 'Soy rumana.']"
 I am Russian.,Soy ruso.,Soy rusa.,,"['Soy ruso.', 'Soy rusa.']"
-I am Rwandan.,Soy ruandés.,Soy ruandésa.,,['Soy ruandés.']
-I am Saudi Arabian.,,,Soy saudí.,['Soy saudí.']
-I am Sudanese.,,,Soy sudanés.,"['Soy sudanés.', 'Soy sudanésa.']"
-I am Senegalese.,Soy senegalés.,Soy senegalésa.,,['Soy senegalés.']
-I am Singaporean.,,,Soy singapurense.,['Soy singapurense.']
-I am Solomon Islander.,,,Soy salomonense.,['Soy de las Islas Salomón.']
-I am Sierra Leonean.,Soy sierraleonés.,Soy sierraleonésa.,,"['Soy sierraleonés.', 'Soy sierraleonésa.']"
+I am Rwandan.,Soy ruandés.,Soy ruandésa.,,"['Soy ruandés.', 'Soy ruandesa.']"
+I am Saudi Arabian.,,,Soy saudí.,"['Soy saudí.', 'Soy de Arabia Saudita.']"
+I am Sudanese.,,,Soy sudanés.,"['Soy sudanés.', 'Soy sudanesa.']"
+I am Senegalese.,Soy senegalés.,Soy senegalésa.,,"['Soy senegalés.', 'Soy senegalesa.']"
+I am Singaporean.,,,Soy singapurense.,"['Soy singapurense.', 'Soy de Singapur.']"
+I am Solomon Islander.,,,Soy salomonense.,"['Soy de las Islas Salomón.', 'Soy salomonense.']"
+I am Sierra Leonean.,Soy sierraleonés.,Soy sierraleonésa.,,"['Soy de Sierra Leona.', 'Soy sierraleonés.', 'Soy sierraleonesa.']"
 I am Salvadoran.,Soy salvadoreño.,Soy salvadorena.,,"['Soy salvadoreño.', 'Soy salvadoreña.']"
 I am Sammarinese.,,,Soy sanmarinense.,['Soy sanmarinense.']
 I am Somali.,,,Soy somalí.,['Soy somalí.']
 I am Serbian.,Soy serbio.,Soy serbia.,,"['Soy serbio.', 'Soy serbia.']"
-I am South Sudanese.,,,Soy sursudanés.,['Soy sudanés del Sur.']
-I am Sao Tomean.,,,Soy santotomense.,['Soy de Santo Tomé.']
-I am Surinamer.,Soy surinamés.,Soy surinamésa.,,['Soy surinamés.']
+I am South Sudanese.,,,Soy sursudanés.,"['Soy sursudanés.', 'Soy sursudanesa.']"
+I am Sao Tomean.,,,Soy santotomense.,['Soy santotomense.']
+I am Surinamer.,Soy surinamés.,Soy surinamésa.,,"['Soy surinamés.', 'Soy surinamesa.']"
 I am Slovak.,Soy eslovaco.,Soy eslovaca.,,"['Soy eslovaco.', 'Soy eslovaca.']"
 I am Slovene.,Soy esloveno.,Soy eslovena.,,"['Soy esloveno.', 'Soy eslovena.']"
 I am Swedish.,Soy sueco.,Soy sueca.,,"['Soy sueco.', 'Soy sueca.']"
-I am Swazi.,,,Soy esuatiní.,['Soy suazi.']
+I am Swazi.,,,Soy esuatiní.,"['Soy suazi.', 'Soy de Suazilandia.']"
 I am Seychellois.,,,Soy seychellense.,['Soy seychellense.']
-I am Syrian.,Soy sirio.,Soy siria.,,['Soy sirio.']
+I am Syrian.,Soy sirio.,Soy siria.,,"['Soy sirio.', 'Soy siria.']"
 I am Chadian.,Soy chadiano.,Soy chadiana.,,"['Soy chadiano.', 'Soy chadiana.']"
-I am Togolese.,Soy togolés.,Soy togolésa.,,['Soy togolés.']
-I am Thai.,Soy tailandés.,Soy tailandésa.,,['Soy tailandés.']
+I am Togolese.,Soy togolés.,Soy togolésa.,,"['Soy togolés.', 'Soy togolesa.']"
+I am Thai.,Soy tailandés.,Soy tailandésa.,,"['Soy tailandés.', 'Soy tailandesa.']"
 I am Tadzhik.,Soy tayiko.,Soy tayika.,,['Soy tayiko.']
-I am Turkmen.,Soy turcomano.,Soy turcomana.,,['Soy turcomano.']
-I am East Timorese.,,,Soy timorense.,['Soy de Timor Oriental.']
+I am Turkmen.,Soy turcomano.,Soy turcomana.,,"['Soy turcomano.', 'Soy turcomana.']"
+I am East Timorese.,,,Soy timorense.,"['Soy de Tim.', 'Soy tim.']"
 I am Tongan.,Soy tongano.,Soy tongana.,,"['Soy tongano.', 'Soy tongana.']"
-I am Trinidadian.,,,Soy trinitense.,"['Soy trinitario.', 'Soy trinitaria.']"
+I am Trinidadian.,,,Soy trinitense.,"['Soy trinitense.', 'Soy de Trinidad.']"
 I am Tunisian.,Soy tunecino.,Soy tunecina.,,"['Soy tunecino.', 'Soy tunecina.']"
 I am Turkish.,Soy turco.,Soy turca.,,"['Soy turco.', 'Soy turca.']"
 I am Tuvaluan.,Soy tuvaluano.,Soy tuvaluana.,,"['Soy tuvaluano.', 'Soy tuvaluana.']"
 I am Tanzanian.,Soy tanzano.,Soy tanzaa.,,"['Soy tanzano.', 'Soy tanzana.']"
-I am Ugandan.,Soy ugandés.,Soy ugandésa.,,['Soy ugandés.']
+I am Ugandan.,Soy ugandés.,Soy ugandésa.,,"['Soy ugandés.', 'Soy ugandesa.']"
 I am Ukrainian.,Soy ucraniano.,Soy ucraniana.,,"['Soy ucraniano.', 'Soy ucraniana.']"
 I am Uruguayan.,Soy uruguayo.,Soy uruguaya.,,"['Soy uruguayo.', 'Soy uruguaya.']"
-I am American.,Soy americano,Soy americana.,Soy estadounidense.,['Soy estadounidense.']
+I am American.,Soy americano,Soy americana.,Soy estadounidense.,"['Soy estadounidense.', 'Soy americano.', 'Soy feminine).']"
 I am Uzbekistani.,Soy uzbeko.,Soy uzbeka.,,"['Soy uzbeko.', 'Soy uzbeka.']"
 I am Saint Vincentian.,Soy sanvicentino.,Soy sanvicentina.,,"['Soy sanvicentino.', 'Soy sanvicentina.']"
 I am Venezuelan.,Soy venezolano.,Soy venezolana.,,"['Soy venezolano.', 'Soy venezolana.']"
 I am Vietnamese.,,,Soy vietnamita.,['Soy vietnamita.']
-I am Ni-Vanuatu.,,,Soy vanuatuense.,['Soy ni-vanuatuense.']
+I am Ni-Vanuatu.,,,Soy vanuatuense.,['Soy ni-vanuatu.']
 I am Samoan.,Soy samoano.,Soy samoana.,,"['Soy samoano.', 'Soy samoana.']"
 I am Yemeni.,,,Soy yemení.,['Soy yemení.']
 I am South African.,Soy sudafricano.,Soy sudafricana.,,"['Soy sudafricano.', 'Soy sudafricana.']"
 I am Zambian.,Soy zambiano.,Soy zambiana.,,"['Soy zambiano.', 'Soy zambiana.']"
-I am Zimbabwean.,,,Soy zimbabuense.,['Soy zimbabuense.']
+I am Zimbabwean.,,,Soy zimbabuense.,"['Soy zimbabuense.', 'Soy de Zimbabue.']"

@@ -1,0 +1,194 @@
+eng,fra_m,fra_f,fra_n,extracted,is_m,is_f,is_n
+I am Afghan.,Je suis Afghan.,Je suis Afghane.,,['Je suis Afghan.'],True,False,False
+I am Angolan.,Je suis Angolais.,Je suis Angolaise.,,['Je suis Angolais.'],True,False,False
+I am Albanian.,Je suis Albanais.,Je suis Albanaise.,,['Je suis Albanais.'],True,False,False
+I am Andorran.,Je suis Andorran.,Je suis Andorrane.,,['Je suis Andorran.'],True,False,False
+I am Emirati.,Je suis Emirien.,Je suis Emirienne.,,['Je suis Émirati.'],False,False,False
+I am Argentine.,Je suis Argentin.,Je suis Argentine.,,"['Je suis argentin.', 'Je suis argentine.']",True,True,False
+I am Armenian.,Je suis Arménien.,Je suis Arménienne.,,"['Je suis arménien.', 'Je suis arménienne.']",True,True,False
+I am Antiguan.,,,Je suis Antiguaise.,['Je suis Antiguais.'],False,False,False
+I am Australian.,Je suis Australien.,Je suis Australienne.,,['Je suis Australien.'],True,False,False
+I am Austrian.,Je suis Autrichien.,Je suis Autrichienne.,,['Je suis autrichien.'],True,False,False
+I am Azerbaijani.,Je suis Azerbaïdjanais.,Je suis Azerbaïdjanaise.,,['Je suis Azerbaïdjanais.'],True,False,False
+I am Burundian.,Je suis Burundais.,Je suis Burundaise.,,['Je suis Burundais.'],True,False,False
+I am Belgian.,,,Je suis Belge.,['Je suis Belge.'],False,False,True
+I am Beninese.,Je suis Béninois.,Je suis Béninoise.,,['Je suis Béninois.'],True,False,False
+I am Burkinabe.,Je suis Burkinabé.,Je suis Burkinabée.,,['Je suis Burkinabè.'],False,False,False
+I am Bangladeshi.,Je suis Bangladais.,Je suis Bangladaise.,,['Je suis Bangladais.'],True,False,False
+I am Bulgarian.,,,Je suis Bulgare.,['Je suis Bulgare.'],False,False,True
+I am Bahraini.,Je suis Bahreïnien.,Je suis Bahreïnienne.,,['Je suis Bahreïni.'],False,False,False
+I am Bahamian.,Je suis Bahamien.,Je suis Bahamienne.,,"['Je suis Bahaméen', 'Je suis Bahaméenne']",False,False,False
+I am Bosnian.,Je suis Bosnien.,Je suis Bosnienne.,,"['Je suis Bosnien.', 'Je suis Bosnienne.']",True,True,False
+I am Belarusian.,,,Je suis Biélorusse.,['Je suis Biélorusse.'],False,False,True
+I am Belizean.,Je suis Bélizien.,Je suis Bélizienne.,,"['Je suis Bélizien', 'Je suis Bélizienne']",False,False,False
+I am Bolivian.,Je suis Bolivien.,Je suis Bolivienne.,,"['Je suis bolivien.', 'Je suis bolivienne.']",True,True,False
+I am Brazilian.,Je suis Brésilien.,Je suis Brésilienne.,,"['Je suis brésilien.', 'Je suis brésilienne.']",True,True,False
+I am Barbadian.,Je suis Barbadien.,Je suis Barbadienne.,,"['Je suis Barbadien.', 'Je suis Barbadienne.']",True,True,False
+I am Bruneian.,Je suis Brunéien.,Je suis Brunéienne.,,"['Je suis Brunéien.', 'Je suis Brunéienne.']",True,True,False
+I am Bhutanese.,Je suis Bhoutanais.,Je suis Bhoutanaise.,,"['Je suis Bhoutanais.', 'Je suis Bhoutanaise.']",True,True,False
+I am Motswana.,Je suis Botswanais.,Je suis Botswanaise.,,['Je suis Motswana'],False,False,False
+I am Central African.,Je suis Centrafricain.,Je suis Centrafricaine.,,"['Je suis centrafricain.', 'Je suis centrafricaine.']",True,True,False
+I am Canadian.,Je suis Canadien.,Je suis Canadienne.,,['Je suis Canadien.'],True,False,False
+I am Swiss.,,,Je suis Suisse.,['Je suis Suisse.'],False,False,True
+I am Chilean.,Je suis Chilien.,Je suis Chilienne.,,"['Je suis chilien.', 'Je suis chilienne.']",True,True,False
+I am Chinese.,Je suis Chinois.,Je suis Chinoise.,,['Je suis chinois.'],True,False,False
+I am Ivorian.,Je suis Ivoirien.,Je suis Ivoirienne.,,['Je suis ivoirien.'],True,False,False
+I am Cameroonian.,Je suis Camerounais.,Je suis Camerounaise.,,['Je suis Camerounais.'],True,False,False
+I am Congolese.,Je suis Congolais.,Je suis Congolaise.,,"['Je suis Congolais.', 'Je suis Congolaise.']",True,True,False
+I am Congolese.,Je suis Congolais.,Je suis Congolaise.,,['Je suis Congolais.'],True,False,False
+I am Colombian.,Je suis Colombien.,Je suis Colombienne.,,['Je suis colombien.'],True,False,False
+I am Comoran.,Je suis Comorien.,Je suis Comorienne.,,"['Je suis comorien.', 'Je suis comorienne.']",True,True,False
+I am Cape Verdian.,Je suis Cap-verdien.,Je suis Cap-verdienne.,,['Je suis Cap-Verdien.'],True,False,False
+I am Costa Rican.,Je suis Costaricain.,Je suis Costaricaine.,,"['Je suis costaricien.', 'Je suis costaricienne.']",False,False,False
+I am Cuban.,Je suis Cubain.,Je suis Cubaine.,,['Je suis Cubain.'],True,False,False
+I am Cypriot.,,,Je suis Chypriote.,['Je suis Chypriote.'],False,False,True
+I am Czech.,,,Je suis Tchèque.,['Je suis tchèque.'],False,False,True
+I am German.,Je suis Allemand.,Je suis Allemande.,,['Je suis allemand.'],True,False,False
+I am Djibouti.,Je suis Djiboutien.,Je suis Djiboutienne.,,['Je suis Djibouti.'],False,False,False
+I am Dominican.,Je suis Dominiquais.,Je suis Dominiquaise.,,['Je suis dominicain.'],False,False,False
+I am Danish.,Je suis Danois.,Je suis Danoise.,,['Je suis Danois.'],True,False,False
+I am Dominican.,Je suis Dominicain.,Je suis Dominicaine.,,['Je suis dominicain.'],True,False,False
+I am Algerian.,Je suis Algérien.,Je suis Algérienne.,,['Je suis Algérien.'],True,False,False
+I am Ecuadorean.,Je suis Équatorien.,Je suis Équatorienne.,,['Je suis Équatorien.'],True,False,False
+I am Egyptian.,Je suis Égyptien.,Je suis Égyptienne.,,"['Je suis égyptien.', 'Je suis égyptienne.']",True,True,False
+I am Eritrean.,Je suis Érythréen.,Je suis Érythréenne.,,['Je suis Érythréen.'],True,False,False
+I am Spanish.,Je suis Espagnol.,Je suis Espagnole.,,['Je suis espagnol.'],True,False,False
+I am Estonian.,Je suis Estonien.,Je suis Estonienne.,,['Je suis Estonien.'],True,False,False
+I am Ethiopian.,Je suis Éthiopien.,Je suis Éthiopienne.,,"['Je suis Ethiopien.', 'Je suis Ethiopienne.']",False,False,False
+I am Finnish.,Je suis Finlandais.,Je suis Finlandaise.,,['Je suis finlandais.'],True,False,False
+I am Fijian.,Je suis Fidjien.,Je suis Fidjienne.,,"['Je suis Fidjien.', 'Je suis Fidjienne.']",True,True,False
+I am French.,Je suis Français.,Je suis Française.,,['Je suis français.'],True,False,False
+I am Micronesian.,Je suis Micronésien.,Je suis Micronésienne.,,"['Je suis Micronésien.', 'Je suis Micronésienne.']",True,True,False
+I am Gabonese.,Je suis Gabonais.,Je suis Gabonaise.,,['Je suis Gabonais.'],True,False,False
+I am British.,,,Je suis Britannique.,['Je suis britannique.'],False,False,True
+I am Georgian.,Je suis Géorgien.,Je suis Géorgienne.,,['Je suis géorgien.'],True,False,False
+I am Ghanaian.,Je suis Ghanéen.,Je suis Ghanéenne.,,['Je suis Ghanéen.'],True,False,False
+I am Guinean.,Je suis Guinéen.,Je suis Guinéenne.,,['Je suis Guinéen.'],True,False,False
+I am Gambian.,Je suis Gambien.,Je suis Gambienne.,,['Je suis Gambien.'],True,False,False
+I am Guinea-Bissauan.,Je suis Bissau-Guinéen.,Je suis Bissau-Guinéenne.,,['Je suis guinéen-bissauan.'],False,False,False
+I am Equatorial Guinean.,Je suis Équato-guinéen.,Je suis Équato-guinéenne.,,"['Je suis équato-guinéen.', 'Je suis équato-guinéenne.']",True,True,False
+I am Greek.,Je suis Grec.,Je suis Grecque.,,['Je suis grec.'],True,False,False
+I am Grenadian.,Je suis Grenadien.,Je suis Grenadienne.,,"['Je suis Grenadien.', 'Je suis Grenadienne.']",True,True,False
+I am Guatemalan.,,,Je suis Guatémaltèque.,['Je suis Guatémaltèque.'],False,False,True
+I am Guyanese.,Je suis Guyanien.,Je suis Guyanienne.,,['Je suis guyanais.'],False,False,False
+I am Honduran.,Je suis Hondurien.,Je suis Hondurienne.,,"['Je suis hondurien.', 'Je suis hondurienne.']",True,True,False
+I am Croatian.,,,Je suis Croate.,['Je suis Croate.'],False,False,True
+I am Haitian.,Je suis Haïtien.,Je suis Haïtienne.,,['Je suis haïtien.'],True,False,False
+I am Hungarian.,Je suis Hongrois.,Je suis Hongroise.,,['Je suis hongrois.'],True,False,False
+I am Indonesian.,Je suis Indonésien.,Je suis Indonésienne.,,['Je suis Indonésien.'],True,False,False
+I am Indian.,Je suis Indien.,Je suis Indienne.,,['Je suis indien.'],True,False,False
+I am Irish.,Je suis Irlandais.,Je suis Irlandaise.,,['Je suis irlandais.'],True,False,False
+I am Iranian.,Je suis Iranien.,Je suis Iranienne.,,['Je suis Iranien.'],True,False,False
+I am Iraqi.,Je suis Irakien.,Je suis Irakienne.,,"['Je suis irakien.', 'Je suis irakienne.']",True,True,False
+I am Icelander.,Je suis Islandais.,Je suis Islandaise.,,['Je suis Islandais.'],True,False,False
+I am Israeli.,Je suis Israélien.,Je suis Israélienne.,,['Je suis Israélien.'],True,False,False
+I am Italian.,Je suis Italien.,Je suis Italienne.,,['Je suis italien.'],True,False,False
+I am Jamaican.,Je suis Jamaïcain.,Je suis Jamaïcaine.,,['Je suis Jamaïcain.'],True,False,False
+I am Jordanian.,Je suis Jordanien.,Je suis Jordanienne.,,['Je suis jordanien.'],True,False,False
+I am Japanese.,Je suis Japonais.,Je suis Japonaise.,,['Je suis japonais.'],True,False,False
+I am Kazakhstani.,Je suis Kazakhstanais.,Je suis Kazakhstanaise.,,['Je suis Kazakhstani'],False,False,False
+I am Kenyan.,Je suis Kényan.,Je suis Kényane.,,['Je suis Kenyan.'],False,False,False
+I am Kirghiz.,,,Je suis Kirghize.,['Je suis Kirghize.'],False,False,True
+I am Cambodian.,Je suis Cambodgien.,Je suis Cambodgienne.,,['Je suis cambodgien.'],True,False,False
+I am I-Kiribati.,Je suis Kiribatien.,Je suis Kiribatienne.,,['Je suis I-Kiribati'],False,False,False
+I am Kittitian or Nevisian.,Je suis Kittitien-et-nevicien.,Je suis Kittitienne-et-nevicienne.,,['Je suis Kittitien ou Névisien.'],False,False,False
+I am South Korean.,Je suis Sud-coréen.,Je suis Sud-coréenne.,,['Je suis sud-coréen.'],True,False,False
+I am Kuwaiti.,Je suis Koweïtien.,Je suis Koweïtienne.,,['Je suis Koweïtien.'],True,False,False
+I am Laotian.,Je suis Laotien.,Je suis Laotienne.,,"['Je suis Laotien.', 'Je suis Laotienne.']",True,True,False
+I am Lebanese.,Je suis Libanais.,Je suis Libanaise.,,['Je suis libanais.'],True,False,False
+I am Liberian.,Je suis Libérien.,Je suis Libérienne.,,['Je suis Libérien.'],True,False,False
+I am Libyan.,Je suis Libyen.,Je suis Libyenne.,,['Je suis Libyen.'],True,False,False
+I am Saint Lucian.,Je suis Saint-Lucien.,Je suis Saint-Lucienne.,,['Je suis Saint-Lucien.'],True,False,False
+I am Liechtensteiner.,Je suis Liechtensteinois.,Je suis Liechtensteinoise.,,['Je suis Liechtensteinois.'],True,False,False
+I am Sri Lankan.,Je suis Sri-lankais.,Je suis Sri-lankaise.,,['Je suis Sri Lankais.'],False,False,False
+I am Mosotho.,Je suis Lésothien.,Je suis Lésothienne.,,['Je suis Mosotho.'],False,False,False
+I am Lithuanian.,Je suis Lituanien.,Je suis Lituanienne.,,['Je suis lituanien.'],True,False,False
+I am Luxembourger.,Je suis Luxembourgeois.,Je suis Luxembourgeoise.,,['Je suis Luxembourgeois.'],True,False,False
+I am Latvian.,Je suis Letton.,Je suis Lettone.,,['Je suis letton.'],True,False,False
+I am Moroccan.,Je suis Marocain.,Je suis Marocaine.,,['Je suis Marocain.'],True,False,False
+I am Monegasque.,,,Je suis Monégasque.,['Je suis Monégasque.'],False,False,True
+I am Moldovan.,,,Je suis Moldave.,['Je suis moldave.'],False,False,True
+I am Malagasy.,,,Je suis Malgache.,['Je suis Malgache.'],False,False,True
+I am Maldivan.,Je suis Maldivien.,Je suis Maldivienne.,,['Je suis Maldivien.'],True,False,False
+I am Mexican.,Je suis Mexicain.,Je suis Mexicaine.,,['Je suis mexicain.'],True,False,False
+I am Marshallese.,Je suis Marshallais.,Je suis Marshallaise.,,"['Je suis Marshallais', 'Je suis Marshallaise']",False,False,False
+I am Macedonian.,Je suis Macédonien.,Je suis Macédonienne.,,"['Je suis Macédonien.', 'Je suis Macédonienne.']",True,True,False
+I am Malian.,Je suis Malien.,Je suis Malienne.,,['Je suis malien.'],True,False,False
+I am Maltese.,Je suis Maltais.,Je suis Maltaise.,,['Je suis Maltais.'],True,False,False
+I am Burmese.,Je suis Birman.,Je suis Birmane.,,['Je suis birman.'],True,False,False
+I am Montenegrin.,Je suis Monténégrin.,Je suis Monténégrine.,,['Je suis Monténégrin.'],True,False,False
+I am Mongolian.,Je suis Mongol.,Je suis Mongole.,,['Je suis mongol.'],True,False,False
+I am Mozambican.,Je suis Mozambicain.,Je suis Mozambicaine.,,['Je suis mozambicain.'],True,False,False
+I am Mauritanian.,Je suis Mauritanien.,Je suis Mauritanienne.,,['Je suis mauritanien.'],True,False,False
+I am Mauritian.,Je suis Mauricien.,Je suis Mauricienne.,,"['Je suis Mauricien.', 'Je suis Mauricienne.']",True,True,False
+I am Malawian.,Je suis Malawien.,Je suis Malawienne.,,['Je suis Malawien.'],True,False,False
+I am Malaysian.,Je suis Malaisien.,Je suis Malaisienne.,,['Je suis Malaisien.'],True,False,False
+I am Namibian.,Je suis Namibien.,Je suis Namibienne.,,"['Je suis namibien.', 'Je suis namibienne.']",True,True,False
+I am Nigerien.,Je suis Nigérien.,Je suis Nigérienne.,,['Je suis Nigérien.'],True,False,False
+I am Nigerian.,Je suis Nigérian.,Je suis Nigériane.,,['Je suis Nigérian.'],True,False,False
+I am Nicaraguan.,Je suis Nicaraguayen.,Je suis Nicaraguayenne.,,"['Je suis nicaraguayen.', 'Je suis nicaraguayenne.']",True,True,False
+I am Dutch.,Je suis Néerlandais.,Je suis Néerlandaise.,,['Je suis néerlandais.'],True,False,False
+I am Norwegian.,Je suis Norvégien.,Je suis Norvégienne.,,['Je suis norvégien.'],True,False,False
+I am Nepalese.,Je suis Népalais.,Je suis Népalaise.,,['Je suis Népalais.'],True,False,False
+I am Nauruan.,Je suis Nauruan.,Je suis Nauruane.,,['Je suis Nauruan.'],True,False,False
+I am New Zealander.,Je suis Neo-Zélandais.,Je suis Neo-Zélandaise.,,['Je suis Néo-Zélandais.'],False,False,False
+I am Omani.,Je suis Omanais.,Je suis Omanaise.,,['Je suis Omanais.'],True,False,False
+I am Pakistani.,Je suis Pakistanais.,Je suis Pakistanaise.,,['Je suis Pakistanais.'],True,False,False
+I am Panamanian.,Je suis Panaméen.,Je suis Panaméenne.,,"['Je suis Panaméen.', 'Je suis Panaméenne.']",True,True,False
+I am Peruvian.,Je suis Péruvien.,Je suis Péruvienne.,,['Je suis péruvien.'],True,False,False
+I am Filipino.,Je suis Philippin.,Je suis Philippine.,,['Je suis Philippin.'],True,False,False
+I am Palauan.,Je suis Paluan.,Je suis Paluane.,,['Je suis Paluan.'],True,False,False
+I am Papua New Guinean.,Je suis Papouasien.,Je suis Papouasienne.,,['Je suis papouan néo-guinéen.'],False,False,False
+I am Polish.,Je suis Polonais.,Je suis Polonaise.,,['Je suis polonais.'],True,False,False
+I am North Korean.,Je suis Nord-coréen.,Je suis Nord-coréenne.,,"['Je suis nord-coréen.', 'Je suis nord-coréenne.']",True,True,False
+I am Portuguese.,Je suis Portugais.,Je suis Portugaise.,,['Je suis portugais.'],True,False,False
+I am Paraguayan.,Je suis Paraguayen.,Je suis Paraguayenne.,,"['Je suis Paraguayen.', 'Je suis Paraguayenne.']",True,True,False
+I am Qatari.,Je suis Qatarien.,Je suis Qatarienne.,,['Je suis qatarien.'],True,False,False
+I am Romanian.,Je suis Roumain.,Je suis Roumaine.,,['Je suis roumain.'],True,False,False
+I am Russian.,,,Je suis Russe.,['Je suis russe.'],False,False,True
+I am Rwandan.,Je suis Rwandais.,Je suis Rwandaise.,,['Je suis Rwandais.'],True,False,False
+I am Saudi Arabian.,Je suis Saoudien.,Je suis Saoudienne.,,"['Je suis Saoudien.', 'Je suis Saoudienne.']",True,True,False
+I am Sudanese.,Je suis Soudanais.,Je suis Soudanaise.,,['Je suis soudanais.'],True,False,False
+I am Senegalese.,Je suis Sénégalais.,Je suis Sénégalaise.,,['Je suis sénégalais.'],True,False,False
+I am Singaporean.,Je suis Singapourien.,Je suis Singapourienne.,,"['Je suis Singapourien.', 'Je suis Singapourienne.']",True,True,False
+I am Solomon Islander.,Je suis Salomonien.,Je suis Salomonienne.,,['Je suis originaire des îles Salomon.'],False,False,False
+I am Sierra Leonean.,Je suis Sierra-leonais.,Je suis Sierra-leonaise.,,"['Je suis Sierra-Léonais.', 'Je suis Sierra-Léonaise.']",False,False,False
+I am Salvadoran.,Je suis Salvadorien.,Je suis Salvadorienne.,,['Je suis Salvadorien.'],True,False,False
+I am Sammarinese.,Je suis Saint-Marinais.,Je suis Saint-Marinaise.,,['Je suis Saint-Marinais.'],True,False,False
+I am Somali.,Je suis Somalien.,Je suis Somalienne.,,['Je suis Somali.'],False,False,False
+I am Serbian.,,,Je suis Serbe.,['Je suis serbe.'],False,False,True
+I am South Sudanese.,Je suis Sud-Soudanais.,Je suis Sud-Soudanaise.,,"['Je suis sud-soudanais.', 'Je suis sud-soudanaise.']",True,True,False
+I am Sao Tomean.,Je suis Santoméen.,Je suis Santoméenne.,,['Je suis São Toméen.'],False,False,False
+I am Surinamer.,Je suis Surinamais.,Je suis Surinamaise.,,"['Je suis Surinamien.', 'Je suis Surinamienne.']",False,False,False
+I am Slovak.,,,Je suis Slovaque.,['Je suis Slovaque.'],False,False,True
+I am Slovene.,,,Je suis Slovène.,['Je suis slovène.'],False,False,True
+I am Swedish.,Je suis Suédois.,Je suis Suédoise.,,['Je suis suédois.'],True,False,False
+I am Swazi.,,,Je suis Swazie.,['Je suis Swazi.'],False,False,False
+I am Seychellois.,Je suis Seychellois.,Je suis Seychelloise.,,['Je suis Seychellois.'],True,False,False
+I am Syrian.,Je suis Syrien.,Je suis Syrienne.,,['Je suis syrien.'],True,False,False
+I am Chadian.,Je suis Tchadien.,Je suis Tchadienne.,,['Je suis tchadien.'],True,False,False
+I am Togolese.,Je suis Togolais.,Je suis Togolaise.,,['Je suis togolais.'],True,False,False
+I am Thai.,Je suis Thaïlandais.,Je suis Thaïlandaise.,,['Je suis thaïlandais.'],True,False,False
+I am Tadzhik.,,,Je suis Tadjike.,['Je suis Tadjik.'],False,False,False
+I am Turkmen.,,,Je suis Turkmène.,['Je suis Turkmène.'],False,False,True
+I am East Timorese.,Je suis Est-timorais.,Je suis Est-timoraise.,,['Je suis Timorais.'],False,False,False
+I am Tongan.,Je suis Tonguien.,Je suis Tonguienne.,,"['Je suis Tongien.', 'Je suis Tongienne.']",False,False,False
+I am Trinidadian.,Je suis Trinidadien.,Je suis Trinidadienne.,,"['Je suis Trinidadien.', 'Je suis Trinidadienne.']",True,True,False
+I am Tunisian.,Je suis Tunisien.,Je suis Tunisienne.,,['Je suis Tunisien.'],True,False,False
+I am Turkish.,Je suis Turc.,Je suis Turque.,,['Je suis turc.'],True,False,False
+I am Tuvaluan.,Je suis Tuvaluan.,Je suis Tuvaluane.,,['Je suis Tuvaluan.'],True,False,False
+I am Tanzanian.,Je suis Tanzanien.,Je suis Tanzanienne.,,"['Je suis Tanzanien.', 'Je suis Tanzanienne.']",True,True,False
+I am Ugandan.,Je suis Ougandais.,Je suis Ougandaise.,,['Je suis ougandais.'],True,False,False
+I am Ukrainian.,Je suis Ukrainien.,Je suis Ukrainienne.,,['Je suis Ukrainien.'],True,False,False
+I am Uruguayan.,Je suis Uruguayen.,Je suis Uruguayenne.,,['Je suis uruguayen.'],True,False,False
+I am American.,Je suis Américain.,Je suis Américaine.,,['Je suis américain.'],True,False,False
+I am Uzbekistani.,,,Je suis Ouzbèke.,['Je suis Ouzbek.'],False,False,False
+I am Saint Vincentian.,Je suis Vincentais.,Je suis Vincentaise.,,['Je suis Saint-Vincentais.'],False,False,False
+I am Venezuelan.,Je suis Vénézuélien.,Je suis Vénézuélienne.,,['Je suis Vénézuélien.'],True,False,False
+I am Vietnamese.,Je suis Vietnamien.,Je suis Vietnamienne.,,['Je suis vietnamien.'],True,False,False
+I am Ni-Vanuatu.,Je suis Vanuatuan.,Je suis Vanuatuane.,,['Je suis Ni-Vanuatu.'],False,False,False
+I am Samoan.,Je suis Samoan.,Je suis Samoane.,,['Je suis Samoan.'],True,False,False
+I am Yemeni.,,,Je suis Yéménite.,['Je suis yéménite.'],False,False,True
+I am South African.,Je suis Sud-africain.,Je suis Sud-africaine.,,['Je suis sud-africain.'],True,False,False
+I am Zambian.,Je suis Zambien.,Je suis Zambienne.,,['Je suis Zambien.'],True,False,False
+I am Zimbabwean.,Je suis Zimbabwéen.,Je suis Zimbabwéenne.,,['Je suis zimbabwéen.'],True,False,False
